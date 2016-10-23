@@ -1,0 +1,57 @@
+SOURCES and TEXT FORMATTING:
+
+mlpfim: used a PHP program I found here:
+https://github.com/juju2143/mlp-transcript-search
+
+which downloads from the mlp wiki:
+http://mlp.wikia.com/
+
+Added automated processing for cleanup via a custom-written shell script
+
+
+mlpaf: downloaded raw transcripts from
+http://www.kittieoflife.com/transcripts.htm
+
+these were very messy, so:
+ I first edited them by hand to get them into a consistant state
+ then I wrote a python program to process the text into dialog and speaker files for analysis
+
+
+CLEANUP STEPS:
+removed all "stage instructions" (text in parenthesis or brackets)
+removed all emphasis markers (either ''word'' or /word/)
+
+Format for processing:
+dialog: broke into single line per utterance for analysis
+speakers: wrote single line per file
+
+
+ANALYSIS:
+I analyzed for the following feature sets:
+Number of Words
+Normalized Number of Tokens
+Number of Sentences
+Ave Len of Sentences
+Ave Len of Words
+POS tags (using the upenn tag set)
+
+
+
+
+
+FINDINGS:
+several of the nominal types were higher for MLPFIM
+num tokens and average sentence length are higher for MLPFIM
+more interjections in MLPFIM
+more adjectives in MLPFIM
+more speakers for MLPFIM
+
+several of the verbal types are higher for MLPAF
+personal pronouns are higher for MLPAF
+more commas (more complexity?) in MLPAF
+significantly higher modals in MLPAF
+
+
+ERRORS:
+I took out all of the songs
+I think that the higher value of ":" for MLPFIM is an artifact of translator habit/preference
