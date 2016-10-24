@@ -1,8 +1,8 @@
 import glob
 import nltk
 from nltk import word_tokenize
-from textStats import TextStats
-from statWriter import StatWriter
+from textStats import TextStats    # weirdly, pycharm thinks this is an error
+from statWriter import StatWriter  # weirdly, pycharm thinks this is an error
 from nltk.tokenize import sent_tokenize
 
 #
@@ -25,6 +25,7 @@ group_stats = dict()
 
 stat_writer = StatWriter(output_file, diff_file, file_stats, group_stats)
 
+
 #
 # add a tuple in the form (word:pos-tag)
 #
@@ -46,6 +47,7 @@ def add_tuple(tuple, file_name, group_name):
         group_stats[group_name] = TextStats(group_name)
     group_stats[group_name].add_tuple(tuple)
 
+
 #
 # add a sentence
 #
@@ -63,6 +65,7 @@ def add_sentence(sentence, file_name, group_name):
 
 def analyze_file(file_name, group_name):
     input_file = open(file_name)
+    line_num = 1
     for line in input_file:
         sentences = sent_tokenize(line)
         tokens = word_tokenize(line)
@@ -72,8 +75,9 @@ def analyze_file(file_name, group_name):
 
         for sentence in sentences:
             add_sentence(sentence, file_name, group_name)
-
+        print(file_name + " - line: " + str(line_num))
         print(str(pos_tags))
+        line_num += 1
 
 
 def get_group_name_from_file_name(file_name):
@@ -89,6 +93,7 @@ def add_speakers(file_name, group_name):
         if speaker != "and":
             group_stats[group_name].add_speaker(speaker)
             file_stats[file_name].add_speaker(speaker)
+
 
 #
 # START HERE

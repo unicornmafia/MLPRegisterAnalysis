@@ -1,0 +1,1137 @@
+Analyzing: mlpfim-s1e10-dialog-SwarmOfTheCentury.txt
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 1
+[('La', 'NNP'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), ('.', '.'), ('Thank', 'NNP'), ('you', 'PRP'), ('little', 'JJ'), ('squirrel', 'JJ'), (',', ','), ('but', 'CC'), ('remember', 'VB'), (':', ':'), ('these', 'DT'), ('flowers', 'NNS'), ('are', 'VBP'), ('for', 'IN'), ('Princess', 'NNP'), ('Celestia', 'NNP'), ('.', '.'), ('Only', 'RB'), ('the', 'DT'), ('prettiest', 'JJS'), ('ones', 'NNS'), ('will', 'MD'), ('do', 'VB'), ('.', '.'), ('La', 'NNP'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), (',', ','), ('la', 'NN'), ('la', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 2
+[('Gah', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 3
+[('Hello', 'NNP'), (',', ','), ('little', 'JJ'), ('guy', 'NN'), ('.', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('never', 'RB'), ('seen', 'VBN'), ('anything', 'NN'), ('like', 'IN'), ('you', 'PRP'), ('before', 'IN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 4
+[('Oh', 'UH'), (',', ','), ('are', 'VBP'), ('you', 'PRP'), ('hungry', 'JJ'), ('?', '.'), ('Here', 'RB'), ('you', 'PRP'), ('go', 'VBP'), ('.', '.'), ('I', 'PRP'), ('guess', 'VBP'), ('you', 'PRP'), ('were', 'VBD'), ('hungry', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 5
+[('You', 'PRP'), ("'re", 'VBP'), ('the', 'DT'), ('cutest', 'JJS'), ('thing', 'NN'), ('ever', 'RB'), ('!', '.'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('wait', 'VB'), ('to', 'TO'), ('show', 'VB'), ('you', 'PRP'), ('to', 'TO'), ('my', 'PRP$'), ('friends', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 6
+[('Oh', 'UH'), ('!', '.'), ('Hurry', 'NNP'), ('up', 'RB'), (',', ','), ('Spike', 'RB'), ('!', '.'), ('This', 'DT'), ('place', 'NN'), ('is', 'VBZ'), ("n't", 'RB'), ('gon', 'VB'), ('na', 'TO'), ('clean', 'VB'), ('itself', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 7
+[('It', 'PRP'), ('also', 'RB'), ('did', 'VBD'), ("n't", 'RB'), ('mess', 'VB'), ('itself', 'PRP'), ('up', 'RP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 8
+[('Princess', 'NNP'), ('Celestia', 'NNP'), ('will', 'MD'), ('be', 'VB'), ('here', 'RB'), ('tomorrow', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 9
+[('I', 'PRP'), ('thought', 'VBD'), ('this', 'DT'), ('was', 'VBD'), ('just', 'RB'), ('an', 'DT'), ('unofficial', 'JJ'), ('casual', 'JJ'), ('visit', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 10
+[('There', 'EX'), ("'s", 'VBZ'), ('nothing', 'NN'), ('casual', 'JJ'), ('about', 'IN'), ('a', 'DT'), ('visit', 'NN'), ('from', 'IN'), ('royalty', 'NN'), ('.', '.'), ('I', 'PRP'), ('want', 'VBP'), ('this', 'DT'), ('place', 'NN'), ('to', 'TO'), ('be', 'VB'), ('spotless', 'JJ'), (',', ','), ('and', 'CC'), ('you', 'PRP'), ("'ve", 'VBP'), ('barely', 'RB'), ('made', 'VBN'), ('a', 'DT'), ('dent', 'NN'), ('in', 'IN'), ('the', 'DT'), ('clutter', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 11
+[('Maybe', 'RB'), ('you', 'PRP'), ('should', 'MD'), (',', ','), ('ugh', 'RB'), (',', ','), ('start', 'VB'), ('reading', 'VBG'), ('them', 'PRP'), ('one', 'CD'), ('at', 'IN'), ('a', 'DT'), ('time', 'NN'), ('--', ':'), ('whoa', 'JJ'), ('ho', 'NN'), ('!', '.'), ('Aw', 'UH'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 12
+[('Everything', 'NN'), ("'s", 'POS'), ('got', 'VBD'), ('to', 'TO'), ('be', 'VB'), ('perfect', 'JJ'), ('.', '.'), ('No', 'DT'), ('time', 'NN'), ('for', 'IN'), ('fooling', 'VBG'), ('around', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 13
+[('You', 'PRP'), ('know', 'VBP'), (',', ','), ('this', 'DT'), ('would', 'MD'), ('be', 'VB'), ('an', 'DT'), ('awful', 'JJ'), ('lot', 'NN'), ('easier', 'JJR'), ('if', 'IN'), ('there', 'EX'), ('were', 'VBD'), ("n't", 'RB'), ('two', 'CD'), ('of', 'IN'), ('us', 'PRP'), ('here', 'RB'), ('getting', 'VBG'), ('under', 'IN'), ('each', 'DT'), ('other', 'JJ'), ("'s", 'POS'), ('feet', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 14
+[('Great', 'NNP'), ('idea', 'NN'), ('.', '.'), ('You', 'PRP'), ('clean', 'VBP'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('go', 'VB'), ('see', 'VB'), ('how', 'WRB'), ('everyone', 'NN'), ('else', 'RB'), ("'s", 'POS'), ('preparations', 'NNS'), ('are', 'VBP'), ('coming', 'VBG'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 15
+[('Or', 'CC'), ('maybe', 'RB'), ('I', 'PRP'), ('should', 'MD'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 16
+[('What', 'WP'), ('happened', 'VBD'), ('to', 'TO'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('her', 'PRP$'), ('name', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 17
+[('We', 'PRP'), ('could', 'MD'), ("n't", 'RB'), ('fit', 'VB'), ('it', 'PRP'), ('all', 'DT'), ('in', 'IN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 18
+[('You', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('hang', 'VB'), ('a', 'DT'), ('banner', 'NN'), ('that', 'WDT'), ('says', 'VBZ'), ('``', '``'), ('Welcome', 'NNP'), ('Princess', 'NNP'), ('Celest', 'NNP'), ("''", "''"), ('.', '.'), ('Take', 'VB'), ('it', 'PRP'), ('down', 'RP'), ('and', 'CC'), ('try', 'VB'), ('again', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 19
+[('That', 'DT'), ('looks', 'VBZ'), ('perfect', 'JJ'), ('.', '.'), ('Keep', 'VB'), ('up', 'IN'), ('the', 'DT'), ('good', 'JJ'), ('work', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 20
+[('Hello', 'NNP'), (',', ','), ('Mr.', 'NNP'), ('and', 'CC'), ('Mrs.', 'NNP'), ('Cake', 'NNP'), ('.', '.'), ('How', 'NNP'), ("'s", 'POS'), ('the', 'DT'), ('banquet', 'NN'), ('coming', 'VBG'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 21
+[('Uh', 'NN'), ('...', ':'), ('it', 'PRP'), ('would', 'MD'), ('be', 'VB'), ('coming', 'VBG'), ('a', 'DT'), ('little', 'JJ'), ('better', 'JJR'), ('if', 'IN'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 22
+[('Mmm', 'NNS'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 23
+[('Pinkie', 'NN'), ('!', '.'), ('What', 'WP'), ('are', 'VBP'), ('you', 'PRP'), ('doing', 'VBG'), ('?', '.'), ('Those', 'DT'), ('sweets', 'NNS'), ('are', 'VBP'), ('supposed', 'VBN'), ('to', 'TO'), ('be', 'VB'), ('for', 'IN'), ('the', 'DT'), ('princess', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 24
+[('I', 'PRP'), ('know', 'VBP'), ('.', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('why', 'WRB'), ('I', 'PRP'), ("'m", 'VBP'), ('tasting', 'VBG'), ('them', 'PRP'), ('.', '.'), ('Somepony', 'NNP'), ('needs', 'VBZ'), ('to', 'TO'), ('make', 'VB'), ('sure', 'JJ'), ('that', 'IN'), ('everything', 'NN'), ('is', 'VBZ'), ('tasty', 'JJ'), ('enough', 'RB'), ('to', 'TO'), ('touch', 'VB'), ('the', 'DT'), ('royal', 'NN'), ('tongue', 'NN'), (',', ','), ('and', 'CC'), ('I', 'PRP'), (',', ','), ('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('declare', 'NN'), ('that', 'IN'), ('these', 'DT'), ('treats', 'NNS'), ('are', 'VBP'), ('fit', 'JJ'), ('for', 'IN'), ('a', 'DT'), ('king', 'NN'), (',', ','), ('or', 'CC'), ('a', 'DT'), ('queen', 'JJ'), (',', ','), ('or', 'CC'), ('a', 'DT'), ('princess', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 25
+[('Twilight', 'NNP'), (',', ','), ('Pinkie', 'NNP'), (',', ','), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('believe', 'VB'), ('...', ':'), ('oh', 'UH'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('sorry', 'JJ'), ('.', '.'), ('Uh', 'NNP'), (',', ','), ('am', 'VBP'), ('I', 'PRP'), ('interrupting', 'VBG'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 26
+[('No', 'DT'), (',', ','), ('not', 'RB'), ('at', 'IN'), ('all', 'DT'), ('.', '.'), ('Come', 'NNP'), ('on', 'IN'), ('in', 'IN'), ('and', 'CC'), ('make', 'VB'), ('yourself', 'PRP'), ('at', 'IN'), ('home', 'NN'), ('.', '.'), ('What', 'WP'), ("'s", 'VBZ'), ('going', 'VBG'), ('on', 'IN'), (',', ','), ('Fluttershy', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 27
+[('You', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('believe', 'VB'), ('what', 'WP'), ('I', 'PRP'), ('found', 'VBD'), ('at', 'IN'), ('the', 'DT'), ('edge', 'NN'), ('of', 'IN'), ('the', 'DT'), ('Everfree', 'NNP'), ('Forest', 'NNP'), ('.', '.'), ('Come', 'VB'), ('on', 'IN'), ('out', 'RP'), (',', ','), ('little', 'JJ'), ('guy', 'NN'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('okay', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 28
+[('Three', 'CD'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 29
+[('They', 'PRP'), ("'re", 'VBP'), ('amazing', 'VBG'), ('.', '.'), ('What', 'WP'), ('are', 'VBP'), ('they', 'PRP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 30
+[('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('sure', 'JJ'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('also', 'RB'), ('not', 'RB'), ('sure', 'JJ'), ('where', 'WRB'), ('these', 'DT'), ('other', 'JJ'), ('two', 'CD'), ('came', 'VBD'), ('from', 'IN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 31
+[('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('one', 'CD'), ('off', 'IN'), ('your', 'PRP$'), ('hooves', 'NNS'), ('.', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('never', 'RB'), ('seen', 'VBN'), ('anything', 'NN'), ('so', 'RB'), ('...', ':'), ('adorable', 'JJ'), ('.', '.'), ('Besides', 'IN'), (',', ','), ('it', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('nice', 'JJ'), ('to', 'TO'), ('have', 'VB'), ('a', 'DT'), ('companion', 'NN'), ('for', 'IN'), ('Spike', 'NNP'), ('so', 'IN'), ('he', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('bother', 'VB'), ('me', 'PRP'), ('so', 'RB'), ('much', 'JJ'), ('while', 'IN'), ('I', 'PRP'), ("'m", 'VBP'), ('studying', 'VBG'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 32
+[('Pinkie', 'NNP'), (',', ','), ('do', 'VBP'), ('you', 'PRP'), ('want', 'VB'), ('the', 'DT'), ('other', 'JJ'), ('one', 'CD'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 33
+[('Ugh', 'NN'), ('!', '.'), ('A', 'DT'), ('parasprite', 'NN'), ('?', '.'), ('Are', 'NNP'), ('you', 'PRP'), ('kidding', 'VBG'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 34
+[('Ugh', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 35
+[('A', 'DT'), ('para-what', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 36
+[('How', 'WRB'), ('could', 'MD'), ('you', 'PRP'), ('not', 'RB'), ('like', 'IN'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 37
+[('Ugh', 'NNP'), ('.', '.'), ('Now', 'RB'), ('I', 'PRP'), ('got', 'VBD'), ('ta', 'RB'), ('go', 'VB'), ('find', 'VB'), ('a', 'DT'), ('trombone', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 38
+[('A', 'DT'), ('what', 'WP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 39
+[('A', 'DT'), ('trombone', 'NN'), (',', ','), ('you', 'PRP'), ('know', 'VBP'), (':', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 40
+[('Ahhh', 'NNP'), (',', ','), ('typical', 'JJ'), ('Pinkie', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 41
+[('Stand', 'NNP'), ('still', 'RB'), (',', ','), ('Rainbow', 'NNP'), ('Dash', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 42
+[('Ugh', 'NNP'), (',', ','), ('I', 'PRP'), ('caaa', 'VBP'), ("n't", 'RB'), (',', ','), ('I', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('flyyy', 'VB'), ('!', '.'), ('This', 'DT'), ('is', 'VBZ'), ('waaay', 'JJ'), ('too', 'RB'), ('boring', 'VBG'), ('for', 'IN'), ('me', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 43
+[('Do', 'VBP'), ('you', 'PRP'), ('want', 'VB'), ('to', 'TO'), ('look', 'VB'), ('nice', 'JJ'), ('for', 'IN'), ('Princess', 'NNP'), ('Celestia', 'NNP'), ('or', 'CC'), ('not', 'RB'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 44
+[('Wow', 'NNP'), ('.', '.'), ('Rarity', 'NNP'), (',', ','), ('those', 'DT'), ('outfits', 'NNS'), ('are', 'VBP'), ('gorgeous', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 45
+[('Mmhmm', 'NNP'), ('.', '.'), ('Thank', 'NNP'), ('you', 'PRP'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('Nice', 'NNP'), ('to', 'TO'), ('know', 'VB'), ('someone', 'NN'), ('appreciates', 'NNS'), ('my', 'PRP$'), ('talents', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 46
+[('Ugh', 'NNP'), (',', ','), ('sooo', 'NN'), ('boooring', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 47
+[('Huh', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 48
+[('What', 'WP'), ("'s", 'VBZ'), ('that', 'DT'), ('sound', 'NN'), (',', ','), ('Twilight', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 49
+[('Wow', 'NNP'), (',', ','), ('what', 'WP'), ('are', 'VBP'), ('they', 'PRP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 50
+[('The', 'DT'), ('better', 'JJR'), ('question', 'NN'), ('is', 'VBZ'), (',', ','), ('where', 'WRB'), ('did', 'VBD'), ('they', 'PRP'), ('come', 'VB'), ('from', 'IN'), ('?', '.'), ('I', 'PRP'), ('only', 'RB'), ('had', 'VBD'), ('one', 'CD'), ('a', 'DT'), ('minute', 'NN'), ('ago', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 51
+[('Uh', 'NNP'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('one', 'CD'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 52
+[('Me', 'NNP'), ('too', 'RB'), (',', ','), ('oh', 'UH'), (',', ','), ('they', 'PRP'), ("'re", 'VBP'), ('perfect', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 53
+[('Does', 'NNP'), ('anypony', 'NN'), ('know', 'VB'), ('where', 'WRB'), ('I', 'PRP'), ('can', 'MD'), ('find', 'VB'), ('an', 'DT'), ('accordion', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 54
+[('Girls', 'NNS'), ('!', '.'), ('Hello', 'NN'), ('!', '.'), ('This', 'DT'), ('is', 'VBZ'), ('important', 'JJ'), ('.', '.'), ('Durgh', 'NN'), ('!', '.'), ('Thanks', 'VBZ'), ('a', 'DT'), ('lot', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 55
+[('The', 'DT'), ('decorations', 'NNS'), (',', ','), ('the', 'DT'), ('banquet', 'NN'), (',', ','), ('I', 'PRP'), ('really', 'RB'), ('hope', 'VBP'), ('everything', 'NN'), ('comes', 'VBZ'), ('together', 'RB'), ('in', 'IN'), ('time', 'NN'), ('for', 'IN'), ('tomorrow', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 56
+[('Oh', 'UH'), (',', ','), ('what', 'WP'), ("'s", 'VBZ'), ('there', 'RB'), ('to', 'TO'), ('worry', 'VB'), ('about', 'IN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 57
+[('Spike', 'NN'), ('!', '.'), ('Wake', 'VB'), ('up', 'RP'), ('!', '.'), ('What', 'WP'), ('happened', 'VBD'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 58
+[('Huh', 'NNP'), ('?', '.'), ('Whaaa', 'UH'), ('!', '.'), ('What', 'WP'), ("'s", 'VBZ'), ('going', 'VBG'), ('on', 'IN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 59
+[('Where', 'WRB'), ('did', 'VBD'), ('they', 'PRP'), ('come', 'VB'), ('from', 'IN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 60
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), ('.', '.'), ('The', 'DT'), ('little', 'JJ'), ('guy', 'NN'), ('got', 'VBD'), ('hungry', 'JJ'), ('in', 'IN'), ('the', 'DT'), ('night', 'NN'), (',', ','), ('so', 'IN'), ('I', 'PRP'), ('gave', 'VBD'), ('him', 'PRP'), ('a', 'DT'), ('snack', 'NN'), (',', ','), ('but', 'CC'), ('...', ':'), ('I', 'PRP'), ('have', 'VBP'), ('no', 'DT'), ('idea', 'NN'), ('where', 'WRB'), ('these', 'DT'), ('others', 'NNS'), ('came', 'VBD'), ('from', 'IN'), ('.', '.'), ('Oh', 'UH'), ('no', 'DT'), ('!', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('messing', 'VBG'), ('up', 'RP'), ('all', 'DT'), ('my', 'PRP$'), ('hard', 'JJ'), ('work', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 61
+[('The', 'DT'), ('princess', 'NN'), ('will', 'MD'), ('be', 'VB'), ('here', 'RB'), ('in', 'IN'), ('a', 'DT'), ('few', 'JJ'), ('hours', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 62
+[('Ugh', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 63
+[('Spike', 'NNP'), (',', ','), ('help', 'VB'), ('me', 'PRP'), ('round', 'VB'), ('up', 'IN'), ('these', 'DT'), ('little', 'JJ'), ('guys', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 64
+[('Ugh', 'NNP'), (',', ','), ('what', 'WP'), ('does', 'VBZ'), ('it', 'PRP'), ('look', 'VB'), ('like', 'IN'), ('I', 'PRP'), ("'m", 'VBP'), ('doin', 'VBG'), ("'", "''"), ('?', '.'), ('Ooow', 'NNP'), (',', ','), ('waaah', 'NN'), ('!', '.'), ("D'oh", 'NNP'), ('.', '.'), ('I', 'PRP'), ('know', 'VBP'), (',', ','), ('I', 'PRP'), ('know', 'VBP'), (',', ','), ('``', '``'), ('stop', 'VB'), ('fooling', 'NN'), ('around', 'IN'), ("''", "''"), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 65
+[('Huh', 'NNP'), ('?', '.'), ('Huh', 'NNP'), ('?', '.'), ('!', '.'), ('Waaa', 'UH'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 66
+[('Not', 'RB'), ('only', 'RB'), ('are', 'VBP'), ('you', 'PRP'), ('adorable', 'JJ'), (',', ','), ('but', 'CC'), ('you', 'PRP'), ("'re", 'VBP'), ('also', 'RB'), ('quite', 'RB'), ('useful', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 67
+[('Oh', 'UH'), ('!', '.'), ('Are', 'NNP'), ('you', 'PRP'), ('okay', 'IN'), ('?', '.'), ('Aaah', 'UH'), ('!', '.'), ('Eewww', 'NNP'), ('.', '.'), ('Aaah', 'NNP'), ('!', '.'), ('Gross', 'NNP'), ('gross', 'JJ'), ('gross', 'JJ'), ('!', '.'), ('No', 'DT'), ('creature', 'NN'), ('that', 'WDT'), ('behaves', 'VBZ'), ('so', 'RB'), ('revoltingly', 'RB'), ('is', 'VBZ'), ('allowed', 'VBN'), ('in', 'IN'), ('my', 'PRP$'), ('boutique', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 68
+[('Look', 'NNP'), ('Rarity', 'NNP'), (',', ','), ('Applejack', 'NNP'), ('loaned', 'VBD'), ('me', 'PRP'), ('a', 'DT'), ('harmonica', 'NN'), ('.', '.'), ('Is', 'VBZ'), ("n't", 'RB'), ('that', 'IN'), ('great', 'JJ'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 69
+[('And', 'CC'), ('not', 'RB'), ('a', 'DT'), ('moment', 'NN'), ('too', 'RB'), ('soon', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 70
+[('Ugh', 'NNP'), (',', ','), ('Pinkie', 'NNP'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('a', 'DT'), ('little', 'JJ'), ('busy', 'JJ'), ('right', 'RB'), ('now', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 71
+[('And', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('?', '.'), ('You', 'PRP'), ('know', 'VBP'), ('how', 'WRB'), ('many', 'JJ'), ('more', 'JJR'), ('instruments', 'NNS'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('find', 'VB'), ('?', '.'), ('A', 'DT'), ('lot', 'NN'), (',', ','), ('that', 'WDT'), ("'s", 'VBZ'), ('how', 'WRB'), ('many', 'JJ'), ('.', '.'), ('Now', 'RB'), ('if', 'IN'), ('we', 'PRP'), ('split', 'VBP'), ('the', 'DT'), ('list', 'NN'), ('between', 'IN'), ('us', 'PRP'), (',', ','), ('we', 'PRP'), ('might', 'MD'), ('just', 'RB'), ('make', 'VB'), ('it', 'PRP'), ('in', 'IN'), ('time', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 72
+[('Please', 'NNP'), (',', ','), ('Pinkie', 'NNP'), (',', ','), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('have', 'VB'), ('time', 'NN'), ('for', 'IN'), ('some', 'DT'), ('silly', 'JJ'), ('scavenger', 'NN'), ('hunt', 'NN'), ('.', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('a', 'DT'), ('real', 'JJ'), ('problem', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 73
+[('You', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('a', 'DT'), ('real', 'JJ'), ('problem', 'NN'), (',', ','), ('all', 'DT'), ('right', 'NN'), ('.', '.'), ('And', 'CC'), ('a', 'DT'), ('banjo', 'NN'), ('is', 'VBZ'), ('the', 'DT'), ('only', 'JJ'), ('answer', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 74
+[('I', 'PRP'), ('see', 'VBP'), ('we', 'PRP'), ("'re", 'VBP'), ('having', 'VBG'), ('the', 'DT'), ('same', 'JJ'), ('problem', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 75
+[('Ditto', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 76
+[('Fluttershy', 'NNP'), ('knows', 'VBZ'), ('everything', 'NN'), ('about', 'IN'), ('animals', 'NNS'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('sure', 'JJ'), ('she', 'PRP'), ('can', 'MD'), ('tell', 'VB'), ('us', 'PRP'), ('how', 'WRB'), ('to', 'TO'), ('stop', 'VB'), ('them', 'PRP'), ('from', 'IN'), ('multiplying', 'VBG'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 77
+[('...', ':'), ('or', 'CC'), ('not', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 78
+[('Ugh', 'NNP'), (',', ','), ('do', 'VBP'), ('something', 'NN'), ('Fluttershy', 'NNP'), (',', ','), ('ca', 'MD'), ("n't", 'RB'), ('you', 'PRP'), ('control', 'VB'), ('them', 'PRP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 79
+[('I', 'PRP'), ("'ve", 'VBP'), ('tried', 'VBN'), ('everything', 'NN'), ('I', 'PRP'), ('know', 'VBP'), (':', ':'), ('I', 'PRP'), ("'ve", 'VBP'), ('tried', 'VBN'), ('begging', 'NN'), (',', ','), ('and', 'CC'), ('pleading', 'NN'), (',', ','), ('and', 'CC'), ('beseeching', 'NN'), (',', ','), ('and', 'CC'), ('asking', 'VBG'), ('politely', 'RB'), ('and', 'CC'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 80
+[('Guh', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 81
+[('If', 'IN'), ('we', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('get', 'VB'), ('them', 'PRP'), ('under', 'IN'), ('control', 'NN'), ('before', 'IN'), ('the', 'DT'), ('princess', 'NN'), ('arrives', 'VBZ'), (',', ','), ('it', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('a', 'DT'), ('total', 'JJ'), ('disaster', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 82
+[('Ew', 'NN'), ('!', '.'), ('If', 'IN'), ('you', 'PRP'), ('ask', 'VBP'), ('me', 'PRP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('already', 'RB'), ('a', 'DT'), ('total', 'JJ'), ('disaster', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 83
+[('Here', 'RB'), ("'s", 'POS'), ('all', 'DT'), ('those', 'DT'), ('apples', 'NNS'), ('you', 'PRP'), ('wanted', 'VBD'), (',', ','), ('Fluttershy', 'NNP'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ('still', 'RB'), ('ca', 'MD'), ("n't", 'RB'), ('figure', 'VB'), ('why', 'WRB'), ("y'need", 'NN'), ('so', 'RB'), ('many', 'JJ'), ('.', '.'), ('Hey', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 84
+[('What', 'WP'), ('do', 'VBP'), ('we', 'PRP'), ('do', 'VB'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 85
+[('I', 'PRP'), ('got', 'VBD'), ('it', 'PRP'), ('!', '.'), ('Nopony', 'NNP'), ('can', 'MD'), ('herd', 'VB'), ('like', 'IN'), ('Applejack', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 86
+[('Yeah', 'UH'), ('!', '.'), ('We', 'PRP'), ('can', 'MD'), ('drive', 'VB'), ("'em", 'PRP'), ('back', 'RB'), ('into', 'IN'), ('the', 'DT'), ('forest', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 87
+[('I', 'PRP'), ("'ll", 'MD'), ('rastle', 'VB'), ("'em", 'PRP'), ('up', 'RP'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ('need', 'VBP'), ('everypony', 'NN'), ("'s", 'POS'), ('help', 'NN'), ('to', 'TO'), ('do', 'VB'), ('it', 'PRP'), ('.', '.'), ('Twilight', 'NNP'), (',', ','), ('you', 'PRP'), ('and', 'CC'), ('Rarity', 'NNP'), ('wait', 'VBP'), ('over', 'IN'), ('there', 'RB'), ('.', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('herd', 'VB'), ('the', 'DT'), ('little', 'JJ'), ('critters', 'NNS'), ('straight', 'VBD'), ('at', 'IN'), ('ya', 'NNS'), ('like', 'IN'), ('a', 'DT'), ('funnel', 'NN'), ('.', '.'), ('Rainbow', 'NNP'), ('Dash', 'NNP'), (',', ','), ('you', 'PRP'), ('and', 'CC'), ('Fluttershy', 'NNP'), ('stay', 'VBP'), ('on', 'IN'), ('top', 'NN'), ('of', 'IN'), ("'em", 'NNP'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('let', 'VB'), ("'em", 'PRP'), ('fly', 'VB'), ('away', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 88
+[('Aye', 'NNP'), ('aye', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 89
+[('Yeeeeeee-haw', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 90
+[('Alright', 'NNP'), ("y'all", 'NN'), (',', ','), ('here', 'RB'), ('goes', 'VBZ'), ('nothin', 'JJ'), ("'", "''"), ('.', '.'), ('Look', 'VB'), ('out', 'RP'), ('Rarity', 'NNP'), (',', ','), ('that', 'IN'), ('one', 'CD'), ("'s", 'POS'), ('fixin', 'NN'), ("'", "''"), ('to', 'TO'), ('get', 'VB'), ('away', 'RB'), ('.', '.'), ('Keep', 'VB'), ('a', 'DT'), ('lead', 'NN'), ('on', 'IN'), ("'em", 'PRP'), (',', ','), ('Rainbow', 'NNP'), ('Dash', 'NNP'), ('!', '.'), ('Hold', 'NNP'), ('on', 'IN'), ('girls', 'NNS'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('almost', 'RB'), ('there', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 91
+[('Pinkie', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 92
+[('Twilight', 'NNP'), (',', ','), ('we', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('have', 'VB'), ('much', 'JJ'), ('time', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 93
+[('You', 'PRP'), ("'re", 'VBP'), ('telling', 'VBG'), ('me', 'PRP'), ('.', '.'), ('The', 'DT'), ('princess', 'NN'), ('could', 'MD'), ('arrive', 'VB'), ('at', 'IN'), ('any', 'DT'), ('moment', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 94
+[('Exactly', 'RB'), ('.', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('why', 'WRB'), ('I', 'PRP'), ('need', 'VBP'), ('you', 'PRP'), ('gals', 'NNS'), ('to', 'TO'), ('drop', 'VB'), ('what', 'WP'), ('you', 'PRP'), ("'re", 'VBP'), ('doing', 'VBG'), ('and', 'CC'), ('help', 'VB'), ('me', 'PRP'), ('find', 'VB'), ('some', 'DT'), ('maracas', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 95
+[('Maracas', 'NNP'), ('?', '.'), ('Pinkie', 'NNP'), (',', ','), ('we', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('much', 'RB'), ('bigger', 'JJR'), ('problems', 'NNS'), ('than', 'IN'), ('missing', 'VBG'), ('maracas', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 96
+[('You', 'PRP'), ("'re", 'VBP'), ('right', 'JJ'), ('!', '.'), ('Getting', 'VBG'), ('a', 'DT'), ('tuba', 'NN'), ('has', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('our', 'PRP$'), ('number', 'NN'), ('one', 'CD'), ('goal', 'NN'), ('.', '.'), ('Follow', 'IN'), ('me', 'PRP'), ('.', '.'), ('I', 'PRP'), ('said', 'VBD'), (',', ','), ('follow', 'VB'), ('me', 'PRP'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 97
+[('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('you', 'PRP'), ('are', 'VBP'), ('so', 'RB'), ('random', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 98
+[('And', 'CC'), ('you', 'PRP'), ('are', 'VBP'), ('all', 'DT'), ('so', 'RB'), ('stubborn', 'JJ'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 99
+[('Forget', 'NNP'), ('her', 'PRP$'), ('ladies', 'NNS'), ('.', '.'), ('Focus', 'NNP'), ('.', '.'), ('Head', 'NNP'), ("'em", 'POS'), ('up', 'RP'), ('and', 'CC'), ('move', 'VB'), ("'em", 'PRP'), ('out', 'RP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 100
+[('All', 'DT'), ('right', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 101
+[('Ouch', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 102
+[('We', 'PRP'), ('did', 'VBD'), ('it', 'PRP'), ('.', '.'), ('Nice', 'NNP'), ('work', 'NN'), (',', ','), ('Applejack', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 103
+[('Could', 'MD'), ("n't", 'RB'), ("a'done", 'VB'), ('it', 'PRP'), ('without', 'IN'), ("y'all", 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 104
+[('Now', 'RB'), ('let', 'VBP'), ("'s", 'POS'), ('get', 'VB'), ('back', 'RB'), ('and', 'CC'), ('clean', 'VB'), ('up', 'RP'), ('the', 'DT'), ('mess', 'NN'), ('they', 'PRP'), ('made', 'VBD'), ('before', 'IN'), ('the', 'DT'), ('princess', 'NN'), ('arrives', 'VBZ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 105
+[('Okay', 'NNP'), (',', ','), ('everyone', 'NN'), ('knows', 'VBZ'), ('what', 'WP'), ('to', 'TO'), ('do', 'VB'), (',', ','), ('right', 'VB'), ('?', '.'), ('We', 'PRP'), ('got', 'VBD'), ('ta', 'JJ'), ('work', 'NN'), ('extra', 'RB'), ('hard', 'JJ'), ('to', 'TO'), ('make', 'VB'), ('up', 'RP'), ('for', 'IN'), ('lost', 'VBN'), ('time', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 106
+[('Where', 'WRB'), ('did', 'VBD'), ('they', 'PRP'), ('come', 'VB'), ('from', 'IN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 107
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ('may', 'MD'), ('have', 'VB'), ('kept', 'VBN'), ('just', 'RB'), ('one', 'CD'), ('.', '.'), ('Heh', 'NNP'), ('.', '.'), ('I', 'PRP'), ('could', 'MD'), ("n't", 'RB'), ('help', 'VB'), ('myself', 'PRP'), ('.', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('just', 'RB'), ('so', 'RB'), ('cute', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 108
+[('We', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('have', 'VB'), ('time', 'NN'), ('to', 'TO'), ('keep', 'VB'), ('rounding', 'VBG'), ('up', 'RP'), ('these', 'DT'), ('things', 'NNS'), ('.', '.'), ('What', 'WP'), ('do', 'VBP'), ('we', 'PRP'), ('do', 'VB'), ('now', 'RB'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 109
+[('We', 'PRP'), ('call', 'VBP'), ('in', 'IN'), ('the', 'DT'), ('weather', 'NN'), ('patrol', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 110
+[('Time', 'NN'), ('to', 'TO'), ('take', 'VB'), ('out', 'RP'), ('the', 'DT'), ('adorable', 'JJ'), ('trash', 'NN'), ('.', '.'), ('YAAAAAA', 'UH'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 111
+[('Way', 'NN'), ('to', 'TO'), ('go', 'VB'), (',', ','), ('Rainbow', 'NNP'), ('Dash', 'NNP'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 112
+[('Looks', 'NNS'), ('like', 'IN'), ('our', 'PRP$'), ('problems', 'NNS'), ('are', 'VBP'), ('solved', 'VBN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 113
+[('They', 'PRP'), ('will', 'MD'), ('be', 'VB'), ('with', 'IN'), ('these', 'DT'), ('cymbals', 'NNS'), ('.', '.'), ('Hey', 'NNP'), ('!', '.'), ('Give', 'VB'), ('me', 'PRP'), ('those', 'DT'), ('back', 'RP'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 114
+[('Whoa', 'NNP'), ('.', '.'), ('Yaa', 'NN'), ('!', '.'), ('Yow', 'UH'), ('!', '.'), ('Whoa', 'UH'), ('!', '.'), ('Wow', 'UH'), ('!', '.'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('hold', 'VB'), ('it', 'PRP'), ('!', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('breaking', 'VBG'), ('up', 'RP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 115
+[('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('what', 'WP'), ('have', 'VBP'), ('you', 'PRP'), ('done', 'VBN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 116
+[('I', 'PRP'), ("'ve", 'VBP'), ('lost', 'VBN'), ('a', 'DT'), ('brand', 'NN'), ('new', 'JJ'), ('pair', 'NN'), ('of', 'IN'), ('cymbals', 'NNS'), (',', ','), ('that', 'DT'), ("'s", 'VBZ'), ('what', 'WP'), ('I', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 117
+[('Will', 'MD'), ('you', 'PRP'), ('forget', 'VB'), ('about', 'IN'), ('your', 'PRP$'), ('silly', 'JJ'), ('instruments', 'NNS'), ('for', 'IN'), ('one', 'CD'), ('second', 'NN'), ('?', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('ruining', 'VBG'), ('our', 'PRP$'), ('efforts', 'NNS'), ('to', 'TO'), ('save', 'VB'), ('Ponyville', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 118
+[('Me', 'NNP'), ('?', '.'), ('Ruin', 'NNP'), ('?', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('the', 'DT'), ('ruiner', 'NN'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('the', 'DT'), ('ruin-ee', 'NN'), ('!', '.'), ('Or', 'CC'), ('is', 'VBZ'), ('it', 'PRP'), ('ruiness', 'RB'), ('?', '.'), ('Ruinette', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 119
+[('Come', 'NNP'), ('on', 'IN'), ('girls', 'NNS'), (',', ','), ('there', 'EX'), ("'s", 'VBZ'), ('no', 'DT'), ('reasoning', 'VBG'), ('with', 'IN'), ('that', 'DT'), ('one', 'NN'), ('.', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('few', 'JJ'), ('apples', 'NNS'), ('short', 'RB'), ('of', 'IN'), ('a', 'DT'), ('bushel', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 120
+[('Hey', 'NN'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('trying', 'VBG'), ('to', 'TO'), ('tell', 'VB'), ('you', 'PRP'), ('all', 'PDT'), ('that', 'IN'), ('the', 'DT'), ('ruining', 'NN'), ('is', 'VBZ'), ('on', 'IN'), ('the', 'DT'), ('other', 'JJ'), ('hoof', 'NN'), ('.', '.'), ('If', 'IN'), ('you', 'PRP'), ("'d", 'MD'), ('just', 'RB'), ('slow', 'VB'), ('down', 'RP'), ('and', 'CC'), ('listen', 'VB'), ('to', 'TO'), ('me', 'PRP'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 121
+[('Aah', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 122
+[('What', 'WP'), ('do', 'VBP'), ('we', 'PRP'), ('do', 'VB'), ('?', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('eating', 'VBG'), ('all', 'PDT'), ('the', 'DT'), ('food', 'NN'), ('in', 'IN'), ('town', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 123
+[('My', 'PRP$'), ('apples', 'NNS'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 124
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'NNS'), ('do', 'VBP'), ('something', 'NN'), ('.', '.'), ('I', 'PRP'), ('got', 'VBD'), ('it', 'PRP'), ('!', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('cast', 'VB'), ('a', 'DT'), ('spell', 'NN'), ('to', 'TO'), ('make', 'VB'), ('them', 'PRP'), ('stop', 'VB'), ('eating', 'VBG'), ('all', 'PDT'), ('the', 'DT'), ('food', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 125
+[('Look', 'NNP'), (',', ','), ('tambourines', 'VBZ'), ('!', '.'), ('If', 'IN'), ('you', 'PRP'), ('could', 'MD'), ('all', 'VB'), ('just', 'RB'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 126
+[('Heh', 'NNP'), ('.', '.'), ('Hey', 'NNP'), (',', ','), ('it', 'PRP'), ('worked', 'VBD'), ('.', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('eating', 'VBG'), ('the', 'DT'), ('food', 'NN'), ('anymore', 'RB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 127
+[('Oh', 'UH'), ('no', 'DT'), ('...', ':'), ('if', 'IN'), ('they', 'PRP'), ('get', 'VBP'), ('inside', 'JJ'), ('my', 'PRP$'), ('store', 'NN'), ('...', ':'), ('Everypony', 'NNP'), ('for', 'IN'), ('herself', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 128
+[('My', 'PRP$'), ('outfits', 'NNS'), ('!', '.'), ('Go', 'NNP'), ('on', 'IN'), (',', ','), ('shoo', 'NN'), ('!', '.'), ('Get', 'VB'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), (',', ','), ('you', 'PRP'), ('naughty', 'VBP'), ('!', '.'), ('Naughty', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 129
+[('I', 'PRP'), ("'ll", 'MD'), ('save', 'VB'), ('you', 'PRP'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 130
+[('No', 'DT'), ('woodland', 'NN'), ('creature', 'NN'), ("'s", 'POS'), ('gon', 'NN'), ('na', 'TO'), ('eat', 'VB'), ('the', 'DT'), ('Apple', 'NNP'), ('Family', 'NNP'), ("'s", 'POS'), ('crop', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 131
+[('Brace', 'NNP'), ('yourself', 'PRP'), (',', ','), ("y'all", 'RB'), (',', ','), ('here', 'RB'), ('they', 'PRP'), ('come', 'VBP'), ('.', '.'), ('Did', 'VBP'), ("n't", 'RB'), ('see', 'VB'), ('that', 'IN'), ('one', 'CD'), ('comin', 'NN'), ("'", "''"), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 132
+[('Help', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 133
+[('Help', 'NN'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 134
+[('Ugh', 'NNP'), ('.', '.'), ('Have', 'VBP'), ('you', 'PRP'), ('gone', 'VBN'), ('mad', 'JJ'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 135
+[('Zecora', 'NNP'), (',', ','), ('these', 'DT'), ('little', 'JJ'), ('guys', 'NNS'), ('are', 'VBP'), ('devouring', 'VBG'), ('Ponyville', 'NNP'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('princess', 'NN'), ('is', 'VBZ'), ('on', 'IN'), ('her', 'PRP$'), ('way', 'NN'), ('.', '.'), ('Can', 'MD'), ('you', 'PRP'), ('help', 'VB'), ('us', 'PRP'), (',', ','), ('please', 'VB'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 136
+[('Oh', 'UH'), (',', ','), ('monster', 'NN'), ('of', 'IN'), ('so', 'RB'), ('little', 'JJ'), ('size', 'NN'), ('.', '.'), ('Is', 'VBZ'), ('that', 'IN'), ('a', 'DT'), ('parasprite', 'NN'), ('before', 'IN'), ('my', 'PRP$'), ('eyes', 'NNS'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 137
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), ('!', '.'), ('Is', 'VBZ'), ('it', 'PRP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 138
+[('Tales', 'NNS'), ('of', 'IN'), ('crops', 'NNS'), ('and', 'CC'), ('harvests', 'NNS'), ('consumed', 'VBN'), ('.', '.'), ('If', 'IN'), ('these', 'DT'), ('creatures', 'NNS'), ('are', 'VBP'), ('in', 'IN'), ('Ponyville', 'NNP'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('doomed', 'VBN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 139
+[('Oh', 'UH'), ('no', 'DT'), (',', ','), ('here', 'RB'), ('she', 'PRP'), ('comes', 'VBZ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 140
+[('Aaaah', 'NNP'), (',', ','), ('aaaaaaah', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 141
+[('Okay', 'NNP'), (',', ','), ('here', 'RB'), ("'s", 'VBZ'), ('the', 'DT'), ('plan', 'NN'), ('.', '.'), ('Rainbow', 'NNP'), ('Dash', 'NNP'), (',', ','), ('you', 'PRP'), ('distract', 'VBP'), ('them', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 142
+[('YAAAA', 'NN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 143
+[('Good', 'JJ'), ('.', '.'), ('Everyone', 'NN'), ('else', 'RB'), (',', ','), ('we', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('build', 'VB'), ('an', 'DT'), ('exact', 'JJ'), ('copy', 'NN'), ('of', 'IN'), ('Ponyville', 'NNP'), ('right', 'NN'), ('over', 'IN'), ('there', 'RB'), ('.', '.'), ('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('less', 'JJR'), ('than', 'IN'), ('a', 'DT'), ('minute', 'NN'), ('.', '.'), ('Zecora', 'NNP'), ('was', 'VBD'), ('right', 'RB'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('doomed', 'VBN'), ('.', '.'), ('Oh', 'UH'), ('no', 'DT'), (',', ','), ('the', 'DT'), ('princess', 'NN'), ("'s", 'POS'), ('procession', 'NN'), ('is', 'VBZ'), ('here', 'RB'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('all', 'DT'), ('over', 'IN'), ('!', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 144
+[('Pinkie', 'NNP'), ('?', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN'), ('of', 'IN'), ('a', 'DT'), ('crisis', 'NN'), ('here', 'RB'), ('.', '.'), ('This', 'DT'), ('is', 'VBZ'), ('no', 'DT'), ('time', 'NN'), ('for', 'IN'), ('your', 'PRP$'), ('...', ':'), ('nonsense', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 145
+[('Look', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 146
+[('Twilight', 'NNP'), ('Sparkle', 'NNP'), (',', ','), ('my', 'PRP$'), ('prized', 'JJ'), ('pupil', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 147
+[('Hello', 'NNP'), (',', ','), ('princess', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 148
+[('So', 'RB'), ('lovely', 'RB'), ('to', 'TO'), ('see', 'VB'), ('you', 'PRP'), ('again', 'RB'), (',', ','), ('as', 'RB'), ('well', 'RB'), ('as', 'IN'), ('your', 'PRP$'), ('friends', 'NNS'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 149
+[('So', 'RB'), ('...', ':'), ('how', 'WRB'), ('was', 'VBD'), ('the', 'DT'), ('trip', 'NN'), ('?', '.'), ('Hit', 'NNP'), ('much', 'JJ'), ('traffic', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 150
+[('Ah', 'NNP'), (',', ','), ('what', 'WP'), ('is', 'VBZ'), ('this', 'DT'), ('?', '.'), ('Oh', 'UH'), ('ho', 'NN'), ('ho', 'NN'), (',', ','), ('these', 'DT'), ('creatures', 'NNS'), ('are', 'VBP'), ('adorable', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 151
+[('They', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('that', 'IN'), ('adorable', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 152
+[('I', 'PRP'), ("'m", 'VBP'), ('terribly', 'RB'), ('honored', 'VBN'), ('that', 'IN'), ('you', 'PRP'), ('and', 'CC'), ('the', 'DT'), ('good', 'JJ'), ('citizens', 'NNS'), ('of', 'IN'), ('Ponyville', 'NNP'), ('have', 'VBP'), ('organized', 'VBN'), ('a', 'DT'), ('parade', 'NN'), ('in', 'IN'), ('honor', 'NN'), ('of', 'IN'), ('my', 'PRP$'), ('visit', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 153
+[('Parade', 'VB'), ('?', '.'), ('Oh', 'UH'), ('.', '.'), ('Yes', 'UH'), (',', ','), ('the', 'DT'), ('parade', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 154
+[('Unfortunately', 'RB'), (',', ','), ('that', 'IN'), ('visit', 'NN'), ('is', 'VBZ'), ('going', 'VBG'), ('to', 'TO'), ('have', 'VB'), ('to', 'TO'), ('wait', 'VB'), ('for', 'IN'), ('another', 'DT'), ('time', 'NN'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('afraid', 'JJ'), ('an', 'DT'), ('emergency', 'NN'), ('has', 'VBZ'), ('come', 'VBN'), ('up', 'RP'), ('in', 'IN'), ('Fillydelphia', 'NNP'), ('.', '.'), ('Apparently', 'RB'), ('there', 'EX'), ("'s", 'VBZ'), ('been', 'VBN'), ('some', 'DT'), ('sort', 'NN'), ('of', 'IN'), ('infestation', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 155
+[('An', 'DT'), ('...', ':'), ('infestation', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 156
+[('Yes', 'UH'), (',', ','), ('a', 'DT'), ('swarm', 'NN'), ('of', 'IN'), ('incredibly', 'RB'), ('bothersome', 'NN'), ('creatures', 'NNS'), ('has', 'VBZ'), ('invaded', 'VBN'), ('the', 'DT'), ('poor', 'JJ'), ('town', 'NN'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('sorry', 'JJ'), ('Twilight', 'NNP'), (',', ','), ('to', 'TO'), ('have', 'VB'), ('to', 'TO'), ('put', 'VB'), ('you', 'PRP'), ('all', 'DT'), ('through', 'IN'), ('so', 'RB'), ('much', 'JJ'), ('trouble', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 157
+[('Trouble', 'VB'), ('?', '.'), ('What', 'WP'), ('trouble', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 158
+[('Before', 'IN'), ('I', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('go', 'VB'), (',', ','), ('would', 'MD'), ('you', 'PRP'), ('care', 'VB'), ('to', 'TO'), ('give', 'VB'), ('me', 'PRP'), ('your', 'PRP$'), ('latest', 'JJS'), ('report', 'NN'), ('on', 'IN'), ('the', 'DT'), ('magic', 'NN'), ('of', 'IN'), ('friendship', 'NN'), ('in', 'IN'), ('person', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 159
+[('My', 'PRP$'), ('...', ':'), ('report', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 160
+[('Have', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('learned', 'VBN'), ('anything', 'NN'), ('about', 'IN'), ('friendship', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 161
+[('Actually', 'RB'), (',', ','), ('I', 'PRP'), ('have', 'VBP'), ('.', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('learned', 'VBN'), ('that', 'IN'), ('sometimes', 'VBZ'), ('the', 'DT'), ('solution', 'NN'), ('to', 'TO'), ('your', 'PRP$'), ('problems', 'NNS'), ('can', 'MD'), ('come', 'VB'), ('from', 'IN'), ('where', 'WRB'), ('you', 'PRP'), ('least', 'JJS'), ('expect', 'VB'), ('it', 'PRP'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('idea', 'NN'), ('to', 'TO'), ('stop', 'VB'), ('and', 'CC'), ('listen', 'VB'), ('to', 'TO'), ('your', 'PRP$'), ('friends', 'NNS'), ("'", 'POS'), ('opinions', 'NNS'), ('and', 'CC'), ('perspectives', 'NNS'), ('...', ':')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 162
+[('Even', 'RB'), ('when', 'WRB'), ('they', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('always', 'RB'), ('seem', 'VB'), ('to', 'TO'), ('make', 'VB'), ('sense', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 163
+[('I', 'PRP'), ("'m", 'VBP'), ('so', 'RB'), ('proud', 'JJ'), ('of', 'IN'), ('you', 'PRP'), (',', ','), ('Twilight', 'NNP'), ('Sparkle', 'NNP'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('very', 'RB'), ('impressed', 'JJ'), ('with', 'IN'), ('your', 'PRP$'), ('friends', 'NNS'), ('as', 'RB'), ('well', 'RB'), ('.', '.'), ('It', 'PRP'), ('sounds', 'VBZ'), ('like', 'IN'), ('you', 'PRP'), ("'re", 'VBP'), ('all', 'DT'), ('learning', 'VBG'), ('so', 'RB'), ('much', 'RB'), ('from', 'IN'), ('each', 'DT'), ('other', 'JJ'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 164
+[('Thank', 'NNP'), ('you', 'PRP'), (',', ','), ('princess', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 165
+[('Hey', 'NNP'), (',', ','), ('what', 'WP'), ('happened', 'VBD'), ('to', 'TO'), ('the', 'DT'), ('princess', 'NN'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 166
+[('Emergency', 'NN'), ('in', 'IN'), ('Fillydelphia', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 167
+[('Some', 'DT'), ('sort', 'NN'), ('of', 'IN'), ('infestation', 'NN'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 168
+[('Oh', 'UH'), ('no', 'DT'), ('!', '.'), ('Have', 'VBP'), ('they', 'PRP'), ('got', 'VBD'), ('parasprites', 'NNS'), ('too', 'RB'), ('?', '.'), ('Well', 'UH'), (',', ','), ('have', 'VBP'), ('tuba', 'VBN'), (',', ','), ('will', 'MD'), ('travel', 'VB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 169
+[('I', 'PRP'), ('think', 'VBP'), ('the', 'DT'), ('princess', 'NN'), ('can', 'MD'), ('handle', 'VB'), ('it', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 170
+[('So', 'RB'), ('you', 'PRP'), ('knew', 'VBP'), ('what', 'WP'), ('those', 'DT'), ('critters', 'NNS'), ('were', 'VBD'), ('all', 'DT'), ('along', 'RB'), (',', ','), ('huh', 'PRP'), ('Pinkie', 'NNP'), ('Pie', 'NNP'), ('?', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 171
+[('Well', 'RB'), (',', ','), ('duh', 'NN'), ('!', '.'), ('Why', 'WRB'), ('do', 'VBP'), ('you', 'PRP'), ('think', 'VB'), ('I', 'PRP'), ('was', 'VBD'), ('so', 'RB'), ('frantic', 'JJ'), ('to', 'TO'), ('get', 'VB'), ('my', 'PRP$'), ('hooves', 'NNS'), ('on', 'IN'), ('all', 'PDT'), ('these', 'DT'), ('instruments', 'NNS'), ('?', '.'), ('I', 'PRP'), ('tried', 'VBD'), ('to', 'TO'), ('tell', 'VB'), ('you', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 172
+[('We', 'PRP'), ('know', 'VBP'), (',', ','), ('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('and', 'CC'), ('we', 'PRP'), ("'re", 'VBP'), ('sorry', 'JJ'), ('we', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('listen', 'VB'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 173
+[('You', 'PRP'), ("'re", 'VBP'), ('a', 'DT'), ('great', 'JJ'), ('friend', 'NN'), (',', ','), ('even', 'RB'), ('if', 'IN'), ('we', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('always', 'RB'), ('understand', 'VB'), ('you', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 174
+[('Thanks', 'NNS'), ('guys', 'NNS'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('all', 'DT'), ('great', 'JJ'), ('friends', 'NNS'), ('too', 'RB'), (',', ','), ('even', 'RB'), ('when', 'WRB'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('understand', 'VB'), ('me', 'PRP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 175
+[('You', 'PRP'), ('saved', 'VBD'), ('my', 'PRP$'), ('reputation', 'NN'), ('with', 'IN'), ('Princess', 'NNP'), ('Celestia', 'NNP'), (',', ','), ('and', 'CC'), ('more', 'RBR'), ('importantly', 'RB'), (',', ','), ('you', 'PRP'), ('saved', 'VBD'), ('Ponyville', 'NNP'), ('.', '.')]
+mlpfim-s1e10-dialog-SwarmOfTheCentury.txt - line: 176
+[('...', ':'), ('Or', 'CC'), ('not', 'RB'), ('.', '.')]
+
+Analyzing: mlpfim-s1e4-dialog-ApplebuckSeason.txt
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 1
+[('Boy', 'NNP'), ('howdy', 'NN'), ('!', '.'), ('I', 'PRP'), ('got', 'VBD'), ('my', 'PRP$'), ('work', 'NN'), ('cut', 'NN'), ('out', 'RP'), ('for', 'IN'), ('me', 'PRP'), ('.', '.'), ('That', 'IN'), ('there', 'EX'), ('is', 'VBZ'), ('the', 'DT'), ('biggest', 'JJS'), ('bumper', 'NN'), ('crop', 'NN'), ('o', 'NN'), ("'", "''"), ('apples', 'NNS'), ('I', 'PRP'), ('ever', 'RB'), ('laid', 'VBD'), ('eyes', 'NNS'), ('on', 'IN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 2
+[('Eeyup', 'NNP'), ('.', '.'), ('Too', 'NNP'), ('big', 'JJ'), ('for', 'IN'), ('you', 'PRP'), ('to', 'TO'), ('handle', 'VB'), ('on', 'IN'), ('your', 'PRP$'), ('own', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 3
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('big', 'JJ'), ('brother', 'NN'), ('!', '.'), ('You', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('rest', 'VB'), ('up', 'RP'), ('and', 'CC'), ('get', 'VB'), ('yourself', 'PRP'), ('better', 'JJR'), ('.', '.'), ('I', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('met', 'VBN'), ('an', 'DT'), ('apple', 'NN'), ('orchard', 'NN'), ('yet', 'RB'), ('that', 'IN'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('handle', 'VB'), ('.', '.'), ('Oops', 'NNP'), (',', ','), ('sorry', 'NN'), ('.', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('a', 'DT'), ('bite', 'NN'), ('out', 'IN'), ('of', 'IN'), ('this', 'DT'), ('job', 'NN'), ('by', 'IN'), ('day', 'NN'), ("'s", 'POS'), ('end', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 4
+[('Biting', 'VBG'), ('off', 'RP'), ('more', 'RBR'), ('than', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('chew', 'VB'), ('is', 'VBZ'), ('just', 'RB'), ('what', 'WP'), ('I', 'PRP'), ("'m", 'VBP'), ('afraid', 'JJ'), ('of', 'IN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 5
+[('Are', 'NNP'), ('you', 'PRP'), ('sayin', 'VBP'), ("'", "''"), ('my', 'PRP$'), ('mouth', 'NN'), ('is', 'VBZ'), ('makin', 'JJ'), ("'", "''"), ('promises', 'NNS'), ('my', 'PRP$'), ('legs', 'NNS'), ('ca', 'MD'), ("n't", 'RB'), ('keep', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 6
+[('Eeyup', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 7
+[('Why', 'WRB'), ('of', 'IN'), ('all', 'PDT'), ('the', 'DT'), ('...', ':'), ('This', 'DT'), ('is', 'VBZ'), ('your', 'PRP$'), ('sister', 'JJ'), ('Applejack', 'NNP'), (',', ','), ('remember', 'VB'), ('?', '.'), ('The', 'DT'), ('loyalest', 'JJS'), ('of', 'IN'), ('friends', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('most', 'RBS'), ('dependable', 'JJ'), ('of', 'IN'), ('ponies', 'NNS'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 8
+[('But', 'CC'), ('still', 'RB'), ('only', 'RB'), ('one', 'CD'), ('pony', 'NN'), (',', ','), ('and', 'CC'), ('one', 'CD'), ('pony', 'NN'), ('plus', 'CC'), ('hundreds', 'NNS'), ('o', 'VBP'), ("'", "''"), ('apple', 'NN'), ('trees', 'NNS'), ('just', 'RB'), ('does', 'VBZ'), ("n't", 'RB'), ('add', 'VB'), ('up', 'RP'), ('to', 'TO'), ('...', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 9
+[('Do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('use', 'VB'), ('your', 'PRP$'), ('fancy', 'NN'), ('mathematics', 'NNS'), ('to', 'TO'), ('muddy', 'VB'), ('the', 'DT'), ('issue', 'NN'), ('!', '.'), ('I', 'PRP'), ('said', 'VBD'), ('I', 'PRP'), ('could', 'MD'), ('handle', 'VB'), ('this', 'DT'), ('harvest', 'NN'), ('and', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('prove', 'VB'), ('it', 'PRP'), ('to', 'TO'), ('you', 'PRP'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('get', 'VB'), ('every', 'DT'), ('last', 'JJ'), ('apple', 'NN'), ('out', 'IN'), ('of', 'IN'), ('those', 'DT'), ('trees', 'NNS'), ('this', 'DT'), ('applebuck', 'NN'), ('season', 'NN'), ('all', 'DT'), ('by', 'IN'), ('myself', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 10
+[('Well', 'RB'), ('I', 'PRP'), ('better', 'VBP'), ('get', 'VB'), ('kickin', 'JJ'), ("'", "''"), ('.', '.'), ('These', 'DT'), ('apples', 'NNS'), ('are', 'VBP'), ("n't", 'RB'), ('gon', 'VB'), ('na', 'TO'), ('shake', 'VB'), ('themselves', 'PRP'), ('outta', 'RP'), ('the', 'DT'), ('trees', 'NNS'), ('.', '.'), ('Hey', 'NN'), ('!', '.'), ('Oh', 'UH'), ('no', 'DT'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 11
+[('STAMPEDE', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 12
+[('Stampede', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 13
+[('This', 'DT'), ('makes', 'VBZ'), ('my', 'PRP$'), ('voice', 'NN'), ('sound', 'NN'), ('silly', 'RB'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 14
+[('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('are', 'VBP'), ('you', 'PRP'), ('crazy', 'JJ'), ('?', '.'), ('!', '.'), ('Run', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 15
+[('Everypony', 'NNP'), ('calm', 'VBD'), ('down', 'RB'), ('.', '.'), ('There', 'EX'), ('is', 'VBZ'), ('no', 'DT'), ('need', 'NN'), ('to', 'TO'), ('panic', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 16
+[('But', 'CC'), ('Mayor', 'NNP'), (',', ','), ('whatever', 'WDT'), ('shall', 'MD'), ('we', 'PRP'), ('do', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 17
+[('Look', 'VB'), ('there', 'EX'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 18
+[('YEEHAW', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 19
+[('Move', 'NNP'), ('aside', 'RB'), (',', ','), ('Winona', 'NNP'), ('.', '.'), ('Put', 'VBD'), ("'em", 'PRP'), ('up', 'RP'), (',', ','), ('girl', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 20
+[('This', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('rodeo', 'NN'), ('show', 'NN'), ('I', 'PRP'), ("'ve", 'VBP'), ('ever', 'RB'), ('seen', 'VBN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 21
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('little', 'JJ'), ('dogies', 'NNS'), ('!', '.'), ('Turn', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 22
+[('Attagirl', 'NNP'), ('.', '.'), ('Yee', 'NNP'), ('haw', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 23
+[('Whoaaa', 'NNP'), ('.', '.'), ('Hooie', 'NNP'), ('.', '.'), ('Now', 'RB'), ('what', 'WP'), ('was', 'VBD'), ('that', 'IN'), ('all', 'DT'), ('about', 'IN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 24
+[('Oh', 'UH'), ('my', 'PRP$'), ('!', '.'), ('Begging', 'VBG'), ('your', 'PRP$'), ('pardon', 'NN'), (',', ','), ('Applejack', 'NNP'), (',', ','), ('but', 'CC'), ('Mooriella', 'NNP'), ('here', 'RB'), ('saw', 'VBD'), ('one', 'CD'), ('of', 'IN'), ('those', 'DT'), ('nasty', 'JJ'), ('snakes', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 25
+[('And', 'CC'), ('it', 'PRP'), ('just', 'RB'), ('gave', 'VBD'), ('us', 'PRP'), ('all', 'PDT'), ('the', 'DT'), ('willies', 'NNS'), (',', ','), ("don'tcha", 'NN'), ('know', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 26
+[('I', 'PRP'), ('completely', 'RB'), ('understand', 'VBP'), ('.', '.'), ('Just', 'NNP'), ('next', 'JJ'), ('time', 'NN'), (',', ','), ('try', 'NN'), ('and', 'CC'), ('steer', 'VB'), ('clear', 'JJ'), ('of', 'IN'), ('Ponyville', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 27
+[('We', 'PRP'), ('certainly', 'RB'), ('will', 'MD'), (',', ','), ('Applejack', 'NNP'), ('.', '.'), ('So', 'RB'), ('long', 'RB'), (',', ','), ('Winona', 'UH'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 28
+[('Yee', 'NNP'), ('haw', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 29
+[('Yee', 'NNP'), ('haw', 'NN'), ('!', '.'), ('Ride', 'NNP'), ("'em", 'PRP'), (',', ','), ('cowpony', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 30
+[('Applejack', 'NNP'), ('was', 'VBD'), ('just', 'RB'), ('...', ':'), ('just', 'RB'), ('...', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 31
+[('Appletastic', 'JJ'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 32
+[('Exactly', 'RB'), ('.', '.'), ('We', 'PRP'), ('must', 'MD'), ('do', 'VB'), ('something', 'NN'), ('to', 'TO'), ('thank', 'VB'), ('Applejack', 'NNP'), ('for', 'IN'), ('single-hoofedly', 'RB'), ('saving', 'VBG'), ('the', 'DT'), ('town', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 33
+[('I', 'PRP'), ('know', 'VBP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 34
+[('A', 'DT'), ('party', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 35
+[('We', 'PRP'), ('all', 'DT'), ('ready', 'JJ'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 36
+[('Just', 'RB'), ('one', 'CD'), ('last', 'JJ'), ('thing', 'NN'), ('.', '.'), ('Now', 'RB'), ('we', 'PRP'), ("'re", 'VBP'), ('ready', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 37
+[('Is', 'VBZ'), ('Applejack', 'NNP'), ('all', 'DT'), ('set', 'VBN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 38
+[('Actually', 'RB'), (',', ','), ('I', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('seen', 'VBN'), ('her', 'PRP$'), ('all', 'DT'), ('week', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 39
+[('Not', 'RB'), ('since', 'IN'), ('the', 'DT'), ('stampede', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 40
+[('But', 'CC'), ('she', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('here', 'RB'), ('for', 'IN'), ('sure', 'JJ'), ('.', '.'), ('Applejack', 'NN'), ('is', 'VBZ'), ('never', 'RB'), ('late', 'RB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 41
+[('Welcome', 'NNP'), (',', ','), ('everypony', 'NN'), ('!', '.'), ('Today', 'NN'), ('we', 'PRP'), ('are', 'VBP'), ('here', 'RB'), ('to', 'TO'), ('honor', 'VB'), ('a', 'DT'), ('pony', 'NN'), ('we', 'PRP'), ('can', 'MD'), ('always', 'RB'), ('count', 'VB'), ('on', 'IN'), ('to', 'TO'), ('help', 'VB'), ('in', 'IN'), ('matters', 'NNS'), ('great', 'JJ'), ('and', 'CC'), ('small', 'JJ'), ('.', '.'), ('A', 'DT'), ('pony', 'NN'), ('whose', 'WP$'), ('contributions', 'NNS'), ('to', 'TO'), ('--', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 42
+[('Did', 'NNP'), ('you', 'PRP'), ('see', 'VBP'), ('Applejack', 'NNP'), ("'s", 'POS'), ('slick', 'NN'), ('moves', 'VBZ'), ('out', 'RP'), ('there', 'RB'), ('?', '.'), ('What', 'WP'), ('an', 'DT'), ('athlete', 'NN'), ('.', '.'), ('This', 'DT'), ('week', 'NN'), ('she', 'PRP'), ("'s", 'VBZ'), ('gon', 'NN'), ('na', 'TO'), ('help', 'VB'), ('me', 'PRP'), ('with', 'IN'), ('my', 'PRP$'), ('new', 'JJ'), ('flying', 'VBG'), ('trick', 'NN'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ('know', 'VBP'), ('it', 'PRP'), ("'s", 'VBZ'), ('gon', 'JJ'), ('na', 'RB'), ('be', 'VB'), ('so', 'RB'), ('awesome', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 43
+[('Exactly', 'RB'), ('.', '.'), ('And', 'CC'), ('...', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 44
+[('This', 'DT'), ('week', 'NN'), (',', ','), ('I', 'PRP'), ('get', 'VBP'), ('to', 'TO'), ('run', 'VB'), ('Sugarcube', 'NNP'), ('Corner', 'NNP'), ('for', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('time', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 45
+[('What', 'WP'), ('does', 'VBZ'), ('that', 'WDT'), ('have', 'VB'), ('to', 'TO'), ('do', 'VB'), ('with', 'IN'), ('Applejack', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 46
+[('Oh', 'UH'), ('.', '.'), ('Applejack', 'NNP'), (',', ','), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('best', 'JJS'), ('bakers', 'NNS'), ('ever', 'RB'), (',', ','), ('is', 'VBZ'), ('gon', 'VBG'), ('na', 'TO'), ('help', 'VB'), ('me', 'PRP'), ('.', '.'), ('Applejack', 'NNP'), ('makes', 'VBZ'), ('everything', 'NN'), ('great', 'JJ'), (',', ','), ('so', 'RB'), ('free', 'JJ'), ('samples', 'NNS'), ('for', 'IN'), ('everypony', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 47
+[('Oh-kay', 'NNP'), (',', ','), ('that', 'WDT'), ("'s", 'VBZ'), ('great', 'JJ'), ('.', '.'), ('Now', 'RB'), ('if', 'IN'), ('I', 'PRP'), ('could', 'MD'), ('just', 'RB'), ('make', 'VB'), ('a', 'DT'), ('point', 'NN'), ('without', 'IN'), ('being', 'VBG'), ('inter', 'NN'), ('--', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 48
+[('Twilight', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 49
+[('--', ':'), ('rupted', 'VBD'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 50
+[('Twilight', 'NNP'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('so', 'RB'), ('sorry', 'JJ'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ('just', 'RB'), ('wanted', 'VBD'), ('to', 'TO'), ('mention', 'VB'), ('that', 'DT'), ('Applejack', 'NNP'), ('is', 'VBZ'), ('also', 'RB'), ('helping', 'VBG'), ('me', 'PRP'), ('this', 'DT'), ('week', 'NN'), ('with', 'IN'), ('the', 'DT'), ('official', 'JJ'), ('bunny', 'NN'), ('census', 'NN'), (',', ','), ('where', 'WRB'), ('we', 'PRP'), ('count', 'VBP'), ('up', 'RP'), ('all', 'PDT'), ('the', 'DT'), ('new', 'JJ'), ('baby', 'NN'), ('bunnies', 'NNS'), ('that', 'WDT'), ('were', 'VBD'), ('born', 'VBN'), ('this', 'DT'), ('season', 'NN'), ('.', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('gon', 'NN'), ('na', 'TO'), ('help', 'VB'), ('gather', 'VB'), ('them', 'PRP'), ('using', 'VBG'), ('her', 'PRP$'), ('wonderful', 'JJ'), ('herding', 'NN'), ('skills', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 51
+[('Anyone', 'NN'), ('else', 'RB'), ('?', '.'), ('Anyone', 'NNP'), ('?', '.'), ('No', 'DT'), ('?', '.'), ('Well', 'RB'), ('then', 'RB'), (',', ','), ('as', 'IN'), ('I', 'PRP'), ('was', 'VBD'), ('trying', 'VBG'), ('to', 'TO'), ('say', 'VB'), ('...', ':'), ('Urgh', 'PRP'), ('!', '.'), ('Never', 'RB'), ('mind', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 52
+[('Ah-ahem', 'NNP'), ('.', '.'), ('And', 'CC'), ('so', 'RB'), (',', ','), ('with', 'IN'), ('no', 'DT'), ('further', 'JJ'), ('ado', 'NN'), (',', ','), ('it', 'PRP'), ('is', 'VBZ'), ('my', 'PRP$'), ('privilege', 'NN'), ('to', 'TO'), ('give', 'VB'), ('the', 'DT'), ('prize', 'NN'), (',', ','), ('Pony', 'NNP'), ('of', 'IN'), ('Ponyville', 'NNP'), ('Award', 'NNP'), (',', ','), ('to', 'TO'), ('our', 'PRP$'), ('beloved', 'JJ'), ('guest', 'NN'), ('of', 'IN'), ('honor', 'NN'), (',', ','), ('a', 'DT'), ('pony', 'NN'), ('of', 'IN'), ('the', 'DT'), ('utmost', 'JJ'), ('trustworthiness', 'NN'), (',', ','), ('reliability', 'NN'), (',', ','), ('and', 'CC'), ('integrity', 'NN'), ('.', '.'), ('Ponyville', 'NNP'), ("'s", 'POS'), ('most', 'RBS'), ('capable', 'JJ'), ('and', 'CC'), ('dependable', 'JJ'), ('friend', 'NN'), (':', ':'), ('Applejack', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 53
+[('Cool', 'NN'), ('!', '.'), ('Way', 'NNP'), ('to', 'TO'), ('go', 'VB'), ('Applejack', 'NNP'), (',', ','), ('that', 'WDT'), ('was', 'VBD'), ('awesome', 'JJ'), ('!', '.'), ('I', 'PRP'), ('mean', 'VBP'), ('--', ':'), ('heh', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 54
+[('Ah-ahem', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 55
+[('Awkward', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 56
+[('I', 'PRP'), ("'m", 'VBP'), ('here', 'RB'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('here', 'RB'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('so', 'RB'), ('bright', 'JJ'), ('and', 'CC'), ('shiny', 'JJ'), ('and', 'CC'), (',', ','), ('heh', 'NN'), (',', ','), ('heh', 'NN'), ('heh', 'NN'), (',', ','), ('I', 'PRP'), ('sure', 'VBP'), ('do', 'VBP'), ('look', 'VB'), ('funny', 'JJ'), ('heh', 'NN'), ('.', '.'), ('Ooo-ooo', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 57
+[('Woo-ooo', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 58
+[('Ooo-ooo', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 59
+[('Okay', 'NNP'), ('.', '.'), ('Well', 'NNP'), (',', ','), ('thank', 'NN'), ('you', 'PRP'), ('Applejack', 'VBP'), ('for', 'IN'), ('saving', 'VBG'), ('us', 'PRP'), ('from', 'IN'), ('that', 'DT'), ('scary', 'JJ'), ('stampede', 'NN'), (',', ','), ('and', 'CC'), ('always', 'RB'), ('being', 'VBG'), ('there', 'EX'), ('for', 'IN'), ('everypony', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 60
+[('Oh', 'UH'), (',', ','), ('uh', 'UH'), (',', ','), ('yeah', 'UH'), ('.', '.'), ('Uh', 'NNP'), (',', ','), ('Thanks', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 61
+[('Was', 'NNP'), ('it', 'PRP'), ('just', 'RB'), ('me', 'PRP'), (',', ','), ('or', 'CC'), ('did', 'VBD'), ('Applejack', 'NNP'), ('seem', 'VB'), ('a', 'DT'), ('little', 'JJ'), ('--', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 62
+[('Tired', 'VBN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 63
+[('Dizzy', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 64
+[('Messy', 'NNP'), ('?', '.'), ('Well', 'NNP'), (',', ','), ('did', 'VBD'), ('you', 'PRP'), ('see', 'VB'), ('her', 'PRP$'), ('mane', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 65
+[('She', 'PRP'), ('seemed', 'VBD'), ('fine', 'JJ'), ('to', 'TO'), ('me', 'PRP'), ('.', '.'), ('Woo', 'VB'), ('!', '.'), ('Woo', 'UH'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 66
+[('Hmm', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 67
+[('O-oah', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 68
+[('What', 'WP'), ('on', 'IN'), ('Earth', 'NN'), ('is', 'VBZ'), ('that', 'IN'), ('pony', 'NN'), ('doing', 'VBG'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 69
+[('Whoops', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 70
+[('Hey', 'NNP'), ('Applejack', 'NNP'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 71
+[('Applejack', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 72
+[('Applejack', 'NNP'), ('.', '.'), ('AppleJACK', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 73
+[('Oh', 'UH'), (',', ','), ('howdy', 'JJ'), (',', ','), ('Twilight', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 74
+[('What', 'WP'), ('is', 'VBZ'), ('all', 'DT'), ('this', 'DT'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 75
+[('It', 'PRP'), ("'s", 'VBZ'), ('Applebuck', 'NNP'), ('season', 'NN'), ('.', '.'), ('Whoa', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 76
+[('Applewhat', 'DT'), ('season', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 77
+[('Neh', 'NNP'), (',', ','), ('It', 'PRP'), ("'s", 'VBZ'), ('what', 'WP'), ('the', 'DT'), ('Apple', 'NNP'), ('family', 'NN'), ('calls', 'VBZ'), ('harvestin', 'NN'), ("'", "''"), ('time', 'NN'), ('.', '.'), ('We', 'PRP'), ('gather', 'VBP'), ('all', 'PDT'), ('the', 'DT'), ('apples', 'NNS'), ('from', 'IN'), ('the', 'DT'), ('trees', 'NNS'), ('so', 'IN'), ('we', 'PRP'), ('can', 'MD'), ('sell', 'VB'), ("'em", 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 78
+[('But', 'CC'), ('why', 'WRB'), ('are', 'VBP'), ('you', 'PRP'), ('doing', 'VBG'), ('it', 'PRP'), ('all', 'DT'), ('alone', 'RB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 79
+[("'cause", 'RB'), ('Big', 'NNP'), ('McIntosh', 'NNP'), ('hurt', 'VBD'), ('himself', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 80
+[('What', 'WP'), ('about', 'IN'), ('all', 'PDT'), ('those', 'DT'), ('relatives', 'NNS'), ('I', 'PRP'), ("'ve", 'VBP'), ('met', 'VBN'), ('when', 'WRB'), ('I', 'PRP'), ('first', 'RB'), ('came', 'VBD'), ('to', 'TO'), ('Ponyville', 'NNP'), ('?', '.'), ('Ca', 'VBP'), ("n't", 'RB'), ('they', 'PRP'), ('help', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 81
+[('They', 'PRP'), ('were', 'VBD'), ('just', 'RB'), ('here', 'RB'), ('for', 'IN'), ('the', 'DT'), ('Apple', 'NNP'), ('family', 'NN'), ('reunion', 'NN'), ('.', '.'), ('They', 'PRP'), ('actually', 'RB'), ('live', 'VBP'), ('all', 'DT'), ('over', 'IN'), ('Equestria', 'NNP'), ('and', 'CC'), ('are', 'VBP'), ('busy', 'JJ'), ('harvestin', 'NNS'), ("'", 'POS'), ('their', 'PRP$'), ('own', 'JJ'), ('orchards', 'NNS'), ('.', '.'), ('So', 'RB'), (',', ','), ('uh', 'UH'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('on', 'IN'), ('my', 'PRP$'), ('own', 'JJ'), ('.', '.'), ('Which', 'NNP'), ('means', 'VBZ'), (',', ','), ('I', 'PRP'), ('should', 'MD'), ('really', 'RB'), ('get', 'VB'), ('back', 'RB'), ('to', 'TO'), ('work', 'NN'), ('.', '.'), ('Ahem', 'NNP'), ('...', ':'), ('hint', 'NN'), ('hint', 'NN'), ('?', '.'), ('Get', 'NNP'), ('back', 'RB'), ('to', 'TO'), ('work', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 82
+[('Fine', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 83
+[('Could', 'NNP'), ('you', 'PRP'), ('step', 'VB'), ('aside', 'RB'), (',', ','), ('Twilight', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 84
+[('I', 'PRP'), ('just', 'RB'), ('did', 'VBD'), ('.', '.'), ('Applejack', 'VB'), (',', ','), ('you', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('look', 'VB'), ('so', 'RB'), ('good', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 85
+[('Eh', 'NNP'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('any', 'DT'), ('of', 'IN'), ('you', 'PRP'), ('three', 'CD'), ('worry', 'VBP'), ('none', 'NN'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('just', 'RB'), ('fine', 'JJ'), ('and', 'CC'), ('dandy', 'JJ'), ('.', '.'), ('Whoa', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 86
+[('Do', 'VB'), ('you', 'PRP'), ('...', ':'), ('want', 'VBP'), ('some', 'DT'), ('help', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 87
+[('Help', 'NNP'), ('?', '.'), ('No', 'DT'), ('way', 'NN'), (',', ','), ('no', 'DT'), ('how', 'WRB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 88
+[('But', 'CC'), ('there', 'EX'), ("'s", 'VBZ'), ('no', 'DT'), ('way', 'NN'), ('you', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('it', 'PRP'), ('all', 'VB'), ('on', 'IN'), ('your', 'PRP$'), ('own', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 89
+[('Is', 'VBZ'), ('that', 'IN'), ('a', 'DT'), ('challenge', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 90
+[('Uhm', 'NNP'), ('...', ':'), ('no', 'DT'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 91
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('prove', 'VB'), ('to', 'TO'), ('you', 'PRP'), ('that', 'IN'), ('I', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('it', 'PRP'), ('!', '.'), ('Now', 'RB'), ('if', 'IN'), ('you', 'PRP'), ("'ll", 'MD'), ('excuse', 'VB'), ('me', 'PRP'), (',', ','), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('apples', 'NNS'), ('to', 'TO'), ('buck', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 92
+[('There', 'EX'), ('you', 'PRP'), ('are', 'VBP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 93
+[('I', 'PRP'), ("'m", 'VBP'), ('a', 'DT'), ('mite', 'NN'), ('sorry', 'NN'), (',', ','), ('Rainbow', 'NNP'), ('.', '.'), ('I', 'PRP'), ('was', 'VBD'), ('busy', 'JJ'), ('applebuckin', 'NN'), ("'", "''"), ('and', 'CC'), ('I', 'PRP'), ('guess', 'VBP'), ('ah', 'RB'), (',', ','), ('I', 'PRP'), ('closed', 'VBD'), ('my', 'PRP$'), ('eyes', 'NNS'), ('for', 'IN'), ('a', 'DT'), ('second', 'JJ'), ('and', 'CC'), (',', ','), ('when', 'WRB'), ('I', 'PRP'), ('woke', 'VBD'), ('up', 'RB'), (',', ','), ('I', 'PRP'), ('was', 'VBD'), ('late', 'JJ'), ('.', '.'), ('Now', 'RB'), (',', ','), ('what', 'WP'), ("'s", 'VBZ'), ('this', 'DT'), ('new', 'JJ'), ('trick', 'NN'), ('a', 'DT'), ("'", "''"), ('yours', 'NNS'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 94
+[('See', 'VB'), ('this', 'DT'), ('contraption', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 95
+[('Uh', 'NNP'), ('...', ':'), ('Yeah', 'UH'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 96
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('stand', 'VB'), ('on', 'IN'), ('one', 'CD'), ('end', 'NN'), (',', ','), ('then', 'RB'), ('you', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('jump', 'VB'), ('down', 'RP'), ('from', 'IN'), ('that', 'DT'), ('platform', 'NN'), (',', ','), ('launching', 'VBG'), ('me', 'PRP'), ('into', 'IN'), ('the', 'DT'), ('air', 'NN'), ('faster', 'RBR'), ('than', 'IN'), ('I', 'PRP'), ('can', 'MD'), ('take', 'VB'), ('off', 'RP'), ('on', 'IN'), ('my', 'PRP$'), ('own', 'JJ'), ('.', '.'), ('Once', 'IN'), ('I', 'PRP'), ("'m", 'VBP'), ('in', 'IN'), ('the', 'DT'), ('air', 'NN'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('do', 'VB'), ('some', 'DT'), ('amazing', 'JJ'), ('flips', 'NNS'), ('and', 'CC'), ('spins', 'NNS'), ('that', 'WDT'), ('are', 'VBP'), ('sure', 'JJ'), ('to', 'TO'), ('impress', 'VB'), ('the', 'DT'), ('Wonderbolts', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 97
+[('Is', 'VBZ'), ("n't", 'RB'), ('that', 'IN'), ('a', 'DT'), ('mite', 'NN'), ('dangerous', 'JJ'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 98
+[('Pfft', 'NNP'), (',', ','), ('Heh', 'NNP'), (',', ','), ('not', 'RB'), ('for', 'IN'), ('a', 'DT'), ('pony', 'NN'), ('who', 'WP'), ('can', 'MD'), ('fly', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 99
+[('Well', 'RB'), (',', ','), ('all', 'DT'), ('right-y', 'JJ'), ('then', 'RB'), ('.', '.'), ('Oh', 'UH'), ('my', 'PRP$'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 100
+[('Ready', 'JJ'), ('?', '.'), ('One', 'CD'), ('...', ':'), ('two', 'CD'), ('...', ':'), ('THREE', 'CD'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 101
+[('Umm', 'NN'), ('...', ':'), ('maybe', 'RB'), ('I', 'PRP'), ('was', 'VBD'), ("n't", 'RB'), ('clear', 'JJ'), ('.', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('supposed', 'VBN'), ('to', 'TO'), ('land', 'VB'), ('on', 'IN'), ('the', 'DT'), ('other', 'JJ'), ('end', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 102
+[('Got', 'NNP'), ('it', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 103
+[('Applejack', 'NNP'), (',', ','), ('what', 'WP'), ('the', 'DT'), ('hay', 'NN'), ('is', 'VBZ'), ('going', 'VBG'), ('on', 'IN'), ('?', '.'), ('I', 'PRP'), ('mean', 'VBP'), (',', ','), ('I', 'PRP'), ('thought', 'VBD'), ('I', 'PRP'), ('was', 'VBD'), ('working', 'VBG'), ('with', 'IN'), ('Ponyville', 'NNP'), ("'s", 'POS'), ('best', 'JJS'), ('athlete', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 104
+[('You', 'PRP'), ('are', 'VBP'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('okay', 'JJ'), ('.', '.'), ('Really', 'RB'), ('.', '.'), ('I-I', 'NNP'), ('have', 'VBP'), ('an', 'DT'), ('idea', 'NN'), ('.', '.'), ('Watch', 'VB'), ('this', 'DT'), ('.', '.'), ('Ta', 'NNP'), ('da', 'NN'), ('!', '.'), ('Oh', 'UH'), ('...', ':'), ('Maybe', 'RB'), ('not', 'RB'), ('.', '.'), ('Okay', 'NNP'), (',', ','), ('one', 'CD'), ('more', 'JJR'), ('try', 'NN'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('sure', 'JJ'), ('to', 'TO'), ('get', 'VB'), ('it', 'PRP'), ('this', 'DT'), ('time', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 105
+[('Ugh', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 106
+[('Heh', 'NNP'), ('heh', 'NN'), ('...', ':'), ('Here', 'RB'), ('I', 'PRP'), ('go', 'VBP'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 107
+[('Wait', 'NNP'), (',', ','), ('Applejaaaaack', 'NNP'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 108
+[('You', 'PRP'), ("'re", 'VBP'), ('welcome', 'JJ'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 109
+[('Can', 'MD'), ('I', 'PRP'), ('help', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 110
+[('I', 'PRP'), ('think', 'VBP'), ('somepony', 'JJ'), ('else', 'RB'), ('needs', 'VBZ'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 111
+[('Applejack', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 112
+[('Yep', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 113
+[('Ow', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 114
+[('Applejack', 'RB'), (',', ','), ('can', 'MD'), ('we', 'PRP'), ('talk', 'VB'), ('?', '.'), ('Applejack', 'NNP'), (',', ','), ('can', 'MD'), ('we', 'PRP'), ('talk', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 115
+[('Can', 'MD'), ('bees', 'VB'), ('squawk', 'VB'), ('?', '.'), ('!', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('think', 'VB'), ('so', 'RB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 116
+[('No', 'DT'), ('.', '.'), ('Can', 'MD'), ('we', 'PRP'), ('talk', 'VB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 117
+[('Twenty', 'CD'), ('stalks', 'NNS'), ('?', '.'), ('Bean', 'NNP'), ('or', 'CC'), ('celery', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 118
+[('No', 'DT'), ('!', '.'), ('I', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('talk', 'VB'), ('to', 'TO'), ('you', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 119
+[('You', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('walk', 'VB'), ('to', 'TO'), ('the', 'DT'), ('zoo', 'NN'), ('?', '.'), ('Well', 'UH'), (',', ','), ('who', 'WP'), ("'s", 'VBZ'), ('stoppin', 'NN'), ("'", "''"), ('you', 'PRP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 120
+[('I', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('talk', 'VB'), ('to', 'TO'), ('you', 'PRP'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 121
+[('Oh', 'UH'), ('!', '.'), ('Well', 'NNP'), ('why', 'WRB'), ('did', 'VBD'), ("n't", 'RB'), ('you', 'PRP'), ('say', 'VBP'), ('so', 'RB'), ('?', '.'), ('What', 'WP'), ('you', 'PRP'), ('wan', 'VBP'), ('na', 'JJ'), ('talk', 'NN'), ('about', 'IN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 122
+[('Rainbow', 'NNP'), ('Dash', 'NNP'), ('dropped', 'VBD'), ('in', 'IN'), ('to', 'TO'), ('see', 'VB'), ('me', 'PRP'), ('today', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 123
+[('That', 'DT'), ("'s", 'VBZ'), ('quite', 'RB'), ('neighborly', 'JJ'), ('of', 'IN'), ('her', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 124
+[('Yes', 'UH'), (',', ','), ('except', 'IN'), ('that', 'DT'), ('she', 'PRP'), ('crashed', 'VBD'), ('onto', 'IN'), ('my', 'PRP$'), ('balcony', 'NN'), ('after', 'IN'), ('you', 'PRP'), ('launched', 'VBD'), ('her', 'PRP'), ('into', 'IN'), ('the', 'DT'), ('air', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 125
+[('Oh', 'UH'), (',', ','), ('yeah', 'UH'), ('.', '.'), ('I', 'PRP'), ('was', 'VBD'), ("n't", 'RB'), ('feeling', 'VBG'), ('quite', 'RB'), ('myself', 'PRP'), ('this', 'DT'), ('morning', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 126
+[('Because', 'IN'), ('you', 'PRP'), ("'re", 'VBP'), ('working', 'VBG'), ('too', 'RB'), ('hard', 'JJ'), ('and', 'CC'), ('you', 'PRP'), ('need', 'VBP'), ('help', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 127
+[('What', 'WP'), ('?', '.'), ('Kelp', 'NNP'), ('?', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('need', 'VB'), ('kelp', 'VB'), ('.', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('even', 'RB'), ('like', 'IN'), ('seaweed', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 128
+[('HELP', 'NN'), ('!', '.'), ('You', 'PRP'), ('need', 'VBP'), ('HELP', 'CD'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 129
+[('Nothin', 'NNP'), ("'", 'POS'), ('doin', 'NN'), ("'", "''"), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('prove', 'VB'), ('to', 'TO'), ('you', 'PRP'), (',', ','), ("t'everypony", 'NN'), (',', ','), ('that', 'IN'), ('I', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('this', 'DT'), ('on', 'IN'), ('my', 'PRP$'), ('own', 'JJ'), ('.', '.'), ('Ow', 'CC'), ('!', '.'), ('Now', 'RB'), ('if', 'IN'), ('you', 'PRP'), ("'ll", 'MD'), ('excuse', 'VB'), ('me', 'PRP'), (',', ','), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'RB'), ('go', 'VB'), ('help', 'NN'), ('Pinkie', 'NNP'), ('Pie', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 130
+[('Ugh', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 131
+[('Now', 'RB'), ('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('are', 'VBP'), ('you', 'PRP'), ('sure', 'JJ'), ('you', 'PRP'), ("'re", 'VBP'), ('up', 'RP'), ('for', 'IN'), ('baking', 'VBG'), ('the', 'DT'), ('muffins', 'NNS'), ('and', 'CC'), ('running', 'VBG'), ('the', 'DT'), ('store', 'NN'), ('this', 'DT'), ('afternoon', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 132
+[('Yes', 'UH'), ('siree', 'JJ'), ('bob', 'NN'), (',', ','), ('Mrs.', 'NNP'), ('Cake', 'NNP'), ('.', '.'), ('Plus', 'CC'), (',', ','), ('I', 'PRP'), ('have', 'VBP'), ('Ponyville', 'NNP'), ("'s", 'POS'), ('prized', 'JJ'), ('pony', 'NN'), ('to', 'TO'), ('help', 'VB'), ('me', 'PRP'), ('out', 'RP'), ('.', '.'), ('Why', 'WRB'), (',', ','), ('she', 'PRP'), ("'s", 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('baker', 'NN'), ('ever', 'RB'), ('.', '.'), ('Right', 'NNP'), (',', ','), ('Applejack', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 133
+[('No', 'DT'), ('?', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('the', 'DT'), ('best', 'JJS'), ('baker', 'NN'), ('ever', 'RB'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 134
+[('WHAT', 'WP'), ('?', '.'), ('Oh', 'UH'), ('no', 'DT'), ('!', '.'), ('I', 'PRP'), ('mean', 'VBP'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('fret', 'VB'), ('.', '.'), ('I', 'PRP'), ('can', 'MD'), ('bake', 'VB'), ('anything', 'NN'), ('from', 'IN'), ('fritters', 'NNS'), ('to', 'TO'), ('pies', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('blink', 'NN'), ('of', 'IN'), ('an', 'DT'), ('eye', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 135
+[('All', 'DT'), ('right', 'NN'), ('.', '.'), ('Well', 'UH'), (',', ','), ('see', 'VBP'), ('you', 'PRP'), ('later', 'RB'), (',', ','), ('girls', 'NNS'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 136
+[('Stop', 'NN'), ('with', 'IN'), ('the', 'DT'), ('shakin', 'NN'), ("'", "''"), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('time', 'NN'), ('to', 'TO'), ('get', 'VB'), ('bakin', 'JJ'), ("'", "''"), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 137
+[('All', 'DT'), ('right-y', 'JJ'), ('!', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('get', 'VB'), ('the', 'DT'), ('sugar', 'NN'), ('and', 'CC'), ('the', 'DT'), ('eggs', 'NNS'), ('.', '.'), ('Can', 'MD'), ('you', 'PRP'), ('get', 'VB'), ('me', 'PRP'), ('some', 'DT'), ('chocolate', 'VBP'), ('chips', 'NNS'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 138
+[('Eh', 'NNP'), (',', ','), ('uh', 'UH'), (',', ','), ('whu', 'NN'), (',', ','), ('what', 'WP'), ('was', 'VBD'), ('that', 'DT'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 139
+[('Chocolate', 'NNP'), ('chips', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 140
+[('Chips', 'NNS'), ('...', ':'), ('got', 'VBD'), ('it', 'PRP'), ('.', '.'), ('Tater', 'NNP'), ('chips', 'NNS'), (',', ','), ('a', 'DT'), ('little', 'JJ'), ('salty', 'NN'), ('and', 'CC'), ('dry', 'JJ'), (',', ','), ('okie-dokie', 'JJ'), ('.', '.'), ('What', 'WP'), ('next', 'IN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 141
+[('Baking', 'VBG'), ('soda', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 142
+[('Soda', 'NNP'), ('.', '.'), ('Perfect', 'NNP'), ('.', '.'), ('That', 'DT'), ("'ll", 'MD'), ('get', 'VB'), ('the', 'DT'), ('tater', 'NN'), ('chips', 'NNS'), ('nice', 'RB'), ('and', 'CC'), ('wet', 'JJ'), ('.', '.'), ('Now', 'RB'), ('what', 'WP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 143
+[('A', 'DT'), ('cup', 'NN'), ('of', 'IN'), ('flour', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 144
+[('A', 'DT'), ('cup', 'NN'), ('o', 'NN'), ("'", "''"), ('sour', 'JJ'), ('?', '.'), ('Well', 'NNP'), (',', ','), ('lemons', 'NNS'), ('are', 'VBP'), ('sure', 'JJ'), ('sour', 'JJ'), ('.', '.'), ('One', 'CD'), ('cup', 'NN'), ('o', 'NN'), ("'", "''"), ('sour', 'JJ'), (',', ','), ('comin', 'NN'), ("'", "''"), ('up', 'RB'), ('.', '.'), ('Anything', 'NN'), ('else', 'RB'), (',', ','), ('Pinkie', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 145
+[('One', 'CD'), ('last', 'JJ'), ('thing', 'NN'), ('.', '.'), ('Wheat', 'NNP'), ('germ', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 146
+[('Wheat', 'NN'), ('worms', 'NNS'), ('?', '.'), ('Oh', 'UH'), (',', ','), ('that', 'DT'), ('must', 'MD'), ('be', 'VB'), ('fancy', 'JJ'), ('talk', 'NN'), ('for', 'IN'), ('earthworms', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 147
+[('Now', 'RB'), ('that', 'DT'), ("'s", 'VBZ'), ('gon', 'JJR'), ('na', 'TO'), ('be', 'VB'), ('delicious', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 148
+[('If', 'IN'), ('you', 'PRP'), ('say', 'VBP'), ('so', 'RB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 149
+[('Free', 'JJ'), ('muffin', 'NN'), ('sample', 'NN'), ('spectacular', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 150
+[('Yeah', 'UH'), ('!', '.'), ('Muffin', 'NNP'), ('spectacles', 'VBZ'), ('!', '.'), ('Get', 'NNP'), ("'em", 'PRP'), ('while', 'IN'), ('they', 'PRP'), ("'re", 'VBP'), ('hot', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 151
+[('We', 'PRP'), ('came', 'VBD'), ('as', 'RB'), ('soon', 'RB'), ('as', 'IN'), ('we', 'PRP'), ('heard', 'VBP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 152
+[('Oh', 'UH'), ('thank', 'NN'), ('you', 'PRP'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('We', 'PRP'), ('need', 'VBP'), ('all', 'PDT'), ('the', 'DT'), ('help', 'NN'), ('we', 'PRP'), ('can', 'MD'), ('get', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 153
+[('Oh', 'UH'), ('no', 'DT'), ('!', '.'), ('What', 'WP'), ('happened', 'VBD'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 154
+[('It', 'PRP'), ('was', 'VBD'), ('a', 'DT'), ('mishap', 'NN'), ('with', 'IN'), ('some', 'DT'), ('of', 'IN'), ('the', 'DT'), ('baked', 'JJ'), ('goods', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 155
+[('No', 'DT'), (',', ','), ('not', 'RB'), ('baked', 'VBN'), ('goods', 'NNS'), (',', ','), ('baked', 'VBD'), ('bads', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 156
+[('Applejack', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 157
+[('Want', 'VB'), ('one', 'CD'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 158
+[('Applejack', 'RB'), (',', ','), ('we', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('talk', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 159
+[('Wha', 'NNP'), (',', ','), ('huh', 'NN'), ('?', '.'), ('Oh', 'UH'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('you', 'PRP'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('I', 'PRP'), ('know', 'VBP'), ('what', 'WP'), ('you', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'NNS'), ('say', 'VBP'), (',', ','), ('but', 'CC'), ('the', 'DT'), ('answer', 'NN'), ('is', 'VBZ'), ('still', 'RB'), ('no', 'DT'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 160
+[('Not', 'RB'), ('to', 'TO'), ('upset', 'VB'), ('your', 'PRP$'), ('applecart', 'NN'), (',', ','), ('but', 'CC'), ('you', 'PRP'), ('need', 'VBP'), ('help', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 161
+[('Hardy', 'NNP'), ('har', 'NN'), ('.', '.'), ('And', 'CC'), ('no', 'DT'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 162
+[('Here', 'RB'), (',', ','), ('let', 'VB'), ('me', 'PRP'), ('help', 'VB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 163
+[('Help', 'NNP'), ('?', '.'), ('No', 'DT'), ('thanks', 'NNS'), ('.', '.'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 164
+[('AJ', 'NNP'), (',', ','), ('think', 'VBP'), ('you', 'PRP'), ("'re", 'VBP'), ('beating', 'VBG'), ('a', 'DT'), ('dead', 'JJ'), ('...', ':'), ('tree', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 165
+[('I', 'PRP'), ('knew', 'VBD'), ('that', 'IN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 166
+[('Actually', 'RB'), (',', ','), ('Applejack', 'NNP'), (',', ','), ('I', 'PRP'), ('had', 'VBD'), ('something', 'NN'), ('else', 'RB'), ('to', 'TO'), ('talk', 'VB'), ('to', 'TO'), ('you', 'PRP'), ('about', 'IN'), ('.', '.'), ('I', 'PRP'), ('just', 'RB'), ('came', 'VBD'), ('back', 'RB'), ('from', 'IN'), ('Ponyville', 'NNP'), ('Urgent', 'NNP'), ('Care', 'NNP'), ('and', 'CC'), ('--', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 167
+[('You', 'PRP'), ('know', 'VBP'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('a', 'DT'), ('little', 'JJ'), ('busy', 'JJ'), ('to', 'TO'), ('get', 'VB'), ('lectured', 'JJ'), ('right', 'RB'), ('now', 'RB'), (',', ','), ('Twilight', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 168
+[('But', 'CC'), ('if', 'IN'), ('you', 'PRP'), ("'d", 'MD'), ('just', 'RB'), ('let', 'VB'), ('me', 'PRP'), ('help', 'VB'), ('--', ':')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 169
+[('Ugh', 'NNP'), ('.', '.'), ('No', 'NNP'), (',', ','), ('no', 'RB'), (',', ','), ('NO', 'UH'), ('!', '.'), ('How', 'WRB'), ('many', 'JJ'), ('times', 'NNS'), ('do', 'VBP'), ('I', 'PRP'), ('got', 'VBD'), ('ta', 'NNS'), ('say', 'VB'), ('it', 'PRP'), ('?', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('need', 'VB'), ('no', 'DT'), ('help', 'NN'), ('from', 'IN'), ('nopony', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 170
+[('Ugh', 'NNP'), ('.', '.'), ('That', 'DT'), ('pony', 'NN'), ('is', 'VBZ'), ('stubborn', 'VBN'), ('as', 'IN'), ('a', 'DT'), ('mule', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 171
+[('No', 'DT'), ('offense', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 172
+[('None', 'NN'), ('taken', 'VBN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 173
+[('Oh', 'UH'), ('Applejack', 'NN'), ('!', '.'), ('Thank', 'NNP'), ('you', 'PRP'), ('so', 'RB'), ('much', 'JJ'), ('for', 'IN'), ('offering', 'VBG'), ('your', 'PRP$'), ('herding', 'NN'), ('skills', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('annual', 'JJ'), ('rabbit', 'NN'), ('roundup', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 174
+[('Ugh', 'NNP'), ('.', '.'), ('Why', 'WRB'), ('are', 'VBP'), ('we', 'PRP'), ('doin', 'VBP'), ("'", "''"), ('this', 'DT'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 175
+[('Well', 'RB'), (',', ','), ('lots', 'NNS'), ('of', 'IN'), ('new', 'JJ'), ('baby', 'NN'), ('bunnies', 'NNS'), ('have', 'VBP'), ('been', 'VBN'), ('born', 'VBN'), (',', ','), ('so', 'IN'), ('it', 'PRP'), ("'s", 'VBZ'), ('my', 'PRP$'), ('job', 'NN'), ('to', 'TO'), ('get', 'VB'), ('a', 'DT'), ('count', 'NN'), ('of', 'IN'), ('all', 'PDT'), ('the', 'DT'), ('new', 'JJ'), ('families', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 176
+[('Fine', 'NNP'), ('.', '.'), ('Can', 'MD'), ('we', 'PRP'), ('just', 'RB'), ('get', 'VB'), ('on', 'IN'), ('with', 'IN'), ('it', 'PRP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 177
+[('Certainly', 'RB'), (',', ','), ('but', 'CC'), ('remember', 'VB'), (',', ','), ('these', 'DT'), ('are', 'VBP'), ('bunnies', 'NNS'), ('we', 'PRP'), ("'re", 'VBP'), ('dealing', 'VBG'), ('with', 'IN'), (',', ','), ('not', 'RB'), ('cows', 'NNS'), ('.', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('a', 'DT'), ('timid', 'JJ'), ('bunch', 'NN'), ('and', 'CC'), ('need', 'NN'), ('to', 'TO'), ('be', 'VB'), ('treated', 'VBN'), ('gently', 'RB'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 178
+[('I', 'PRP'), ('do', 'VBP'), ('NOT', 'RB'), ('need', 'VB'), ('any', 'DT'), ('direction', 'NN'), ('on', 'IN'), ('corrallin', 'NN'), ("'", 'POS'), ('critters', 'NNS'), ('.', '.'), ('Right', 'NNP'), (',', ','), ('Winona', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 179
+[('Okay', 'NNP'), (',', ','), ('little', 'JJ'), ('bunnies', 'NNS'), ('!', '.'), ('I', 'PRP'), ('need', 'VBP'), ('you', 'PRP'), ('to', 'TO'), ('all', 'DT'), ('gather', 'NN'), ('here', 'RB'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 180
+[('That', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), ('!', '.'), ('Let', 'VB'), ("'s", 'POS'), ('go', 'VB'), (',', ','), ('bunnies', 'NNS'), ('.', '.'), ('In', 'IN'), ('the', 'DT'), ('center', 'NN'), ('.', '.'), ('Hop', 'NNP'), ('to', 'TO'), ('it', 'PRP'), ('.', '.'), ('Swell', 'NNP'), ('.', '.'), ('Just', 'NNP'), ('swell', 'NN'), ('.', '.'), ('Put', 'VB'), ("'em", 'PRP'), ('up', 'RP'), (',', ','), ('Winona', 'NNP'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 181
+[('Applejack', 'NN'), ('!', '.'), ('Winona', 'UH'), ('!', '.'), ('Stop', 'VB'), ('!', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('scaring', 'VBG'), ('them', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 182
+[('We', 'PRP'), ('know', 'VBP'), ('what', 'WP'), ('we', 'PRP'), ("'re", 'VBP'), ('doin', 'JJ'), ("'", 'POS'), ('.', '.'), ('Get', 'VB'), ('along', 'IN'), (',', ','), ('little', 'JJ'), ('bunnies', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 183
+[('Oh', 'UH'), ('no', 'DT'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 184
+[('STAMPEDE', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 185
+[('Stampede', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 186
+[('The', 'DT'), ('horror', 'NN'), (',', ','), ('the', 'DT'), ('horror', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 187
+[('It', 'PRP'), ('was', 'VBD'), ('awful', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 188
+[('A', 'DT'), ('disaster', 'NN'), ('.', '.'), ('A', 'DT'), ('horrible', 'JJ'), (',', ','), ('horrible', 'JJ'), ('disaster', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 189
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('get', 'VB'), ('it', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 190
+[('Our', 'PRP$'), ('gardens', 'NNS'), (',', ','), ('destroyed', 'VBN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 191
+[('Every', 'DT'), ('last', 'JJ'), ('flower', 'NN'), (',', ','), ('devoured', 'VBN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 192
+[('By', 'IN'), ('...', ':'), ('by', 'IN'), ('...', ':'), ('THEM', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 193
+[('Oh', 'UH'), ('my', 'PRP$'), ('.', '.'), ('Oh', 'UH'), ('...', ':'), ('Please', 'NNP'), ('stop', 'VB'), (',', ','), ('little', 'JJ'), ('bunnies', 'NNS'), ('.', '.'), ('Oh', 'UH'), ('no', 'DT'), ('!', '.'), ('Please', 'NNP'), (',', ','), ('let', 'VB'), ("'s", 'POS'), ('go', 'VB'), ('home', 'NN'), ('.', '.'), ('Oh', 'UH'), ('my', 'PRP$'), ('goodness', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 194
+[('All', 'DT'), ('right', 'NN'), ('.', '.'), ('Enough', 'NNP'), ('is', 'VBZ'), ('enough', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 195
+[('Must', 'NNP'), ('more', 'RBR'), ('.', '.'), ('Must', 'NNP'), ('finish', 'JJ'), ('harvestin', 'NN'), ("'", 'POS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 196
+[('All', 'DT'), ('right', 'NN'), (',', ','), ('Applejack', 'NNP'), ('.', '.'), ('Your', 'PRP$'), ('applebucking', 'NN'), ('has', 'VBZ'), ("n't", 'RB'), ('just', 'RB'), ('caused', 'VBN'), ('you', 'PRP'), ('problems', 'NNS'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('over-propelled', 'JJ'), ('Pegasus', 'NNP'), ("'", 'POS'), (',', ','), ('practically', 'RB'), ('poisoned', 'VBD'), ('plenty', 'NN'), ('of', 'IN'), ('ponies', 'NNS'), (',', ','), ('and', 'CC'), ('terrorized', 'JJ'), ('bushels', 'NNS'), ('of', 'IN'), ('brand', 'NN'), ('new', 'JJ'), ('bouncing', 'VBG'), ('baby', 'NN'), ('bunnies', 'NNS'), ('.', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('care', 'VB'), ('what', 'WP'), ('you', 'PRP'), ('say', 'VBP'), (',', ','), ('you', 'PRP'), ('.', '.'), ('Need', 'VB'), ('.', '.'), ('Help', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 197
+[('Ha', 'NNP'), ('!', '.'), ('No', 'UH'), (',', ','), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('.', '.'), ('Look', 'VB'), (',', ','), ('I', 'PRP'), ('did', 'VBD'), ('it', 'PRP'), ('.', '.'), ('I', 'PRP'), ('harvested', 'VBD'), ('the', 'DT'), ('entire', 'JJ'), ('Sweet', 'NNP'), ('Apple', 'NNP'), ('Acres', 'NNP'), ('without', 'IN'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.'), ('How', 'WRB'), ("d'ya", 'JJ'), ('like', 'IN'), ('them', 'PRP'), ('apples', 'NNS'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 198
+[('Um', 'NNP'), (',', ','), ('how', 'WRB'), ('do', 'VBP'), ('you', 'PRP'), ('like', 'IN'), ('them', 'PRP'), ('apples', 'NNS'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 199
+[('Applejack', 'NNP'), ('.', '.'), ('Applejack', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 200
+[('Huh', 'NNP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 201
+[('Oh', 'UH'), (',', ','), ('good', 'JJ'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('okay', 'JJ'), ('.', '.'), ('Now', 'RB'), ('Applejack', 'NNP'), (',', ','), ('I', 'PRP'), ('completely', 'RB'), ('respect', 'VBP'), ('the', 'DT'), ('Apple', 'NNP'), ('family', 'NN'), ('ways', 'NNS'), ('.', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('always', 'RB'), ('there', 'RB'), ('to', 'TO'), ('help', 'VB'), ('anypony', 'NN'), ('in', 'IN'), ('need', 'NN'), (',', ','), ('so', 'IN'), ('maybe', 'RB'), ('you', 'PRP'), ('can', 'MD'), ('put', 'VB'), ('a', 'DT'), ('little', 'JJ'), ('of', 'IN'), ('your', 'PRP$'), ('stubborn', 'JJ'), ('pride', 'NN'), ('aside', 'RB'), ('and', 'CC'), ('allow', 'VB'), ('your', 'PRP$'), ('friends', 'NNS'), ('to', 'TO'), ('help', 'VB'), ('you', 'PRP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 202
+[('Okay', 'NNP'), (',', ','), ('Twilight', 'NNP'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 203
+[('I', 'PRP'), ('am', 'VBP'), ('not', 'RB'), ('taking', 'VBG'), ('``', '``'), ('no', 'DT'), ("''", "''"), ('for', 'IN'), ('an', 'DT'), ('answer', 'NN'), ('--', ':'), ('what', 'WP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 204
+[('Yes', 'UH'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('Yes', 'UH'), (',', ','), ('please', 'NN'), ('.', '.'), ('I', 'PRP'), ('could', 'MD'), ('really', 'RB'), ('use', 'VB'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 205
+[('Dear', 'NNP'), ('Princess', 'NNP'), ('Celestia', 'NNP'), (',', ',')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 206
+[('How', 'WRB'), ('about', 'IN'), ("y'all", 'DT'), ('take', 'VB'), ('a', 'DT'), ('little', 'JJ'), ('break', 'NN'), ('?', '.'), ('I', 'PRP'), ('got', 'VBD'), ('some', 'DT'), ('fine', 'JJ'), ('apple', 'NN'), ('juice', 'NN'), ('waitin', 'NN'), ("'", "''"), ('for', 'IN'), ('ya', 'NN'), ('!', '.'), ('Girls', 'NNP'), (',', ','), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('thank', 'VB'), ('you', 'PRP'), ('enough', 'RB'), ('for', 'IN'), ('this', 'DT'), ('help', 'NN'), ('.', '.'), ('I', 'PRP'), ('was', 'VBD'), ('acting', 'VBG'), ('a', 'DT'), ('bit', 'NN'), ('stubborn', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 207
+[('A', 'DT'), ('bit', 'NN'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 208
+[('Okay', 'NNP'), ('.', '.'), ('A', 'NNP'), ('mite', 'JJ'), ('stubborn', 'NN'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('awful', 'JJ'), ('sorry', 'NN'), ('.', '.'), ('Now', 'RB'), (',', ','), ('I', 'PRP'), ('know', 'VBP'), ('the', 'DT'), ('town', 'NN'), ('gave', 'VBD'), ('me', 'PRP'), ('the', 'DT'), ('Prized', 'NNP'), ('Pony', 'NNP'), ('award', 'NN'), (',', ','), ('but', 'CC'), ('the', 'DT'), ('real', 'JJ'), ('award', 'NN'), ('is', 'VBZ'), ('having', 'VBG'), ('you', 'PRP'), ('five', 'CD'), ('as', 'IN'), ('my', 'PRP$'), ('friends', 'NNS'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 209
+[('Phew', 'NN'), ('!', '.'), ('That', 'IN'), ('applebucking', 'VBG'), ('sure', 'JJ'), ('made', 'VBN'), ('me', 'PRP'), ('hungry', 'JJ'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 210
+[('And', 'CC'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('the', 'DT'), ('perfect', 'JJ'), ('treat', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 211
+[('Eeew', 'NN'), ('...', ':'), ('Spike', 'NNP'), (',', ','), ('I', 'PRP'), ('threw', 'VBD'), ('those', 'DT'), ('all', 'DT'), ('away', 'RB'), ('.', '.'), ('Where', 'WRB'), ("'d", 'MD'), ('you', 'PRP'), ('get', 'VB'), ('them', 'PRP'), ('?', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 212
+[('From', 'IN'), ('the', 'DT'), ('trash', 'NN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 213
+[('EW', 'NN'), ('!', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 214
+[('Just', 'RB'), ('a', 'DT'), ('little', 'JJ'), ('nibble', 'JJ'), ('?', '.'), ('Come', 'NNP'), ('on', 'IN'), ('.', '.')]
+mlpfim-s1e4-dialog-ApplebuckSeason.txt - line: 215
+[('Ew', 'NN'), ('!', '.'), ('Gross', 'NN'), ('!', '.')]
+
+Analyzing: mlpfim-s2e4-dialog-LunaEclipsed.txt
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 1
+[('Ugh', 'NNP'), (',', ','), ('come', 'VB'), ('on', 'IN'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'RB'), ('be', 'VB'), ('late', 'RB'), ('for', 'IN'), ('the', 'DT'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('festival', 'NN'), ('.', '.'), ('Huh', 'NNP'), ('?', '.'), ('Are', 'NNP'), ('you', 'PRP'), ('that', 'IN'), ('one', 'CD'), ('kooky', 'NN'), ('grandpa', 'NN'), ('from', 'IN'), ('Ponyville', 'NNP'), ('Retirement', 'NNP'), ('Village', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 2
+[('I', 'PRP'), ("'m", 'VBP'), ('Star', 'JJ'), ('Swirl', 'NNP'), ('the', 'DT'), ('Bearded', 'NNP'), ('!', '.'), ('Father', 'NNP'), ('of', 'IN'), ('the', 'DT'), ('amniomorphic', 'JJ'), ('spell', 'NN'), ('?', '.'), ('Did', 'NNP'), ('you', 'PRP'), ('even', 'RB'), ('read', 'VB'), ('that', 'IN'), ('book', 'NN'), ('I', 'PRP'), ('gave', 'VBD'), ('you', 'PRP'), ('about', 'IN'), ('obscure', 'JJ'), ('unicorn', 'JJ'), ('history', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 3
+[('Uh..', 'NN')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 4
+[('Nightmare', 'NNP'), ('Night', 'NNP'), ('!', '.'), ('What', 'WP'), ('a', 'DT'), ('fright', 'NN'), ('!', '.'), ('Give', 'VB'), ('us', 'PRP'), ('something', 'NN'), ('sweet', 'JJ'), ('to', 'TO'), ('bite', 'VB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 5
+[('Hi', 'NNP'), (',', ','), ('everypony', 'NN'), ('.', '.'), ('Great', 'NNP'), ('costumes', 'NNS'), ('.', '.'), ('Happy', 'JJ'), ('Nightmare', 'NNP'), ('Night', 'NNP'), (',', ','), ('Granny', 'NNP'), ('Smith', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 6
+[('I', 'PRP'), ('should', 'MD'), ('have', 'VB'), ('been', 'VBN'), ('asleep', 'JJ'), ('five', 'CD'), ('hours', 'NNS'), ('ago', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 7
+[('Pipsqueak', 'VB'), ('the', 'DT'), ('pirate', 'NN'), (',', ','), ('at', 'IN'), ('your', 'PRP$'), ('service', 'NN'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('my', 'PRP$'), ('very', 'RB'), ('first', 'RB'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 8
+[('Since', 'IN'), ('you', 'PRP'), ('moved', 'VBD'), ('here', 'RB'), ('from', 'IN'), ('Trottingham', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 9
+[('No', 'DT'), (',', ','), ('my', 'PRP$'), ('very', 'RB'), ('first', 'RB'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('ever', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 10
+[('Enough', 'JJ'), ('chitchat', 'NN'), ('!', '.'), ('Time', 'NNP'), ('is', 'VBZ'), ('candy', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 11
+[('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('are', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('a', 'DT'), ('little', 'JJ'), ('old', 'JJ'), ('for', 'IN'), ('this', 'DT'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 12
+[('Too', 'NNP'), ('old', 'JJ'), ('for', 'IN'), ('free', 'JJ'), ('candy', 'NN'), ('?', '.'), ('Never', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 13
+[('Do', 'VBP'), ('you', 'PRP'), ('like', 'IN'), ('it', 'PRP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 14
+[('Yeah', 'UH'), ('!', '.'), ('Great', 'NNP'), ('costume', 'NN'), (',', ','), ('Twilight', 'NNP'), ('!', '.'), ('You', 'PRP'), ('make', 'VBP'), ('a', 'DT'), ('fantastic', 'JJ'), ('weirdo', 'NN'), ('clown', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 15
+[('A', 'DT'), ('clown', 'NN'), ('?', '.'), ('Look', 'VB'), ('at', 'IN'), ('the', 'DT'), ('borders', 'NNS'), ('on', 'IN'), ('these', 'DT'), ('robes', 'NNS'), ('.', '.'), ('These', 'DT'), ('are', 'VBP'), ('hoof-stitched', 'JJ'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 16
+[('It', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('great', 'JJ'), ('costume', 'NN'), ('!', '.'), ('Huh', 'NNP'), ('!', '.'), ('Grandpa', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 17
+[('Star', 'NNP'), ('Swirl', 'NNP'), ('the', 'DT'), ('Bearded', 'NNP'), ('is', 'VBZ'), ('only', 'RB'), ('the', 'DT'), ('most', 'RBS'), ('important', 'JJ'), ('conjurer', 'NN'), ('of', 'IN'), ('the', 'DT'), ('pre-classical', 'JJ'), ('era', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 18
+[('Yeah', 'UH'), ('!', '.'), ('Whoo-hoo', 'JJ'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 19
+[('He', 'PRP'), ('created', 'VBD'), ('more', 'JJR'), ('than', 'IN'), ('two', 'CD'), ('hundred', 'JJ'), ('spells', 'NNS'), ('!', '.'), ('He', 'PRP'), ('even', 'RB'), ('has', 'VBZ'), ('a', 'DT'), ('shelf', 'NN'), ('in', 'IN'), ('the', 'DT'), ('Canterlot', 'NNP'), ('library', 'NN'), ('of', 'IN'), ('magic', 'NN'), ('named', 'VBN'), ('after', 'IN'), ('him', 'PRP'), ('.', '.'), ('Maybe', 'RB'), ('I', 'PRP'), ('should', 'MD'), ('start', 'VB'), ('up', 'RP'), ('a', 'DT'), ('pony', 'NN'), ('group', 'NN'), ('to', 'TO'), ('teach', 'VB'), ('ponies', 'NNS'), ('about', 'IN'), ('history', 'NN'), ('.', '.'), ('I', 'PRP'), ('bet', 'VBD'), ('everypony', 'NN'), ('would', 'MD'), ('love', 'VB'), ('it', 'PRP'), ('!', '.'), ('Do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), (',', ','), ('Spike', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 20
+[('I', 'PRP'), ('love', 'VBP'), ('it', 'PRP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 21
+[('Hey', 'NNP'), ('look', 'VBP'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('here', 'RB'), ('already', 'RB'), ('!', '.'), ('Should', 'MD'), ('we', 'PRP'), ('get', 'VB'), ('something', 'NN'), ('to', 'TO'), ('eat', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 22
+[('Twilight', 'NNP'), (',', ','), ('Twilight', 'NNP'), ('!', '.'), ('Look', 'NN'), ('at', 'IN'), ('our', 'PRP$'), ('haul', 'NN'), ('!', '.'), ('Ah', 'UH'), ('!', '.'), ('Can', 'MD'), ('you', 'PRP'), ('believe', 'VB'), ('it', 'PRP'), ('?', '.'), ('And', 'CC'), ('then', 'RB'), (',', ','), ('we', 'PRP'), ('went', 'VBD'), ('to', 'TO'), ('Cheerilee', 'NNP'), ("'s", 'POS'), ('house', 'NN'), (',', ','), ('and', 'CC'), ('got', 'VBD'), ('a', 'DT'), ('bunch', 'NN'), ('more', 'JJR'), ('goodies', 'NNS'), ('.', '.'), ('Did', 'VBP'), ("n't", 'RB'), ('we', 'PRP'), (',', ','), ('Pip', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 23
+[('Sure', 'RB'), ('did', 'VBD'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 24
+[('And', 'CC'), ('then', 'RB'), (',', ','), ('we', 'PRP'), ('had', 'VBD'), ('to', 'TO'), ('stop', 'VB'), ('and', 'CC'), ('wait', 'VB'), ('for', 'IN'), ('Granny', 'NNP'), ('Smith', 'NNP'), (',', ','), ('and', 'CC'), ('-–', 'VB')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 25
+[('Rainbow', 'NNP'), ('Dash', 'NNP'), (',', ','), ('that', 'WDT'), ('was', 'VBD'), ("n't", 'RB'), ('very', 'RB'), ('nice', 'JJ'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 26
+[('Lighten', 'NNP'), ('up', 'RP'), (',', ','), ('old-timer', 'JJ'), ('.', '.'), ('This', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('night', 'NN'), ('of', 'IN'), ('the', 'DT'), ('year', 'NN'), ('for', 'IN'), ('pranks', 'NNS'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 27
+[('Look', 'VB'), ('what', 'WP'), ('you', 'PRP'), ('did', 'VBD'), ('to', 'TO'), ('Spike', 'VB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 28
+[('It', 'PRP'), ("'s", 'VBZ'), ('all', 'DT'), ('in', 'IN'), ('good', 'JJ'), ('fun', 'NN'), ('.', '.'), ('Oh', 'UH'), ('!', '.'), ('Oh', 'UH'), ('!', '.'), ('There', 'EX'), ("'s", 'VBZ'), ('another', 'DT'), ('group', 'NN'), ('over', 'IN'), ('there', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 29
+[('Happy', 'JJ'), ('Nightmare', 'NNP'), ('Night', 'NNP'), (',', ','), ('Applejack', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 30
+[('Howdy', 'NNP'), (',', ','), ('Spike', 'NNP'), ('!', '.'), ('Hey', 'NNP'), (',', ','), ('Twilight', 'NNP'), ('!', '.'), ('Nice', 'NNP'), ('costume', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 31
+[('Thanks', 'NNS'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('a', 'DT'), ('dragon', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 32
+[('She', 'PRP'), ('means', 'VBZ'), ('me', 'PRP'), (',', ','), ('Spike', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 33
+[('With', 'IN'), ('that', 'DT'), ('beard', 'NN'), (',', ','), ('I', 'PRP'), ('reckon', 'VBP'), ('you', 'PRP'), ("'re", 'VBP'), ('some', 'DT'), ('sorta', 'JJ'), ('country', 'NN'), ('music', 'NN'), ('singer', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 34
+[('While', 'IN'), ("y'all", 'NN'), ('are', 'VBP'), ('here', 'RB'), (',', ','), ('ya', 'PRP'), ("'", "''"), ('feel', 'VBP'), ('like', 'IN'), ('bobbin', 'NN'), ("'", "''"), ('for', 'IN'), ('an', 'DT'), ('apple', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 35
+[('Thank', 'NNP'), ('you', 'PRP'), (',', ','), ('everypony', 'VB'), (',', ','), ('and', 'CC'), ('welcome', 'VB'), ('to', 'TO'), ('the', 'DT'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('festival', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 36
+[('Now', 'RB'), (',', ','), ('all', 'PDT'), ('the', 'DT'), ('little', 'JJ'), ('ponies', 'NNS'), ('who', 'WP'), ('have', 'VBP'), ('been', 'VBN'), ('out', 'RP'), ('collecting', 'VBG'), ('sweets', 'NNS'), ('should', 'MD'), ('follow', 'VB'), ('our', 'PRP$'), ('friend', 'NN'), ('Zecora', 'NNP'), ('to', 'TO'), ('hear', 'VB'), ('the', 'DT'), ('legend', 'NN'), ('of', 'IN'), ('...', ':'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 37
+[('Spooky', 'NNP'), ('voice', 'NN'), ('might', 'MD'), ('work', 'VB'), ('better', 'RB'), ('if', 'IN'), ('she', 'PRP'), ('was', 'VBD'), ("n't", 'RB'), ('dressed', 'VBN'), ('like', 'IN'), ('that', 'DT'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 38
+[('Follow', 'IN'), ('me', 'PRP'), (',', ','), ('and', 'CC'), ('very', 'RB'), ('soon', 'RB'), (',', ','), ('you', 'PRP'), ("'ll", 'MD'), ('hear', 'VB'), ('the', 'DT'), ('tale', 'NN'), ('of', 'IN'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 39
+[('Listen', 'NNP'), ('close', 'RB'), (',', ','), ('my', 'PRP$'), ('little', 'JJ'), ('dears', 'NNS'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('tell', 'VB'), ('you', 'PRP'), ('where', 'WRB'), ('you', 'PRP'), ('got', 'VBD'), ('your', 'PRP$'), ('fears', 'NNS'), ('of', 'IN'), ('Nightmare', 'NNP'), ('Night', 'NNP'), (',', ','), ('so', 'RB'), ('dark', 'JJ'), ('and', 'CC'), ('scary', 'JJ'), ('.', '.'), ('Of', 'IN'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), (',', ','), ('who', 'WP'), ('makes', 'VBZ'), ('you', 'PRP'), ('wary', 'JJ'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 40
+[('Every', 'DT'), ('year', 'NN'), (',', ','), ('we', 'PRP'), ('put', 'VBP'), ('on', 'IN'), ('a', 'DT'), ('disguise', 'NN'), (',', ','), ('to', 'TO'), ('save', 'VB'), ('ourselves', 'PRP'), ('from', 'IN'), ('her', 'PRP$'), ('searching', 'VBG'), ('eyes', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 41
+[('But', 'CC'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('wants', 'VBZ'), ('just', 'RB'), ('one', 'CD'), ('thing', 'NN'), (':', ':'), ('to', 'TO'), ('gobble', 'VB'), ('up', 'RP'), ('ponies', 'NNS'), ('in', 'IN'), ('one', 'CD'), ('quick', 'JJ'), ('swing', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 42
+[('Hungrily', 'RB'), (',', ','), ('she', 'PRP'), ('soars', 'VBZ'), ('the', 'DT'), ('sky', 'NN'), ('.', '.'), ('If', 'IN'), ('she', 'PRP'), ('sees', 'VBZ'), ('nopony', 'JJ'), (',', ','), ('she', 'PRP'), ('passes', 'VBZ'), ('by', 'IN'), ('.', '.'), ('So', 'RB'), ('if', 'IN'), ('she', 'PRP'), ('comes', 'VBZ'), ('and', 'CC'), ('all', 'DT'), ('is', 'VBZ'), ('clear', 'JJ'), (',', ','), ('Equestria', 'NNP'), ('is', 'VBZ'), ('safe', 'JJ'), ('another', 'DT'), ('year', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 43
+[('Uh', 'NNP'), (',', ','), ('Miss', 'NNP'), ('Zecora', 'NNP'), (',', ','), ('if', 'IN'), ('we', 'PRP'), ('wear', 'VBP'), ('costumes', 'NNS'), ('to', 'TO'), ('hide', 'VB'), ('from', 'IN'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), (',', ','), ('so', 'IN'), ('she', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('gobble', 'VB'), ('us', 'PRP'), ('up', 'RP'), (',', ','), ('how', 'WRB'), ('come', 'NN'), ('we', 'PRP'), ('still', 'RB'), ('need', 'VBP'), ('to', 'TO'), ('give', 'VB'), ('her', 'PRP$'), ('some', 'DT'), ('of', 'IN'), ('our', 'PRP$'), ('candy', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 44
+[('A', 'DT'), ('perfect', 'JJ'), ('question', 'NN'), (',', ','), ('my', 'PRP$'), ('little', 'JJ'), ('friend', 'NN'), ('.', '.'), ('For', 'IN'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('you', 'PRP'), ('must', 'MD'), ('not', 'RB'), ('offend', 'VB'), ('.', '.'), ('Fill', 'NNP'), ('up', 'RP'), ('her', 'PRP$'), ('belly', 'RB'), ('with', 'IN'), ('a', 'DT'), ('treat', 'NN'), ('or', 'CC'), ('two', 'CD'), (',', ','), ('so', 'IN'), ('she', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('return', 'VB'), ('to', 'TO'), ('come', 'VB'), ('eat', 'NN'), ('you', 'PRP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 45
+[('Everypony', 'NN'), ('!', '.'), ('Just', 'NNP'), ('dump', 'VB'), ('some', 'DT'), ('candy', 'NN'), ('and', 'CC'), ('get', 'VB'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 46
+[('It', 'PRP'), ("'s", 'VBZ'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('!', '.'), ('Run', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 47
+[('Princess', 'NNP'), ('Luna', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 48
+[('Citizens', 'NNS'), ('of', 'IN'), ('Ponyville', 'NNP'), ('!', '.'), ('We', 'PRP'), ('have', 'VBP'), ('graced', 'VBN'), ('your', 'PRP$'), ('tiny', 'JJ'), ('village', 'NN'), ('with', 'IN'), ('our', 'PRP$'), ('presence', 'NN'), (',', ','), ('so', 'IN'), ('that', 'IN'), ('you', 'PRP'), ('might', 'MD'), ('behold', 'VB'), ('the', 'DT'), ('real', 'JJ'), ('Princess', 'NN'), ('of', 'IN'), ('the', 'DT'), ('Night', 'NNP'), ('!', '.'), ('A', 'DT'), ('creature', 'NN'), ('of', 'IN'), ('nightmares', 'NNS'), ('no', 'DT'), ('longer', 'RB'), (',', ','), ('but', 'CC'), ('instead', 'RB'), ('a', 'DT'), ('pony', 'NN'), ('who', 'WP'), ('desires', 'VBZ'), ('your', 'PRP$'), ('love', 'NN'), ('and', 'CC'), ('admiration', 'NN'), ('!', '.'), ('Together', 'RB'), ('we', 'PRP'), ('shall', 'MD'), ('change', 'VB'), ('this', 'DT'), ('dreadful', 'JJ'), ('celebration', 'NN'), ('into', 'IN'), ('a', 'DT'), ('bright', 'JJ'), ('and', 'CC'), ('glorious', 'JJ'), ('feast', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 49
+[('Did', 'NNP'), ('you', 'PRP'), ('hear', 'VBP'), ('that', 'IN'), (',', ','), ('everypony', 'VB'), ('?', '.'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('says', 'VBZ'), ('she', 'PRP'), ("'s", 'VBZ'), ('gon', 'NN'), ('na', 'TO'), ('feast', 'NN'), ('on', 'IN'), ('us', 'PRP'), ('all', 'DT'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 50
+[('Madame', 'NNP'), ('Mayor', 'NNP'), (',', ','), ('thy', 'JJ'), ('Princess', 'NNP'), ('of', 'IN'), ('the', 'DT'), ('Night', 'NNP'), ('hath', 'NN'), ('arrived', 'VBD'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 51
+[('What', 'WP'), ('is', 'VBZ'), ('the', 'DT'), ('matter', 'NN'), ('with', 'IN'), ('you', 'PRP'), ('?', '.'), ('Very', 'RB'), ('well', 'RB'), (',', ','), ('then', 'RB'), ('.', '.'), ('Be', 'VB'), ('that', 'DT'), ('way', 'NN'), ('.', '.'), ('We', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('even', 'RB'), ('bother', 'VB'), ('with', 'IN'), ('the', 'DT'), ('traditional', 'JJ'), ('royal', 'NN'), ('farewell', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 52
+[('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('go', 'VB'), ('talk', 'NN'), ('to', 'TO'), ('her', 'PRP$'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 53
+[('You', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('talk', 'VB'), ('to', 'TO'), ('her', 'PRP$'), ('!', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 54
+[('No', 'DT'), (',', ','), ('she', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('.', '.'), ('I', 'PRP'), ('saw', 'VBD'), ('the', 'DT'), ('Elements', 'NNS'), ('of', 'IN'), ('Harmony', 'NNP'), ('change', 'NN'), ('her', 'PRP$'), ('back', 'NN'), ('to', 'TO'), ('good', 'JJ'), ('.', '.'), ('But', 'CC'), ('it', 'PRP'), ('seems', 'VBZ'), ('like', 'IN'), ('she', 'PRP'), ("'s", 'VBZ'), ('having', 'VBG'), ('some', 'DT'), ('trouble', 'NN'), ('adjusting', 'VBG'), ('after', 'IN'), ('being', 'VBG'), ('gone', 'VBN'), ('for', 'IN'), ('a', 'DT'), ('thousand', 'CD'), ('years', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 55
+[('Princess', 'NNP'), ('Luna', 'NNP'), ('?', '.'), ('Hi', 'NNP'), (',', ','), ('my', 'PRP$'), ('name', 'NN'), ('is', 'VBZ'), ('-–', 'JJ')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 56
+[('Star', 'NNP'), ('Swirl', 'NNP'), ('the', 'DT'), ('Bearded', 'NNP'), ('.', '.'), ('Commendable', 'JJ'), ('costume', 'NN'), ('!', '.'), ('Thou', 'NNP'), ('even', 'RB'), ('got', 'VBD'), ('the', 'DT'), ('bells', 'NNS'), ('right', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 57
+[('Thank', 'NNP'), ('you', 'PRP'), ('!', '.'), ('Finally', 'RB'), ('!', '.'), ('Somepony', 'NN'), ('who', 'WP'), ('gets', 'VBZ'), ('my', 'PRP$'), ('costume', 'NN'), ('!', '.'), ('Uh', 'NNP'), (',', ','), ('I', 'PRP'), ('just', 'RB'), ('came', 'VBD'), ('to', 'TO'), ('welcome', 'VB'), ('you', 'PRP'), ('to', 'TO'), ('our', 'PRP$'), ('celebration', 'NN'), ('!', '.'), ('My', 'PRP$'), ('actual', 'JJ'), ('name', 'NN'), ('is', 'VBZ'), ('-–', 'JJ')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 58
+[('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('.', '.'), ('It', 'PRP'), ('was', 'VBD'), ('thou', 'VBN'), ('who', 'WP'), ('unleashed', 'VBD'), ('the', 'DT'), ('powers', 'NNS'), ('of', 'IN'), ('harmony', 'NN'), ('upon', 'IN'), ('us', 'PRP'), ('and', 'CC'), ('took', 'VBD'), ('away', 'RB'), ('our', 'PRP$'), ('dark', 'JJ'), ('powers', 'NNS'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 59
+[('And', 'CC'), ('that', 'DT'), ('was', 'VBD'), ('a', 'DT'), ('good', 'JJ'), ('thing', 'NN'), (',', ','), ('right', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 60
+[('But', 'CC'), ('of', 'IN'), ('course', 'NN'), ('.', '.'), ('We', 'PRP'), ('could', 'MD'), ('not', 'RB'), ('be', 'VB'), ('happier', 'JJR'), ('.', '.'), ('Is', 'VBZ'), ('that', 'IN'), ('not', 'RB'), ('clear', 'JJ'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 61
+[('Well', 'RB'), (',', ','), ('you', 'PRP'), ('kinda', 'VBP'), ('sound', 'JJ'), ('like', 'IN'), ('you', 'PRP'), ("'re", 'VBP'), ('yelling', 'VBG'), ('at', 'IN'), ('me', 'PRP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 62
+[('But', 'CC'), ('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('traditional', 'JJ'), ('royal', 'NN'), ('Canterlot', 'NNP'), ('voice', 'NN'), ('!', '.'), ('It', 'PRP'), ('is', 'VBZ'), ('tradition', 'NN'), ('to', 'TO'), ('speak', 'VB'), ('using', 'VBG'), ('the', 'DT'), ('royal', 'NN'), ('``', '``'), ('we', 'PRP'), ("''", "''"), (',', ','), ('and', 'CC'), ('to', 'TO'), ('use', 'VB'), ('this', 'DT'), ('much', 'JJ'), ('volume', 'NN'), ('when', 'WRB'), ('addressing', 'VBG'), ('our', 'PRP$'), ('subjects', 'NNS'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 63
+[('You', 'PRP'), ('know', 'VBP'), (',', ','), ('that', 'WDT'), ('might', 'MD'), ('explain', 'VB'), ('why', 'WRB'), ('your', 'PRP$'), ('appearance', 'NN'), ('was', 'VBD'), ('met', 'VBN'), ('with', 'IN'), ('...', ':'), ('mixed', 'JJ'), ('results', 'NNS'), ('.', '.'), ('I', 'PRP'), ('think', 'VBP'), ('if', 'IN'), ('you', 'PRP'), ('just', 'RB'), ('changed', 'VB'), ('your', 'PRP$'), ('approach', 'NN'), ('a', 'DT'), ('bit', 'NN'), (',', ','), ('you', 'PRP'), ('might', 'MD'), ('be', 'VB'), ('met', 'VBN'), ('with', 'IN'), ('a', 'DT'), ('warmer', 'JJ'), ('reception', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 64
+[('Change', 'NNP'), ('our', 'PRP$'), ('approach', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 65
+[('Lower', 'JJR'), ('the', 'DT'), ('volume', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 66
+[('Ohhh', 'NNP'), ('.', '.'), ('We', 'PRP'), ('have', 'VBP'), ('been', 'VBN'), ('locked', 'VBN'), ('away', 'RP'), ('for', 'IN'), ('a', 'DT'), ('thousand', 'CD'), ('years', 'NNS'), ('.', '.'), ('We', 'PRP'), ('are', 'VBP'), ('...', ':'), ('not', 'RB'), ('sure', 'JJ'), ('we', 'PRP'), ('can', 'MD'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 67
+[('Do', 'VBP'), ("n't", 'RB'), ('worry', 'VB'), (',', ','), ('Princess', 'NNP'), ('.', '.'), ('Fluttershy', 'NNP'), ('can', 'MD'), ('give', 'VB'), ('you', 'PRP'), ('some', 'DT'), ('great', 'JJ'), ('pointers', 'NNS'), ('.', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('delicate', 'JJ'), ('and', 'CC'), ('demure', 'NN'), ('with', 'IN'), ('the', 'DT'), ('sweetest', 'JJS'), ('little', 'JJ'), ('voice', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 68
+[('Go', 'VB'), ('away', 'RB'), ('!', '.'), ('No', 'UH'), ('candy', 'NN'), ('here', 'RB'), ('!', '.'), ('Visitors', 'NNS'), ('not', 'RB'), ('welcome', 'VB'), ('on', 'IN'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 69
+[('Fluttershy', 'NNP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('me', 'PRP'), (',', ','), ('Twilight', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 70
+[('It', 'PRP'), ('is', 'VBZ'), ('you', 'PRP'), ('.', '.'), ('Ah', 'NNP'), (',', ','), ('and', 'CC'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 71
+[('Wait', 'NNP'), ('right', 'NN'), ('here', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 72
+[('Fluttershy', 'NNS'), ('...', ':'), ('you', 'PRP'), ('remember', 'VBP'), ('Princess', 'JJ'), ('Luna', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 73
+[('Charmed', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 74
+[('Likewise', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 75
+[('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('hath', 'NN'), ('spoken', 'NN'), ('of', 'IN'), ('the', 'DT'), ('sweetness', 'NN'), ('of', 'IN'), ('thy', 'JJ'), ('voice', 'NN'), ('.', '.'), ('We', 'PRP'), ('ask', 'VBP'), ('thou', 'JJ'), ('teachest', 'NN'), ('to', 'TO'), ('us', 'PRP'), ('to', 'TO'), ('speak', 'VB'), ('as', 'IN'), ('thou', 'JJ'), ('speakest', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 76
+[('Okay', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 77
+[('Shall', 'VB'), ('our', 'PRP$'), ('lessons', 'NNS'), ('begin', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 78
+[('Okay', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 79
+[('Shall', 'NN'), ('we', 'PRP'), ('mimic', 'VBP'), ('thy', 'JJ'), ('voice', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 80
+[('Okay', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 81
+[('How', 'WRB'), ('is', 'VBZ'), ('this', 'DT'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 82
+[('Perfect', 'NNP'), (',', ','), ('lesson', 'NN'), ('over', 'IN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 83
+[('A', 'DT'), ('little', 'JJ'), ('quieter', 'NN'), (',', ','), ('princess', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 84
+[('this', 'DT'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 85
+[('Better', 'NNP'), ('.', '.'), ('Right', 'NNP'), (',', ','), ('Fluttershy', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 86
+[('Yes', 'UH'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 87
+[('How', 'WRB'), ('...', ':'), ('about', 'IN'), ('...', ':'), ('now', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 88
+[('Now', 'RB'), ('you', 'PRP'), ("'re", 'VBP'), ('getting', 'VBG'), ('it', 'PRP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 89
+[('And', 'CC'), ('...', ':'), ('how', 'WRB'), ('about', 'RB'), ('now', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 90
+[('Yes', 'UH'), ('!', '.'), ('Well', 'NNP'), ('done', 'VBN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 91
+[('I', 'PRP'), ('thank', 'VBP'), ('thee', 'JJ'), (',', ','), ('dear', 'JJ'), ('Fluttershy', 'NN'), ('!', '.'), ('Our', 'PRP$'), ('normal', 'JJ'), ('speaking', 'NN'), ('voice', 'NN'), ('shall', 'MD'), ('surely', 'RB'), ('win', 'VB'), ('us', 'PRP'), ('the', 'DT'), ('hearts', 'NNS'), ('of', 'IN'), ('thy', 'JJ'), ('fellow', 'JJ'), ('villagers', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 92
+[('Fluttershy', 'NN'), ('!', '.'), ('You', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('hide', 'VB'), ('us', 'PRP'), ('!', '.'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('is', 'VBZ'), ('here', 'RB'), ('and', 'CC'), ('...', ':'), ('Ah', 'NN'), ('!', '.'), ('She', 'PRP'), ('stole', 'VBD'), ('Fluttershy', 'NNP'), ("'s", 'POS'), ('voice', 'NN'), ('so', 'RB'), ('she', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('scream', 'VB'), ('when', 'WRB'), ('she', 'PRP'), ('gobbles', 'VBZ'), ('her', 'PRP'), ('up', 'RP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 93
+[('I', 'PRP'), ('mean', 'VBP'), ('...', ':'), ('nay', 'RB'), (',', ','), ('children', 'NNS'), (',', ','), ('no', 'DT'), (',', ','), ('wait', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 94
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('princess', 'NN'), ('.', '.'), ('Time', 'NN'), ('for', 'IN'), ('plan', 'NN'), ('B', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 95
+[('Hurray', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 96
+[('Aah', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 97
+[('It', 'PRP'), ('is', 'VBZ'), ('of', 'IN'), ('no', 'DT'), ('use', 'NN'), (',', ','), ('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('.', '.'), ('They', 'PRP'), ('have', 'VBP'), ('never', 'RB'), ('liked', 'VBN'), ('us', 'PRP'), ('and', 'CC'), ('they', 'PRP'), ('never', 'RB'), ('shall', 'MD'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 98
+[('My', 'PRP$'), ('friend', 'NN'), ('Applejack', 'NNP'), ('is', 'VBZ'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('likable', 'JJ'), ('ponies', 'NNS'), ('around', 'IN'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('sure', 'JJ'), ('she', 'PRP'), ("'ll", 'MD'), ('have', 'VB'), ('some', 'DT'), ('ideas', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 99
+[('Heee', 'NNP'), ('...', ':'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 100
+[('Whoop', 'NNP'), ('.', '.'), ('Careful', 'NNP'), ('there', 'RB'), (',', ','), ('partner', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 101
+[('Uh', 'NNP'), ('...', ':'), ('Applejack', 'NNP'), (',', ','), ('the', 'DT'), ('princess', 'NN'), ('is', 'VBZ'), ('looking', 'VBG'), ('for', 'IN'), ('a', 'DT'), ('little', 'JJ'), ('advice', 'NN'), ('on', 'IN'), ('how', 'WRB'), ('to', 'TO'), ('fit', 'VB'), ('in', 'IN'), ('around', 'RB'), ('here', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 102
+[('``', '``'), ('Fit', 'NN'), ('in', 'IN'), ("''", "''"), ('?', '.'), ('Really', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 103
+[('I', 'PRP'), ('mean', 'VBP'), ('...', ':'), ('that', 'DT'), ("'s", 'VBZ'), ('easy', 'JJ'), ('!', '.'), ('All', 'DT'), ('you', 'PRP'), ('got', 'VBD'), ('ta', 'NNS'), ('do', 'VBP'), ('is', 'VBZ'), ('have', 'VB'), ('the', 'DT'), ('right', 'JJ'), ('attitude', 'NN'), ('.', '.'), ('Loosen', 'NNP'), ('up', 'RP'), ('a', 'DT'), ('bit', 'NN'), (',', ','), ('be', 'VB'), ('positive', 'JJ'), (',', ','), ('play', 'VB'), ('a', 'DT'), ('few', 'JJ'), ('games', 'NNS'), (',', ','), ('have', 'VBP'), ('some', 'DT'), ('fun', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 104
+[('Fun', 'NNP'), ('?', '.'), ('What', 'WP'), ('is', 'VBZ'), ('this', 'DT'), ('``', '``'), ('fun', 'NN'), ("''", "''"), ('thou', 'JJ'), ('speakest', 'NN'), ('of', 'IN'), ('?', '.'), ('Pray', 'NNP'), ('tell', 'NN'), (',', ','), ('what', 'WP'), ('purpose', 'VB'), ('do', 'VBP'), ('these', 'DT'), ('serve', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 105
+[('Try', 'VB'), ('to', 'TO'), ('land', 'VB'), ('the', 'DT'), ('sp-sp-spiders', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('web', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 106
+[('You', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('it', 'PRP'), (',', ','), ('princess', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 107
+[('Ha', 'NN'), ('!', '.'), ('Your', 'PRP$'), ('princess', 'NN'), ('enjoys', 'VBZ'), ('this', 'DT'), ('``', '``'), ('fun', 'NN'), ("''", "''"), ('!', '.'), ('In', 'IN'), ('what', 'WP'), ('other', 'JJ'), ('ways', 'NNS'), ('may', 'MD'), ('we', 'PRP'), ('experience', 'VB'), ('it', 'PRP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 108
+[('Fire', 'NNP'), ('away', 'RB'), (',', ','), ('princess', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 109
+[('Ha', 'NNP'), ('ha', 'NN'), ('!', '.'), ('The', 'DT'), ('fun', 'NN'), ('has', 'VBZ'), ('been', 'VBN'), ('doubled', 'VBN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 110
+[('Hurray', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 111
+[('Why', 'WRB'), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('try', 'VB'), ('bobbin', 'NNS'), ("'", 'POS'), ('for', 'IN'), ('apples', 'NNS'), ('?', '.'), ('We', 'PRP'), ('got', 'VBD'), ('the', 'DT'), ('best', 'JJS'), ('apples', 'NNS'), ('in', 'IN'), ('Equestria', 'NNP'), ('here', 'RB'), (',', ','), ('princess', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 112
+[('I', 'PRP'), ('ask', 'VBP'), ('that', 'IN'), ('thou', 'NN'), ('call', 'NN'), ('us', 'PRP'), ('...', ':'), ('me', 'PRP'), ('...', ':'), ('Luna', 'NNP'), (',', ','), ('fair', 'JJ'), ('Applejack', 'NNP'), ('.', '.'), ('Hear', 'NNP'), ('me', 'PRP'), (',', ','), ('villagers', 'NNS'), ('!', '.'), ('All', 'DT'), ('of', 'IN'), ('you', 'PRP'), ('!', '.'), ('Call', 'VB'), ('me', 'PRP'), ('Luna', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 113
+[('Luna', 'NN'), ('...', ':')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 114
+[('Show', 'VB'), ('me', 'PRP'), ('to', 'TO'), ('these', 'DT'), ('bobbing', 'VBG'), ('apples', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 115
+[('Whoa', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 116
+[('Hey', 'NNP'), (',', ','), ('gals', 'NNS'), ('.', '.'), ('Anypony', 'NNP'), ('seen', 'VBN'), ('Pip', 'NNP'), ('?', '.'), ('We', 'PRP'), ('lost', 'VBD'), ('him', 'PRP'), ('the', 'DT'), ('last', 'JJ'), ('time', 'NN'), ('we', 'PRP'), ('had', 'VBD'), ('to', 'TO'), ('run–', 'VB'), ('Aaah', 'NNP'), ('!', '.'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('is', 'VBZ'), ('gobbling', 'VBG'), ('Pipsqueak', 'NNP'), ('!', '.'), ('Everypony', 'NNP'), ('run', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 117
+[('Help', 'NN'), ('!', '.'), ('My', 'PRP$'), ('backside', 'NN'), ('has', 'VBZ'), ('been', 'VBN'), ('gobbled', 'VBN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 118
+[("'T", 'NN'), ('is', 'VBZ'), ('a', 'DT'), ('lie', 'NN'), ('!', '.'), ('Thy', 'NNP'), ('backside', 'NN'), ('is', 'VBZ'), ('whole', 'JJ'), ('and', 'CC'), ('ungobbled', 'JJ'), (',', ','), ('thou', 'JJ'), ('ungrateful', 'JJ'), ('whelp', 'NN'), ('!', '.'), ('Fair', 'NNP'), ('villagers', 'NNS'), (',', ','), ('please', 'VB'), ('do', 'VB'), ('not', 'RB'), ('back', 'VB'), ('away', 'RB'), ('.', '.'), ('Let', 'VB'), ('us', 'PRP'), ('join', 'VB'), ('together', 'RB'), ('in', 'IN'), ('...', ':'), ('fun', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 119
+[('Not', 'RB'), ('enough', 'RB'), ('fun', 'NN'), ('for', 'IN'), ('you', 'PRP'), ('?', '.'), ('What', 'WP'), ('say', 'VBP'), ('you', 'PRP'), ('to', 'TO'), ('this', 'DT'), ('!', '.'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 120
+[('Huzzah', 'NN'), ('!', '.'), ('How', 'WRB'), ('many', 'JJ'), ('points', 'NNS'), ('do', 'VBP'), ('I', 'PRP'), ('receive', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 121
+[('Do', 'NNP'), ('not', 'RB'), ('run', 'VB'), ('away', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 122
+[('As', 'IN'), ('your', 'PRP$'), ('princess', 'NN'), (',', ','), ('we', 'PRP'), ('command', 'VBP'), ('you', 'PRP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 123
+[('Be', 'NNP'), ('still', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 124
+[('Princess', 'NNP'), (',', ','), ('remember', 'VB'), ('!', '.'), ('Watch', 'VB'), ('the', 'DT'), ('screaming', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 125
+[('No', 'DT'), (',', ','), ('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('!', '.'), ('We', 'PRP'), ('must', 'MD'), ('use', 'VB'), ('the', 'DT'), ('traditional', 'JJ'), ('royal', 'NN'), ('Canterlot', 'NNP'), ('voice', 'NN'), ('for', 'IN'), ('what', 'WP'), ('we', 'PRP'), ('are', 'VBP'), ('about', 'IN'), ('to', 'TO'), ('say', 'VB'), ('.', '.'), ('Since', 'IN'), ('you', 'PRP'), ('choose', 'VBP'), ('to', 'TO'), ('fear', 'VB'), ('your', 'PRP$'), ('princess', 'NN'), ('rather', 'RB'), ('than', 'IN'), ('love', 'VB'), ('her', 'PRP$'), (',', ','), ('and', 'CC'), ('dishonor', 'VBZ'), ('her', 'PRP$'), ('with', 'IN'), ('this', 'DT'), ('insulting', 'JJ'), ('celebration', 'NN'), (',', ','), ('we', 'PRP'), ('decree', 'VBP'), ('that', 'WDT'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('shall', 'MD'), ('be', 'VB'), ('canceled', 'VBN'), ('!', '.'), ('Forever', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 126
+[('Shoot', 'NNP'), ('.', '.'), ('We', 'PRP'), ('had', 'VBD'), ('everything', 'NN'), ('goin', 'NN'), ("'", "''"), ('our', 'PRP$'), ('way', 'NN'), ('.', '.'), ('Luna', 'NNP'), ('was', 'VBD'), ('happy', 'JJ'), (',', ','), ('everypony', 'NN'), ('in', 'IN'), ('town', 'NN'), ('was', 'VBD'), ('happy', 'JJ'), (',', ','), ('now', 'RB'), ('look', 'VBP'), ('at', 'IN'), ("'em", 'PRP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 127
+[('But', 'CC'), ('I', 'PRP'), ('wanted', 'VBD'), ('to', 'TO'), ('be', 'VB'), ('a', 'DT'), ('zombie', 'NN'), ('next', 'JJ'), ('year', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 128
+[('It', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('over', 'RP'), ('yet', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 129
+[('What', 'WP'), ('are', 'VBP'), ('you', 'PRP'), ('gon', 'VB'), ('na', 'TO'), ('do', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 130
+[('I', 'PRP'), ("'m", 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('do', 'VB'), ('what', 'WP'), ('I', 'PRP'), ('do', 'VBP'), ('best', 'RB'), ('.', '.'), ('Lecture', 'VB'), ('her', 'PRP$'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 131
+[('Princess', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 132
+[('Leave', 'VB'), ('me', 'PRP'), ('be', 'VB'), (',', ','), ('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 133
+[('Princess', 'NNP'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('sorry', 'JJ'), ('it', 'PRP'), ('has', 'VBZ'), ("n't", 'RB'), ('worked', 'VBN'), ('out', 'RP'), ('how', 'WRB'), ('we', 'PRP'), ('wanted', 'VBD'), ('.', '.'), ('But', 'CC'), ('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('believe', 'VB'), ('me', 'PRP'), ('when', 'WRB'), ('I', 'PRP'), ('tell', 'VBP'), ('you', 'PRP'), ('that', 'WDT'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('is', 'VBZ'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('popular', 'JJ'), ('celebrations', 'NNS'), ('we', 'PRP'), ('have', 'VBP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 134
+[('Yes', 'UH'), ('.', '.'), ('I', 'PRP'), ('can', 'MD'), ('tell', 'VB'), ('.', '.'), ('By', 'IN'), ('all', 'PDT'), ('the', 'DT'), ('adoring', 'VBG'), ('shrieks', 'NN'), ('of', 'IN'), ('the', 'DT'), ('children', 'NNS'), ('as', 'IN'), ('they', 'PRP'), ('run', 'VBP'), ('away', 'RB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 135
+[('Princess', 'NN'), ('...', ':')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 136
+[('No', 'DT'), ('!', '.'), ('No', 'DT'), ('shrieking', 'NN'), ('.', '.'), ('No', 'UH'), ('screaming', 'VBG'), ('or', 'CC'), ('squealing', 'VBG'), ('either', 'RB'), ('.', '.'), ('Okay', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 137
+[('Okay', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 138
+[('There', 'EX'), ("'s", 'VBZ'), ('something', 'NN'), ('I', 'PRP'), ('want', 'VBP'), ('you', 'PRP'), ('to', 'TO'), ('see', 'VB'), ('.', '.'), ('And', 'CC'), ('I', 'PRP'), ('promise', 'VBP'), ('that', 'IN'), ('it', 'PRP'), ("'s", 'VBZ'), ('safe', 'JJ'), (',', ','), ('but', 'CC'), ('you', 'PRP'), ('really', 'RB'), (',', ','), ('really', 'RB'), (',', ','), ('really', 'RB'), ('ca', 'MD'), ("n't", 'RB'), ('shriek', 'VB'), ('.', '.'), ('Do', 'VB'), ('you', 'PRP'), ('promise', 'VB'), ('not', 'RB'), ('to', 'TO'), ('shriek', 'VB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 139
+[('Mm-hmm', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 140
+[('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('you', 'PRP'), ('remember', 'VBP'), ('Princess', 'JJ'), ('Luna', 'NNP'), (',', ','), ('right', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 141
+[('Ah', 'NNP'), ('.', '.'), ('The', 'DT'), ('ringleader', 'NN'), ('of', 'IN'), ('the', 'DT'), ('frightened', 'JJ'), ('children', 'NNS'), ('.', '.'), ('Hast', 'NNP'), ('thou', 'JJ'), ('come', 'VBP'), ('to', 'TO'), ('make', 'VB'), ('peace', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 142
+[('Nightmare', 'NNP'), ('Moon', 'NNP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 143
+[('Rainbow', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 144
+[('She', 'PRP'), ("'s", 'VBZ'), ('changed', 'VBN'), (',', ','), ('Pinkie', 'NN'), ('!', '.'), ('She', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('evil', 'JJ'), ('or', 'CC'), ('scary', 'JJ'), ('anymore', 'NN'), ('!', '.'), ('And', 'CC'), ('she', 'PRP'), ('definitely', 'RB'), ('does', 'VBZ'), ("n't", 'RB'), ('want', 'VB'), ('to', 'TO'), ('gobble', 'VB'), ('you', 'PRP'), ('up', 'RP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 145
+[('Well', 'RB'), (',', ','), ('duh', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 146
+[('Huh', 'NNP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 147
+[('I', 'PRP'), ('know', 'VBP'), ('that', 'DT'), ('.', '.'), ('Sheesh', 'NNP'), (',', ','), ('Twilight', 'NNP'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('almost', 'RB'), ('as', 'RB'), ('big', 'JJ'), ('as', 'IN'), ('her', 'PRP'), (',', ','), ('how', 'WRB'), ("'s", 'POS'), ('she', 'PRP'), ('gon', 'VBD'), ('na', 'TO'), ('gobble', 'VB'), ('me', 'PRP'), ('up', 'RP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 148
+[('So', 'RB'), ('why', 'WRB'), ('do', 'VBP'), ('you', 'PRP'), ('keep', 'VB'), ('running', 'VBG'), ('away', 'RB'), ('and', 'CC'), ('screaming', 'VBG'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 149
+[('Sometimes', 'RB'), ('it', 'PRP'), ("'s", 'VBZ'), ('just', 'RB'), ('really', 'RB'), ('fun', 'VB'), ('to', 'TO'), ('be', 'VB'), ('scared', 'VBN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 150
+[('Fun', 'NNP'), ('?', '.'), ('Pinkie', 'NNP'), ('Pie', 'NNP'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('a', 'DT'), ('genius', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 151
+[('No', 'DT'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('a', 'DT'), ('chicken', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 152
+[('Princess', 'NNP'), ('Luna', 'NNP'), ('!', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('finally', 'RB'), ('figured', 'VBN'), ('out', 'RP'), ('why', 'WRB'), ('you', 'PRP'), ("'re", 'VBP'), ('having', 'VBG'), ('so', 'RB'), ('much', 'JJ'), ('trouble', 'NN'), ('being', 'VBG'), ('liked', 'VBN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 153
+[('Forgive', 'CD'), ('me', 'PRP'), ('if', 'IN'), ('I', 'PRP'), ('withhold', 'VBP'), ('my', 'PRP$'), ('enthusiasm', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 154
+[('Come', 'VBN'), ('with', 'IN'), ('me', 'PRP'), ('.', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('explain', 'VB'), ('everything', 'NN'), ('on', 'IN'), ('the', 'DT'), ('way', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 155
+[('Gosh', 'NNP'), ('.', '.'), ('I', 'PRP'), ('never', 'RB'), ('thought', 'VBD'), ('my', 'PRP$'), ('very', 'RB'), ('first', 'RB'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('would', 'MD'), ('be', 'VB'), ('my', 'PRP$'), ('very', 'RB'), ('last', 'JJ'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 156
+[('Come', 'NNP'), (',', ','), ('little', 'JJ'), ('Pip', 'NNP'), ('.', '.'), ('Now', 'RB'), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('fret', 'VB'), ('.', '.'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ("'s", 'POS'), ('not', 'RB'), ('over', 'IN'), ('yet', 'RB'), ('.', '.'), ('We', 'PRP'), ('still', 'RB'), ('have', 'VBP'), ('candy', 'NN'), ('left', 'VBN'), ('to', 'TO'), ('give', 'VB'), (',', ','), ('so', 'RB'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('might', 'MD'), ('let', 'VB'), ('us', 'PRP'), ('live', 'VB'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 157
+[('Yes', 'UH'), ('.', '.'), ('Come', 'VB'), ('on', 'IN'), (',', ','), ('little', 'JJ'), ('ponies', 'NNS'), ('.', '.'), ('What', 'WP'), ("'s", 'VBZ'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('without', 'IN'), ('the', 'DT'), ('annual', 'JJ'), ('candy', 'NN'), ('offering', 'NN'), ('?', '.'), ('You', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('want', 'VB'), ('Nightmare', 'NNP'), ('Moon', 'NNP'), ('to', 'TO'), ('gobble', 'VB'), ('you', 'PRP'), ('up', 'RP'), (',', ','), ('do', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 158
+[('Aw', 'NNP'), (',', ','), ('the', 'DT'), ('rainbow', 'NN'), ('wig', 'NN'), ('just', 'RB'), ('kills', 'VBZ'), ('it', 'PRP'), ('for', 'IN'), ('me', 'PRP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 159
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('kids', 'NNS'), ('!', '.'), ('Does', 'VBZ'), ("n't", 'RB'), ('that', 'VB'), ('sound', 'NN'), ('like', 'IN'), ('fun', 'NN'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 160
+[('Goodbye', 'NNP'), (',', ','), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('.', '.'), ('Forever', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 161
+[('Citizens', 'NNS'), ('of', 'IN'), ('Ponyville', 'NNP'), ('!', '.'), ('You', 'PRP'), ('were', 'VBD'), ('wise', 'VB'), ('to', 'TO'), ('bring', 'VB'), ('this', 'DT'), ('candy', 'NN'), ('to', 'TO'), ('me', 'PRP'), ('.', '.'), ('I', 'PRP'), ('am', 'VBP'), ('pleased', 'JJ'), ('with', 'IN'), ('your', 'PRP$'), ('offering', 'NN'), ('.', '.'), ('So', 'CC'), ('pleased', 'JJ'), ('that', 'IN'), ('I', 'PRP'), ('may', 'MD'), ('just', 'RB'), ('eat', 'VB'), ('it', 'PRP'), ('...', ':'), ('instead', 'RB'), ('of', 'IN'), ('eating', 'VBG'), ('you', 'PRP'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 162
+[('I', 'PRP'), ('am', 'VBP'), ('not', 'RB'), ('certain', 'JJ'), ('that', 'IN'), ('did', 'VBD'), ('what', 'WP'), ('you', 'PRP'), ('meant', 'VBP'), ('for', 'IN'), ('it', 'PRP'), ('to', 'TO'), ('do', 'VB'), (',', ','), ('Twilight', 'NNP'), ('Sparkle', 'NNP'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 163
+[('Just', 'RB'), ('wait', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 164
+[('For', 'IN'), ('what', 'WP'), ('?', '.'), ('For', 'IN'), ('...', ':'), ('for', 'IN'), ('them', 'PRP'), ('to', 'TO'), ('scream', 'VB'), ('some', 'DT'), ('more', 'JJR'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 165
+[('Um', 'NN'), ('...', ':'), ('Princess', 'NNP'), ('Luna', 'NNP'), ('.', '.'), ('I', 'PRP'), ('know', 'VBP'), ('there', 'EX'), ("'s", 'VBZ'), ('not', 'RB'), ('gon', 'VB'), ('na', 'RB'), ('be', 'VB'), ('any', 'DT'), ('more', 'JJR'), ('Nightmare', 'JJ'), ('Night', 'NNP'), (',', ','), ('but', 'CC'), ('do', 'VBP'), ('you', 'PRP'), ('suppose', 'VB'), ('maybe', 'RB'), ('you', 'PRP'), ('could', 'MD'), ('come', 'VB'), ('back', 'RP'), ('next', 'JJ'), ('year', 'NN'), ('and', 'CC'), ('scare', 'VB'), ('us', 'PRP'), ('again', 'RB'), ('anyway', 'RB'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 166
+[('Child', 'NNP'), ('.', '.'), ('Art', 'NNP'), ('thou', 'NN'), ('saying', 'VBG'), ('that', 'IN'), ('thou', 'NN'), ('...', ':'), ('likest', 'JJS'), ('me', 'PRP'), ('to', 'TO'), ('scare', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 167
+[('It', 'PRP'), ("'s", 'VBZ'), ('really', 'RB'), ('fun', 'JJ'), ('!', '.'), ('Scary', 'JJ'), (',', ','), ('but', 'CC'), ('fun', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 168
+[('It', 'PRP'), ('...', ':'), ('is', 'VBZ'), ('?', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 169
+[('Yeah', 'UH'), ('!', '.'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('is', 'VBZ'), ('my', 'PRP$'), ('favorite', 'JJ'), ('night', 'NN'), ('of', 'IN'), ('the', 'DT'), ('year', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 170
+[('Well', 'RB'), ('then', 'RB'), ('.', '.'), ('We', 'PRP'), ('shall', 'MD'), ('have', 'VB'), ('to', 'TO'), ('bring', 'VB'), ('Nightmare', 'NNP'), ('Night', 'NNP'), ('back', 'RB'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 171
+[('Whoa', 'NN'), ('!', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('my', 'PRP$'), ('favorite', 'JJ'), ('princess', 'NN'), ('ever', 'RB'), ('!', '.'), ('She', 'PRP'), ('said', 'VBD'), ('yes', 'UH'), (',', ','), ('guys', 'NNS'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 172
+[('YAY', 'NN'), ('!', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 173
+[('See', 'VB'), ('?', '.'), ('They', 'PRP'), ('really', 'RB'), ('do', 'VBP'), ('like', 'IN'), ('you', 'PRP'), (',', ','), ('princess', 'NN'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 174
+[('Can', 'MD'), ('it', 'PRP'), ('be', 'VB'), ('true', 'JJ'), ('?', '.'), ('I', 'PRP'), ('mean', 'VBP'), ('...', ':'), ('Oh', 'UH'), (',', ','), ('most', 'JJS'), ('wonderful', 'JJ'), ('of', 'IN'), ('nights', 'NNS'), ('.', '.')]
+mlpfim-s2e4-dialog-LunaEclipsed.txt - line: 175
+[('Dear', 'NNP'), ('Princess', 'NNP'), ('Celestia', 'NNP'), (',', ',')]

@@ -1,0 +1,1333 @@
+Analyzing: mlpaf-s1e10-dialog-crunchtherockdog.txt
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 1
+[('``', '``'), ('As', 'IN'), ('Valentine', 'NNP'), ('watched', 'VBD'), ('her', 'PRP$'), ('friend', 'NN'), ('gallop', 'VB'), ('away', 'RB'), ('into', 'IN'), ('the', 'DT'), ('darkening', 'NN'), ('sunset', 'NN'), (',', ','), ('a', 'DT'), ('single', 'JJ'), ('lonely', 'RB'), ('tear', 'JJ'), ('rolled', 'VBD'), ('down', 'RP'), ('her', 'PRP$'), ('face..', 'NN'), ("''", "''")]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 2
+[('``', '``'), ('..The', 'JJ'), ('End', 'NN'), ('.', '.'), ("''", "''")]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 3
+[('Why', 'WRB'), ('would', 'MD'), ('Valentine', 'VB'), ("'s", 'POS'), ('friend', 'NN'), ('gallop', 'VBZ'), ('away', 'RB'), ('at', 'IN'), ('sunset', 'VBN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 4
+[('..huh', 'NN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 5
+[('It', 'PRP'), ('is', 'VBZ'), ('illogical', 'JJ'), ('to', 'TO'), ('begin', 'VB'), ('a', 'DT'), ('long', 'JJ'), ('journey', 'NN'), ('just', 'RB'), ('as', 'IN'), ('the', 'DT'), ('sun', 'NN'), ('is', 'VBZ'), ('setting', 'VBG'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 6
+[('Who', 'WP'), ('cares', 'VBZ'), ('what', 'WP'), ('the', 'DT'), ('sun', 'NN'), ('was', 'VBD'), ('doing', 'VBG'), ('when', 'WRB'), ('he', 'PRP'), ('had', 'VBD'), ('to', 'TO'), ('leave', 'VB'), ('his', 'PRP$'), ('one', 'CD'), ('true', 'JJ'), ('love', 'NN'), ('?', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 7
+[('Yeah', 'UH'), (',', ','), ('how', 'WRB'), ('can', 'MD'), ('you', 'PRP'), ('ask', 'VB'), ('a', 'DT'), ('question', 'NN'), ('like', 'IN'), ('that', 'DT'), ('at', 'IN'), ('a', 'DT'), ('time', 'NN'), ('like', 'IN'), ('this', 'DT'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 8
+[('Time', 'NNP'), ('like', 'IN'), ('what', 'WP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 9
+[('I', 'PRP'), ('fail', 'VBP'), ('to', 'TO'), ('understand', 'VB'), ('this', 'DT'), ('display', 'NN'), ('of', 'IN'), ('sentiment', 'NN'), ('!', '.'), ('It', 'PRP'), ('is', 'VBZ'), ('just', 'RB'), ('a', 'DT'), ('story', 'NN'), (',', ','), ('after', 'IN'), ('all', 'DT'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 10
+[('Wind', 'NNP'), ('Whistler', 'NNP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('too', 'RB'), ('bad', 'JJ'), ('you', 'PRP'), ('were', 'VBD'), ("n't", 'RB'), ('around', 'RB'), ('when', 'WRB'), ('the', 'DT'), ('Feelings', 'NNP'), ('Fairy', 'NNP'), ('was', 'VBD'), ('passing', 'VBG'), ('out', 'RP'), ('feelings', 'NNS'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 11
+[('I', 'PRP'), ('do', 'VBP'), ('have', 'VB'), ('feelings..', 'NN')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 12
+[('Which', 'JJ'), ('I', 'PRP'), ('think', 'VBP'), ('you', 'PRP'), ('two', 'CD'), ('just', 'RB'), ('proved', 'VBN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 13
+[('Yeah', 'UH'), (',', ','), ('by', 'IN'), ('hurting', 'VBG'), ("'em", 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 14
+[('Way', 'NN'), ('to', 'TO'), ('go', 'VB'), (',', ','), ('Buttons', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 15
+[('Moi', 'NNP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 16
+[('LOOK', 'VB'), ('OUT', 'RP'), ('!', '.'), ('Crunch', 'VB'), ('the', 'DT'), ('Rockdog', 'NNP'), ('comin', 'NN'), ("'", "''"), ('!', '.'), ('Run', 'NNP'), ('for', 'IN'), ('your', 'PRP$'), ('lives', 'NNS'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 17
+[('Yeah', 'UH'), (',', ','), ('run', 'VB'), ('for', 'IN'), ('your', 'PRP$'), ('lives', 'NNS'), ('!', '.'), ('Run', 'NN'), ('!', '.'), ('Yeah', 'UH'), (',', ','), ('run', 'VB'), (',', ','), ('run', 'VB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 18
+[('Ow', 'NN'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('sorry', 'JJ'), ('!', '.'), ('No', 'UH'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('sorry', 'JJ'), ('!', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('okay', 'JJ'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('glad', 'JJ'), ('you', 'PRP'), ("'re", 'VBP'), ('sorry', 'JJ'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 19
+[('Let', 'VB'), ("'s", 'POS'), ('go', 'VB'), ('left', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 20
+[('Right', 'RB'), ('!', '.'), ('Yeah', 'UH'), (',', ','), ('right', 'JJ'), ('left', 'NN'), ('!', '.'), ('Right', 'JJ'), ('left', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 21
+[('That', 'DT'), ("'s", 'VBZ'), ('it', 'PRP'), (',', ','), ('take', 'VB'), ('it', 'PRP'), ('to', 'TO'), ('the', 'DT'), ('left', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 22
+[('Right', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 23
+[('I', 'PRP'), ('have', 'VBP'), ('feelings..', 'VBN'), ('I', 'PRP'), ('merely', 'RB'), ('refrain', 'VBP'), ('from', 'IN'), ('expressing', 'VBG'), ('them', 'PRP'), ('at', 'IN'), ('the', 'DT'), ('drop', 'NN'), ('of', 'IN'), ('a', 'DT'), ('hat', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 24
+[('Do', 'VBP'), ("n't", 'RB'), ('feel', 'VB'), ('bad', 'JJ'), (',', ','), ('Wind', 'NNP'), ('Whistler', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 25
+[('They', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('mean', 'VB'), ('it', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 26
+[('HELP', 'NN'), ('!', '.'), ('HELP', 'NN'), ('!', '.'), ('!', '.'), ('The', 'DT'), ('Rockdog', 'NNP'), ('from', 'IN'), ('the', 'DT'), ('Purple', 'NNP'), ('Mountain', 'NNP'), (',', ','), ('oh', 'UH'), (',', ','), ('it', 'PRP'), ('was', 'VBD'), ('horrible', 'JJ'), ('!', '.'), ('Terrible', 'JJ'), (',', ','), ('I', 'PRP'), ('tell', 'VBP'), ('ya', 'RB'), ('!', '.'), ('Turned', 'VBD'), ('to', 'TO'), ('stone', 'VB'), ('!', '.'), ('Made', 'NNP'), ('marshlands', 'VBZ'), ('into', 'IN'), ('rocky', 'JJ'), ('valley', 'NN'), ('!', '.'), ('Oh..', 'NNP'), ('No', 'NNP'), ('more', 'RBR'), ('green', 'JJ'), (',', ','), ('and..', 'JJ'), ('and-', 'JJ'), ('and-', 'JJ'), ('and-', 'JJ'), ('and-', 'JJ'), ('and-', 'JJ'), ('Crunch', 'NN'), ('the', 'DT'), ('Rockdog', 'NNP'), ('turned', 'VBD'), ('Bushwoolies-', 'NNP'), ('turned', 'VBD'), ('Bushwoolies-', 'NNP'), ('to', 'TO'), ('STONE', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 27
+[('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('give', 'VB'), ('that', 'DT'), ('obnoxious', 'JJ'), ('rock-whatsit', 'NN'), ('a', 'DT'), ('piece', 'NN'), ('of', 'IN'), ('my', 'PRP$'), ('mind', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 28
+[('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('go', 'VB'), ('nowhere', 'RB'), ("'til", 'CD'), ('I', 'PRP'), ('change', 'VBP'), ('into', 'IN'), ('my', 'PRP$'), ('travelling', 'JJ'), ('outfit', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 29
+[('Everyone', 'NN'), ('!', '.'), ('Please', 'NNP'), ('remain', 'VBP'), ('calm', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 30
+[('Calm', 'NNP'), ('?', '.'), ('CALM', 'NNP'), ('?', '.'), ('!', '.'), ('Only', 'RB'), ('someone', 'NN'), ('with', 'IN'), ('no', 'DT'), ('feelings', 'NNS'), ('could', 'MD'), ('remain', 'VB'), ('calm', 'JJ'), ('at', 'IN'), ('a', 'DT'), ('time', 'NN'), ('like', 'IN'), ('this', 'DT'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 31
+[('I', 'PRP'), ('meant', 'VBP'), ('that', 'IN'), ('we', 'PRP'), ('need', 'VBP'), ('a', 'DT'), ('plan', 'NN'), ('of', 'IN'), ('action', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 32
+[('She', 'PRP'), ("'s", 'VBZ'), ('right', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 33
+[('But', 'CC'), ('we', 'PRP'), ('better', 'VBP'), ('find', 'VB'), ('out', 'RP'), ('what', 'WP'), ('makes', 'VBZ'), ('this', 'DT'), ('Rockdog', 'NNP'), ('tick', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 34
+[('And', 'CC'), ('for', 'IN'), ('that', 'DT'), (',', ','), ('we', 'PRP'), ("'ll", 'MD'), ('have', 'VB'), ('to', 'TO'), ('talk', 'VB'), ('to', 'TO'), ('the', 'DT'), ('Moochick', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 35
+[('Do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('worry', 'VBP'), (',', ','), ('lil', 'VBP'), ("'", 'POS'), ('fella', 'NN'), ('.', '.'), ('We', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('let', 'VB'), ('that', 'IN'), ('walking', 'VBG'), ('stalagmite', 'JJ'), ('hurt', 'NN'), ('you', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 36
+[('Hello', 'NNP'), ('?', '.'), ('Mr.', 'NNP'), ('Moochick', 'NNP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 37
+[('Ooh-', 'JJ'), ('get', 'NN'), ('it', 'PRP'), (',', ','), ('ooh-', 'JJ'), ('ooh', 'NN'), (',', ','), ('no', 'DT'), (',', ','), ('no', 'DT'), ('no', 'DT'), ('no', 'DT'), (',', ','), ('ooh', 'RB'), (',', ','), ('no-', 'JJ'), ('no', 'DT'), (',', ','), ('that', 'IN'), ('way-', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 38
+[('What', 'WP'), ("'s", 'VBZ'), ('going', 'VBG'), ('on', 'IN'), ('here', 'RB'), (',', ','), ('Mr.', 'NNP'), ('Moochick', 'NNP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 39
+[('AFTER', 'IN'), ('IT', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 40
+[('I', 'PRP'), ("'ll", 'MD'), ('get', 'VB'), ('it', 'PRP'), ('!', '.'), ('There', 'EX'), ('it', 'PRP'), ('is', 'VBZ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 41
+[('That', 'DT'), ('is', 'VBZ'), ('a..', 'PDT'), ('a', 'DT'), ('very', 'RB'), ('smart', 'JJ'), ('stick', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 42
+[('Huh', 'NN'), ('!', '.'), ('Too', 'NNP'), ('smart', 'JJ'), (',', ','), ('if', 'IN'), ('you', 'PRP'), ('ask', 'VBP'), ('me', 'PRP'), ('!', '.'), ('Does', 'VBZ'), ("n't", 'RB'), ('know', 'VB'), ('its', 'PRP$'), ('place', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 43
+[('Aha', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 44
+[('Oh', 'UH'), (',', ','), ('he', 'PRP'), ("'s", 'VBZ'), ('scared', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 45
+[('Yes', 'UH'), (',', ','), ('he', 'PRP'), ('certainly', 'RB'), ('is', 'VBZ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 46
+[('Aww', 'NNP'), (',', ','), ('the', 'DT'), ('poor', 'JJ'), ('little', 'JJ'), ('thing', 'NN'), ('.', '.'), ('Perhaps', 'RB'), ('it', 'PRP'), ('feels', 'VBZ'), ('unappreciated', 'JJ'), (',', ','), ('or', 'CC'), ('overworked', 'VBN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 47
+[('Unappreciated', 'VBN'), ('?', '.'), ('Overworked', 'VBN'), ('?', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 48
+[('Let', 'VB'), ('it', 'PRP'), ('have', 'VB'), ('some', 'DT'), ('fun', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 49
+[('Yeah', 'UH'), (',', ','), ('let', 'VB'), ('it', 'PRP'), ('have', 'VB'), ('a', 'DT'), ('day', 'NN'), ('off', 'IN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 50
+[('Let', 'VB'), ("'s", 'POS'), ('do', 'VB'), ('that', 'DT'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 51
+[('Well', 'RB'), (',', ','), ('alright', 'RB'), ('!', '.'), ('It', 'PRP'), ('can', 'MD'), ('have', 'VB'), ('a', 'DT'), ('day', 'NN'), ('off', 'IN'), ('every', 'DT'), ('time', 'NN'), ('the', 'DT'), ('mushrooms', 'NNS'), ('bloom', 'NN'), ('.', '.'), ('Hah', 'NNP'), ('!', '.'), ('Hm..', 'NNP'), ('oh', 'UH'), ('yes', 'UH'), (',', ','), ('yes', 'UH'), (',', ','), ('that', 'WDT'), ('is', 'VBZ'), ('more', 'RBR'), ('like', 'IN'), ('it', 'PRP'), ('.', '.'), ('Now', 'RB'), (',', ','), ('what', 'WP'), ('are', 'VBP'), ('you', 'PRP'), ('folks', 'NNS'), ('doing', 'VBG'), ('here', 'RB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 52
+[('Have', 'VBP'), ('you', 'PRP'), ('heard', 'VBN'), ('of', 'IN'), ('a', 'DT'), ('Crunch', 'NNP'), ('the', 'DT'), ('Rockdog', 'NNP'), ('?', '.'), ('He', 'PRP'), ('comes', 'VBZ'), ('from', 'IN'), ('somewhere', 'RB'), ('in', 'IN'), ('the', 'DT'), ('Purple', 'NNP'), ('Mountains', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 53
+[('Oh', 'UH'), (',', ','), ('no', 'DT'), ('no', 'DT'), ('no', 'DT'), (',', ','), ('never', 'RB'), ('heard', 'VBN'), ('of', 'IN'), ('him', 'PRP'), ('.', '.'), ('But', 'CC'), ('!', '.'), ('If', 'IN'), ('he', 'PRP'), ("'s", 'VBZ'), ('from', 'IN'), ('the', 'DT'), ('Purple', 'NNP'), ('Mountains', 'NNP'), (',', ','), ('then', 'RB'), ('you', 'PRP'), ('should', 'MD'), ('talk', 'VB'), ('to', 'TO'), ('His', 'PRP$'), ('Elevated', 'NNP'), ('Eminence', 'NNP'), (',', ','), ('the', 'DT'), ('Mountain', 'NNP'), ('King', 'NNP'), ('!', '.'), ('Oh', 'NNP'), (',', ','), ('just', 'RB'), ('head', 'NN'), ('for', 'IN'), ('the', 'DT'), ('Purple', 'NNP'), ('Mountains', 'NNP'), (',', ','), ('you', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('miss', 'VB'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 54
+[('Thank', 'NNP'), ('you', 'PRP'), (',', ','), ('Mr.', 'NNP'), ('Moochick', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 55
+[('At', 'IN'), ('least', 'JJS'), (',', ','), ('I', 'PRP'), ('think', 'VBP'), ('it', 'PRP'), ("'s", 'VBZ'), ('His', 'PRP$'), ('Elevated', 'JJ'), ('Eminence..', 'NNP'), ('or', 'CC'), ('is', 'VBZ'), ('it', 'PRP'), ('His', 'PRP$'), ('Royal', 'NNP'), ('Rockface..', 'NNP'), ('?', '.'), ('Hm..', 'NNP')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 56
+[('This', 'DT'), ('is', 'VBZ'), ('bad', 'JJ'), (',', ','), ('alright', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 57
+[('Purple', 'NNP'), ('Mountain', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 58
+[('So', 'IN'), ('that', 'DT'), ("'s", 'VBZ'), ('where', 'WRB'), ('we', 'PRP'), ("'ll", 'MD'), ('find', 'VB'), ('His', 'PRP$'), ('Elevated', 'NNP'), ('Eminence', 'NNP'), (',', ','), ('huh', 'NN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 59
+[('What', 'WP'), ('was', 'VBD'), ('that', 'DT'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 60
+[('C-C-C-C-C-CRUNCH', 'NNP'), ('THE', 'NNP'), ('ROCKDOG', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 61
+[('Look', 'VB'), ('out', 'RP'), ('!', '.'), ('Behind', 'IN'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 62
+[('No', 'DT'), (',', ','), ('lil', 'NN'), ("'", "''"), ('fella', 'NN'), ('!', '.'), ('Do', 'VBP'), ("n't", 'RB'), ('do', 'VB'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 63
+[('Behind', 'IN'), ('you', 'PRP'), (',', ','), ('behind', 'IN'), ('you', 'PRP'), ('!', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 64
+[('Behind', 'IN'), ('me', 'PRP'), ('?', '.'), ('Behind', 'IN'), ('me', 'PRP'), ('?', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 65
+[('Oh', 'UH'), (',', ','), ('look', 'VBP'), ('!', '.'), ('Two', 'CD'), ('for', 'IN'), ('the', 'DT'), ('price', 'NN'), ('of', 'IN'), ('one', 'CD'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 66
+[('One', 'CD'), ('...', ':'), ('Two', 'CD'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 67
+[('I', 'PRP'), ('can', 'MD'), ('handle', 'VB'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 68
+[('Danny', 'NNP'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 69
+[('It', 'PRP'), ("'s", 'VBZ'), ('just', 'RB'), ('a', 'DT'), ('dog', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 70
+[('Oh', 'UH'), ('no', 'DT'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 71
+[('Hey', 'NNP'), (',', ','), ('you', 'PRP'), ('!', '.'), ('Yeah', 'UH'), (',', ','), ('you', 'PRP'), ('!', '.'), ('You', 'PRP'), ('fossilised', 'VBD'), ('mutt', 'NN'), ('!', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('a', 'DT'), ('bad', 'JJ'), ('dog', 'NN'), ('!', '.'), ('BAD', 'NN'), ('!', '.'), ('Bad', 'NNP'), ('dog', 'NN'), (',', ','), ('sit', 'NN'), ('!', '.'), ('Sit', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 72
+[('Heel', 'NNP'), (',', ','), ('heel', 'NN'), ('!', '.'), ('You-', 'NN'), ('you', 'PRP'), ('granite', 'VBP'), ('mongrel', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 73
+[('Heel', 'NNP'), (',', ','), ('boy', 'NN'), ('!', '.'), ('Lie', 'NNP'), ('down', 'RB'), ('!', '.'), ('Down', 'RP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 74
+[('He', 'PRP'), ("'s", 'VBZ'), ('completely', 'RB'), ('blown', 'JJ'), ('our', 'PRP$'), ('cover', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 75
+[('At', 'IN'), ('this', 'DT'), ('point', 'NN'), (',', ','), ('I', 'PRP'), ('fear', 'VBP'), ('our', 'PRP$'), ('only', 'JJ'), ('recourse', 'NN'), ('is', 'VBZ'), ('to', 'TO'), ('make', 'VB'), ('a', 'DT'), ('run', 'NN'), ('for', 'IN'), ('it', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 76
+[('I', 'PRP'), ('think', 'VBP'), ('you', 'PRP'), ("'re", 'VBP'), ('right', 'JJ'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 77
+[('What', 'WP'), ("'s", 'VBZ'), ('so', 'RB'), ('funny', 'JJ'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 78
+[("C'mon", 'NNP'), (',', ','), ('Danny', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 79
+[('Heel', 'NN'), ('!', '.'), ('Sit', 'NN'), ('!', '.'), ('AFTER', 'NNP'), ('THEM', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 80
+[('Go', 'VB'), ('on', 'IN'), ('without', 'IN'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 81
+[('Gusty', 'NN'), ('!', '.'), ('What', 'WP'), ('in', 'IN'), ('tarnation', 'NN'), ('are', 'VBP'), ('you', 'PRP'), ('doin', 'VBP'), ("'", "''"), ('?', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 82
+[('Go', 'VB'), ('on', 'IN'), ('!', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('an', 'DT'), ('idea', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 83
+[('We', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('leaving', 'VBG'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 84
+[('I', 'PRP'), ("'ll", 'MD'), ('draw', 'VB'), ('them', 'PRP'), ('off', 'RP'), (',', ','), ('and', 'CC'), ('catch', 'VB'), ('up', 'RB'), ('at', 'IN'), ('the', 'DT'), ('Mountains', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 85
+[('Gusty', 'NNP'), (',', ','), ('I', 'PRP'), ('must', 'MD'), ('protest', 'VB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 86
+[('Here', 'RB'), ("'s", 'VBZ'), ('gust', 'NN'), ('in', 'IN'), ('your', 'PRP$'), ('eye', 'NN'), ('!', '.'), ('See', 'VB'), ('?', '.'), ('I', 'PRP'), ('blind', 'VBP'), ("'em", 'PRP'), ('with', 'IN'), ('a', 'DT'), ('small', 'JJ'), ('dust', 'NN'), ('storm', 'NN'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('outta', 'RB'), ('here', 'RB'), ('!', '.'), ('Uh-oh', 'NN'), ('...', ':'), ('Uh', 'NNP'), (',', ','), ('come', 'VB'), ('to', 'TO'), ('think', 'VB'), ('of', 'IN'), ('it..', 'NN'), ('a', 'DT'), ('little', 'JJ'), ('dust', 'NN'), ('would', 'MD'), ("n't", 'RB'), ('have', 'VB'), ('much', 'JJ'), ('effect', 'NN'), ('on', 'IN'), ('rocks', 'NNS'), (',', ','), ('would', 'MD'), ('it..', 'VB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 87
+[('Going', 'VBG'), ('somewhere', 'RB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 88
+[('Good', 'JJ'), ('!', '.'), ('Cause', 'NN'), ('I', 'PRP'), ("'d", 'MD'), ('like', 'VB'), ('you', 'PRP'), ('to', 'TO'), ('...', ':'), ('stick', 'VB'), ('around', 'RP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 89
+[('GUSTY', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 90
+[('That', 'DT'), ('rock-thing', 'NN'), ("'s", 'POS'), ('gon', 'NN'), ('na', 'RB'), ('be', 'VB'), ('plum', 'JJ'), ('sorry', 'NN'), ('he', 'PRP'), ('messed', 'VBD'), ('with', 'IN'), ('our', 'PRP$'), ('Gusty', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 91
+[('She', 'PRP'), ('is', 'VBZ'), ('beyond', 'IN'), ('help', 'NN'), ('.', '.'), ('Logic', 'VB'), ('clearly', 'RB'), ('dictates', 'VBZ'), ('that', 'IN'), ('we', 'PRP'), ('save', 'VBP'), ('ourselves', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 92
+[('Gosh', 'NNP'), (',', ','), ('Wind', 'NNP'), ('Whistler', 'NNP'), (',', ','), ('how', 'WRB'), ('could', 'MD'), ('you', 'PRP'), ('just', 'RB'), ('go', 'VB'), ('off', 'RP'), ('and', 'CC'), ('leave', 'VB'), ('poor', 'JJ'), ('Gusty', 'NNP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 93
+[('What', 'WP'), ('else', 'RB'), ('would', 'MD'), ('you', 'PRP'), ('expect', 'VB'), ('from', 'IN'), ('somebody', 'NN'), ('with', 'IN'), ('no', 'DT'), ('feelings', 'NNS'), (',', ','), ('Buttons', 'NNS'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 94
+[('No', 'DT'), (',', ','), ('Truly', 'RB'), (',', ','), ('Wind', 'NNP'), ('Whistler', 'NNP'), ("'s", 'POS'), ('right', 'NN'), (',', ','), ('we', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'RB'), ('go', 'VB'), ('on', 'IN'), ('without', 'IN'), ('Gusty', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 95
+[('Well', 'RB'), (',', ','), ('whatever', 'IN'), ('we', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('do', 'VB'), (',', ','), ('let', 'VB'), ("'s", 'POS'), ('snap', 'VB'), ('it', 'PRP'), ('up', 'RP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 96
+[('Bye-bye', 'NNP'), (',', ','), ('Gusty', 'NNP'), ('!', '.'), ('We', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('back', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 97
+[('She', 'PRP'), ('knows', 'VBZ'), (',', ','), ('Truly', 'NNP'), ('.', '.'), ('She', 'PRP'), ('knows', 'VBZ'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 98
+[('Woah..', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 99
+[('TRACK', 'VB'), ('THEM', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 100
+[("Y'know", 'NNP'), (',', ','), ('Gusty', 'NNP'), ('was', 'VBD'), ('on', 'IN'), ('the', 'DT'), ('right', 'JJ'), ('track', 'NN'), ('after', 'IN'), ('all', 'DT'), ('.', '.'), ('This', 'DT'), ('one', 'NN'), ("'s", 'POS'), ('for', 'IN'), ('you', 'PRP'), (',', ','), ('Gusty', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 101
+[('Buttons', 'NNS'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 102
+[('Betcha', 'NNP'), ('ca', 'MD'), ("n't", 'RB'), ('catch', 'VB'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 103
+[('Oh', 'UH'), ('YEAH', 'NNP'), ('?', '.'), ('!', '.'), ('Another', 'DT'), ('one', 'CD'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 104
+[('Huh', 'NNP'), ('?', '.'), ('Where', 'WRB'), ("'d", 'MD'), ('she', 'PRP'), ('go', 'VB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 105
+[('Yoo-hoo', 'JJ'), ('!', '.'), ('Over', 'IN'), ('here', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 106
+[('Hey', 'NNP'), (',', ','), ('there', 'EX'), ('she', 'PRP'), ('is', 'VBZ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 107
+[('She', 'PRP'), ("'s", 'VBZ'), ('drawing', 'VBG'), ('them', 'PRP'), ('off', 'RP'), ('.', '.'), ('To', 'TO'), ('the', 'DT'), ('Mountains', 'NNP'), (',', ','), ('then', 'RB'), (',', ','), ('quickly', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 108
+[('No', 'DT'), (',', ','), ('this', 'DT'), ('way', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 109
+[('Oh', 'UH'), (',', ','), ('I', 'PRP'), ('hope', 'VBP'), ('Buttons', 'NNS'), ('is', 'VBZ'), ('okay', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 110
+[('Oh', 'UH'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('sure', 'JJ'), ('she', 'PRP'), ("'s", 'VBZ'), ('fine', 'JJ'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 111
+[('Buttons', 'NNS'), ('!', '.'), ("Y'all", 'NN'), ('did', 'VBD'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 112
+[('It', 'PRP'), ('does', 'VBZ'), ("n't", 'RB'), ('take', 'VB'), ('much', 'JJ'), ('to', 'TO'), ('outsmart', 'VB'), ('a', 'DT'), ('rock', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 113
+[('Okay', 'NNP'), ('.', '.'), ('Now', 'RB'), ('all', 'DT'), ('we', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('is', 'VBZ'), ('find', 'VB'), ('this', 'DT'), ('Eminence', 'NNP'), ('guy', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 114
+[('The', 'DT'), ('Moochick', 'NNP'), ('said', 'VBD'), ('if', 'IN'), ('we', 'PRP'), ('go', 'VBP'), ('to', 'TO'), ('the', 'DT'), ('Purple', 'NNP'), ('Mountains', 'NNP'), (',', ','), ('we', 'PRP'), ('could', 'MD'), ("n't", 'RB'), ('miss', 'VB'), ('him', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 115
+[('Greetings', 'NNS'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 116
+[('Uh..', 'NNP'), ('Excuse', 'NNP'), ('me', 'PRP'), (',', ','), ('whoever', 'WP'), ('you', 'PRP'), ('are', 'VBP'), (',', ','), ('but', 'CC'), ('do', 'VBP'), ('you', 'PRP'), ('know', 'VB'), ('where', 'WRB'), ('we', 'PRP'), ('can', 'MD'), ('find', 'VB'), ('His', 'PRP$'), ('Elevated', 'JJ'), ('Eminence', 'NN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 117
+[('You', 'PRP'), ("'re", 'VBP'), ('standing', 'VBG'), ('on', 'IN'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 118
+[('Remarkable', 'JJ'), ('!', '.'), ('This', 'DT'), ('entire', 'JJ'), ('mountain', 'NN'), ('is', 'VBZ'), ('a', 'DT'), ('living', 'NN'), (',', ','), ('sentient', 'JJ'), ('being', 'VBG'), ('!', '.'), ('Greetings', 'NNS'), (',', ','), ('Your', 'PRP$'), ('Elevated', 'JJ'), ('Eminence', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 119
+[('Uh..', 'NNP'), ('yes', 'UH'), (',', ','), ('greetings', 'NNS'), (',', ','), ('Your', 'PRP$'), ('Eminence', 'NN'), ('.', '.'), ('We', 'PRP'), ("'ve", 'VBP'), ('come', 'VBN'), ('to', 'TO'), ('ask', 'VB'), ('for', 'IN'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.'), ('You', 'PRP'), ('see', 'VBP'), (',', ','), ('Crunch', 'VB'), ('the', 'DT'), ('Rock-', 'NNP')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 120
+[('Oh', 'UH'), (',', ','), ('Crunch', 'JJ'), ('!', '.'), ('He', 'PRP'), ('is', 'VBZ'), ('definitely', 'RB'), ('out', 'IN'), ('of', 'IN'), ('control', 'NN'), ('.', '.'), ('And', 'CC'), ('it', 'PRP'), ("'s", 'VBZ'), ('all', 'DT'), ('my', 'PRP$'), ('fault', 'NN'), ('!', '.'), ('You', 'PRP'), ('see', 'VBP'), (',', ','), ('I', 'PRP'), ('needed', 'VBD'), ('a', 'DT'), ('guard', 'NN'), ('to', 'TO'), ('protect', 'VB'), ('the', 'DT'), ('Hot', 'NNP'), ('Stone', 'NNP'), (',', ','), ('which', 'WDT'), ('is', 'VBZ'), ('the', 'DT'), ('magical', 'JJ'), ('gem', 'NN'), ('that', 'WDT'), ('gives', 'VBZ'), ('me', 'PRP'), ('feelings', 'NNS'), ('.', '.'), ('I', 'PRP'), ('created', 'VBD'), ('Crunch', 'NNP'), ('the', 'DT'), ('Rockdog', 'NNP'), ('to', 'TO'), ('protect', 'VB'), ('the', 'DT'), ('gem', 'NN'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ('neglected', 'VBD'), ('to', 'TO'), ('put', 'VB'), ('any', 'DT'), ('heart', 'NN'), ('into', 'IN'), ('Crunch', 'NNP'), ('himself', 'PRP'), (',', ','), ('accidentally', 'RB'), ('creating', 'VBG'), ('a', 'DT'), ('cold', 'NN'), (',', ','), ('ferocious', 'JJ'), ('beast', 'NN'), ('!', '.'), ('But', 'CC'), ('I', 'PRP'), ('discovered', 'VBD'), ('my', 'PRP$'), ('mistake', 'NN'), ('too', 'RB'), ('late', 'RB'), ('.', '.'), ('To', 'TO'), ('make', 'VB'), ('him', 'PRP'), ('indestructible', 'JJ'), (',', ','), ('I', 'PRP'), ('had', 'VBD'), ('put', 'VBN'), ('a', 'DT'), ('piece', 'NN'), ('of', 'IN'), ('Black', 'NNP'), ('Lava', 'NNP'), ('Rock', 'NNP'), (',', ','), ('from', 'IN'), ('the', 'DT'), ('roiling', 'VBG'), ('depths', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('Volcano', 'NNP'), ('of', 'IN'), ('Gloom', 'NNP'), (',', ','), ('into', 'IN'), ('his', 'PRP$'), ('collar', 'NN'), ('.', '.'), ('It', 'PRP'), ('gives', 'VBZ'), ('Crunch', 'NNP'), ('the', 'DT'), ('power', 'NN'), ('to', 'TO'), ('turn', 'VB'), ('anything', 'NN'), ('to', 'TO'), ('stone', 'VB'), ('!', '.'), ('There', 'EX'), ("'s", 'VBZ'), ('only', 'RB'), ('one', 'CD'), ('thing', 'NN'), ('powerful', 'JJ'), ('enough', 'RB'), ('to', 'TO'), ('defeat', 'VB'), ('him', 'PRP'), ('-', ':'), ('the', 'DT'), ('Heart', 'NNP'), ('Stone', 'NNP'), ('!', '.'), ('You', 'PRP'), ('must', 'MD'), ('take', 'VB'), ('it', 'PRP'), ('and', 'CC'), ('stop', 'VB'), ('Crunch', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 121
+[('Well', 'RB'), (',', ','), ('I..', 'NNP'), ('guess', 'NN'), ('that', 'WDT'), ('does', 'VBZ'), ("n't", 'RB'), ('sound', 'VB'), ('so', 'RB'), ('difficult', 'JJ'), ('.', '.'), ('Where', 'WRB'), ('is', 'VBZ'), ('the', 'DT'), ('Heart', 'NNP'), ('Stone', 'NNP'), (',', ','), ('anyway', 'RB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 122
+[('Deep', 'NNP'), ('within', 'IN'), ('me', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 123
+[('And', 'CC'), (',', ','), ('how', 'WRB'), ('do', 'VBP'), ('we', 'PRP'), (',', ','), ('er', 'RB'), (',', ','), ('get', 'VB'), ('there', 'RB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 124
+[('I', 'PRP'), ("'ll", 'MD'), ('guide', 'VB'), ('you', 'PRP'), ('.', '.'), ('But', 'CC'), (',', ','), ('er..', 'VBP'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('exactly', 'RB'), ('certain', 'JJ'), ('what', 'WP'), ('will', 'MD'), ('happen', 'VB'), ('when', 'WRB'), ('the', 'DT'), ('Heart', 'NNP'), ('Stone', 'NNP'), ('is', 'VBZ'), ('removed', 'VBN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 125
+[('W-what', 'WDT'), ('could', 'MD'), ('possibly', 'RB'), ('happen', 'VB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 126
+[('Which', 'JJ'), ('way', 'NN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 127
+[('To', 'TO'), ('the', 'DT'), ('left', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 128
+[('It', 'PRP'), ("'s", 'VBZ'), ('beautiful', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 129
+[('Take', 'VB'), ('it', 'PRP'), (',', ','), ('Megan', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 130
+[('Ooh..', 'NNP'), ('Maybe', 'NNP'), ('I', 'PRP'), ('should', 'MD'), ("n't", 'RB'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 131
+[('Go', 'NNP'), ('ahead', 'RB'), (',', ','), ('my', 'PRP$'), ('dear', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 132
+[('Which', 'JJ'), ('way', 'NN'), (',', ','), ('Your', 'PRP$'), ('Eminence', 'NN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 133
+[('Uh-oh', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 134
+[('Careful', 'NNP'), (',', ','), ('Megan', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 135
+[('GIVE', 'VB'), ('ME', 'NNP'), ('MY', 'NNP'), ('HEART', 'NNP'), ('STONE', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 136
+[('What', 'WP'), ("'s", 'VBZ'), ('the', 'DT'), ('matter', 'NN'), ('with', 'IN'), ('him', 'PRP'), ('?', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 137
+[('If', 'IN'), ('His', 'PRP$'), ('Eminence', 'NN'), ('gets', 'VBZ'), ('his', 'PRP$'), ('feelings', 'NNS'), ('from', 'IN'), ('the', 'DT'), ('Heart', 'NNP'), ('Stone..', 'NNP')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 138
+[('..Then', 'NN'), ('without', 'IN'), ('it', 'PRP'), (',', ','), ('he', 'PRP'), ("'s", 'VBZ'), ('turning', 'VBG'), ('into', 'IN'), ('a', 'DT'), ('major-league', 'JJ'), ('grouch', 'NN'), ('!', '.'), ('RUN', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 139
+[('Hurry', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 140
+[('This', 'DT'), ('way', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 141
+[('Hurry', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 142
+[('This', 'DT'), ('way', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 143
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('let', 'VB'), ("'s", 'POS'), ('go', 'VB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 144
+[('Go', 'VB'), ('!', '.'), ('That', 'DT'), ('way', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 145
+[('Look', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 146
+[('I', 'PRP'), ("'ve", 'VBP'), ('found', 'VBN'), ('you', 'PRP'), ('!', '.'), ('Who', 'WP'), ('wants', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('turned', 'VBN'), ('to', 'TO'), ('stone', 'VB'), ('first', 'RB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 147
+[('You', 'PRP'), ("'ve", 'VBP'), ('gone', 'VBN'), ('too', 'RB'), ('far', 'RB'), ('this', 'DT'), ('time', 'NN'), (',', ','), ('Rockdog', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 148
+[('No', 'DT'), (',', ','), ('Truly', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 149
+[('No', 'DT'), (',', ','), ('Truly', 'RB'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('go', 'VB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 150
+[('Stay', 'NNP'), ('here', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 151
+[('Go', 'NNP'), ('ahead', 'RB'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 152
+[('Huh', 'NNP'), ('?', '.'), ('``', '``'), ('Go', 'VB'), ('ahead', 'RB'), ('?', '.'), ("''", "''")]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 153
+[('What', 'WP'), ('are', 'VBP'), ('you', 'PRP'), ('talking', 'VBG'), ('about', 'IN'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 154
+[('What', 'WP'), ("'s", 'VBZ'), ('the', 'DT'), ('matter', 'NN'), ('with', 'IN'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 155
+[('You', 'PRP'), ('really', 'RB'), ('do', 'VBP'), ("n't", 'RB'), ('like', 'VB'), ('anyone', 'NN'), (',', ','), ('do', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 156
+[('I', 'PRP'), ('mean', 'VBP'), ('it', 'PRP'), ('!', '.'), ('Go', 'NNP'), ('ahead', 'RB'), ('!', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('care', 'VB'), ('what', 'WP'), ('you', 'PRP'), ('do', 'VBP'), ('with', 'IN'), ('her', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 157
+[('You', 'PRP'), ("'re", 'VBP'), ('crazy', 'JJ'), ('if', 'IN'), ('you', 'PRP'), ('think', 'VBP'), ('I', 'PRP'), ("'ll", 'MD'), ('buy', 'VB'), ('that', 'IN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 158
+[('I', 'PRP'), ("'m", 'VBP'), ('perfectly', 'RB'), ('serious', 'JJ'), ('.', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('surrounded', 'VBN'), ('by', 'IN'), ('these', 'DT'), ('romantic', 'JJ'), ('idiots', 'NNS'), ('for', 'IN'), ('so', 'RB'), ('long', 'RB'), (',', ','), ('it', 'PRP'), ('is', 'VBZ'), ('refreshing', 'VBG'), ('to', 'TO'), ('find', 'VB'), ('one', 'CD'), ('such', 'JJ'), ('as', 'IN'), ('yourself', 'PRP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 159
+[('Wind', 'NNP'), ('Whistler', 'NNP'), ('!', '.'), ('How', 'WRB'), ('could', 'MD'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 160
+[('Pay', 'NNP'), ('no', 'DT'), ('attention', 'NN'), ('to', 'TO'), ('them', 'PRP'), (',', ','), ('Crunch', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 161
+[('You', 'PRP'), ('really', 'RB'), ('do', 'VBP'), ("n't", 'RB'), ('care', 'VB'), ('what', 'WP'), ('I', 'PRP'), ('do', 'VBP'), ('to', 'TO'), ('her', 'VB'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 162
+[('That', 'DT'), ('sentimental', 'JJ'), ('fool', 'NN'), ('?', '.'), ('Certainly', 'RB'), ('not', 'RB'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 163
+[('Good', 'JJ'), (',', ','), ('cause', 'NN'), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('turn', 'VB'), ('her', 'PRP'), ('to', 'TO'), ('stone', 'VB'), ('!', '.'), ('Haha', 'NNP'), ('!', '.'), ('I', 'PRP'), ('thought', 'VBD'), ('so', 'RB'), ('!', '.'), ('You', 'PRP'), ('DO', 'VBP'), ('care', 'VB'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 164
+[('Wait', 'NN'), ('!', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('prove', 'VB'), ('I', 'PRP'), ("'m", 'VBP'), ('on', 'IN'), ('your', 'PRP$'), ('side', 'NN'), ('!', '.'), ('By', 'IN'), ('giving', 'VBG'), ('you', 'PRP'), ('your', 'PRP$'), ('next', 'JJ'), ('victim', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 165
+[('Yeah', 'UH'), (',', ','), ('that', 'DT'), ("'s", 'VBZ'), ('it', 'PRP'), (',', ','), ('Wind', 'NNP'), ('Whistler', 'NNP'), (',', ','), ('bring', 'VB'), ('me', 'PRP'), ('to', 'TO'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 166
+[('The', 'DT'), ('Heart', 'NNP'), ('Stone', 'NNP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 167
+[('Please', 'NNP'), (',', ','), ('Heart', 'NNP'), ('Stone', 'NNP'), (',', ','), ('do', 'VBP'), ('something', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 168
+[('NO', 'DT'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 169
+[('It', 'PRP'), ('worked', 'VBD'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 170
+[('She', 'PRP'), ("'s", 'VBZ'), ('alright', 'JJ'), ('!', '.'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 171
+[('Hey', 'NNP'), ('you', 'PRP'), ('guys', 'VBP'), (',', ','), ('look', 'VBP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 172
+[('Hooray', 'NNP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('Gusty', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 173
+[('I', 'PRP'), ('knew', 'VBD'), ('you', 'PRP'), ('would', 'MD'), ("n't", 'RB'), ('turn', 'VB'), ('against', 'IN'), ('us', 'PRP'), (',', ','), ('Wind', 'NNP'), ('Whistler', 'NNP'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 174
+[('Yeah', 'UH'), (',', ','), ('yeah', 'UH'), ('!', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('okay', 'JJ'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('okay', 'JJ'), ('!', '.'), ('Yeah', 'UH'), (',', ','), ('yeah', 'UH'), (',', ','), ('fine', 'JJ'), ('!', '.'), ('I', 'PRP'), ('feel', 'VBP'), ('good', 'JJ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 175
+[('Hooray', 'NN'), ('!', '.'), ('We', 'PRP'), ('found', 'VBD'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 176
+[('Stop', 'NNP'), ('laughing', 'NN'), ('!', '.'), ('Stop', 'NNP'), ('cheering', 'NN'), ('!', '.'), ('Why', 'WRB'), ('are', 'VBP'), ('you', 'PRP'), ('so', 'IN'), ('happy', 'JJ'), ('?', '.'), ('There', 'EX'), ("'s", 'VBZ'), ('nothing', 'NN'), ('to', 'TO'), ('be', 'VB'), ('happy', 'JJ'), ('about', 'IN'), ('!', '.'), ('Stop', 'VB'), ('it', 'PRP'), ('or', 'CC'), ('I', 'PRP'), ("'ll", 'MD'), ('bite', 'VB'), ('ya', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 177
+[('I', 'PRP'), ('bet', 'RB'), ('all', 'DT'), ('he', 'PRP'), ('needs', 'VBZ'), ('is', 'VBZ'), ('a', 'DT'), ('little', 'JJ'), ('heart', 'NN'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 178
+[('Yeah', 'UH'), (',', ','), ('then', 'RB'), ('he', 'PRP'), ("'d", 'MD'), ('be', 'VB'), ('a', 'DT'), ('nice', 'JJ'), ('puppy', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 179
+[('Now', 'RB'), ('hold', 'VBP'), ('still', 'RB'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 180
+[('Look..', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 181
+[('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('believe', 'VB'), ('how', 'WRB'), ('happy', 'JJ'), ('he', 'PRP'), ('looks', 'VBZ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 182
+[('Well', 'RB'), (',', ','), ('of', 'IN'), ('course', 'NN'), ('he', 'PRP'), ('does', 'VBZ'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 183
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ('guess', 'VBP'), ('we', 'PRP'), ("'d", 'MD'), ('better', 'VB'), ('get', 'VB'), ('this', 'DT'), ('back', 'NN'), ('to', 'TO'), ('His', 'PRP$'), ('Eminence', 'NN'), ('before', 'IN'), ('he', 'PRP'), ('turns', 'VBZ'), ('into', 'IN'), ('a', 'DT'), ('permanent', 'JJ'), ('grump', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 184
+[('Discovering', 'VBG'), ('you', 'PRP'), ('have', 'VBP'), ('a', 'DT'), ('heart', 'NN'), ('Makes', 'NNP'), ('the', 'DT'), ('gloom', 'NN'), ('in', 'IN'), ('your', 'PRP$'), ('soul', 'JJ'), ('depart', 'NN'), ('~', 'NN')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 185
+[('It', 'PRP'), ("'s", 'VBZ'), ('wonderful', 'JJ'), ('to', 'TO'), ('have', 'VB'), ('a', 'DT'), ('heart~', 'NN'), ('!', '.'), ('~', 'NN')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 186
+[('Thank', 'NNP'), ('you', 'PRP'), ('for', 'IN'), ('all', 'DT'), ('your', 'PRP$'), ('help', 'NN'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('pleased', 'JJ'), ('that', 'IN'), ('Crunch', 'NN'), ('now', 'RB'), ('has', 'VBZ'), ('a', 'DT'), ('heart', 'NN'), ('of', 'IN'), ('his', 'PRP$'), ('very', 'RB'), ('own', 'JJ'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 187
+[('Goodbye', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 188
+[('Goodbye', 'NNP'), (',', ','), ('Eminence', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 189
+[('Goodbye', 'NN'), ('!', '.'), ('Bye', 'NNP'), ('bye', 'NN'), ('!', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 190
+[('Wind', 'NNP'), ('Whistler', 'NNP'), (',', ','), ('er', 'RB'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('sorry', 'JJ'), ('we', 'PRP'), ('said', 'VBD'), ('you', 'PRP'), ('had', 'VBD'), ('no', 'DT'), ('feelings', 'NNS'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 191
+[('And', 'CC'), ('we', 'PRP'), (',', ','), ('er', 'RB'), (',', ','), ('we', 'PRP'), ('wan', 'VBP'), ('na', 'TO'), ('thank', 'VB'), ('you', 'PRP'), ('for', 'IN'), ('doing', 'VBG'), ('what', 'WP'), ('you', 'PRP'), ('did', 'VBD'), ('back', 'RB'), ('there', 'RB'), ('.', '.')]
+mlpaf-s1e10-dialog-crunchtherockdog.txt - line: 192
+[('Why', 'WRB'), ('?', '.'), ('Logic', 'NNP'), ('alone', 'RB'), ('dictated', 'VBD'), ('my', 'PRP$'), ('actions', 'NNS'), ('.', '.'), ('It', 'PRP'), ('would', 'MD'), ('have', 'VB'), ('been', 'VBN'), ('too', 'RB'), ('much', 'JJ'), ('trouble', 'NN'), ('to', 'TO'), ('carry', 'VB'), ('three', 'CD'), ('heavy', 'JJ'), ('stone', 'NN'), ('statues', 'VBZ'), ('all', 'PDT'), ('the', 'DT'), ('way', 'NN'), ('home', 'NN'), ('.', '.'), ('Just', 'NNP'), ('kidding', 'NN'), ('.', '.')]
+
+Analyzing: mlpaf-s1e4-dialog-brightlights.txt
+mlpaf-s1e4-dialog-brightlights.txt - line: 1
+[('Baby', 'NNP'), ('Heart', 'NNP'), ('Throb', 'NNP'), (',', ','), ('please', 'NN'), (',', ','), ('sit', 'VBP'), ('down', 'RP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 2
+[('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.'), ('Woooo', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 3
+[('Do', 'VB'), ('the', 'DT'), ('moonwalk', 'NN'), (',', ','), ('ponies', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 4
+[('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('hear', 'VB'), ('a', 'DT'), ('thing', 'NN'), ('!', '.'), ('And', 'CC'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('see', 'VB'), (',', ','), ('either', 'DT'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 5
+[('Let', 'VB'), ('me', 'PRP'), ('take', 'VB'), ('care', 'NN'), ('of', 'IN'), ('this', 'DT'), ('.', '.'), ('Baby', 'NNP'), ('Heart', 'NNP'), ('Throb', 'NNP'), (',', ','), ('please', 'NN'), (',', ','), ('sit', 'VBP'), ('down', 'RP'), ('and', 'CC'), ('be', 'VB'), ('quiet', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 6
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ('guess', 'VBP'), ('that', 'IN'), ('cooled', 'VBD'), ('her', 'PRP'), ('down', 'RP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 7
+[('I', 'PRP'), ('wasted', 'VBD'), ('a', 'DT'), ('perfectly', 'RB'), ('good', 'JJ'), ('ice', 'NN'), ('cream', 'NN'), ('cone', 'NN'), ('on', 'IN'), ('you', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 8
+[('Ohhh..', 'NN'), ('lost', 'VBD'), ('ice', 'JJ'), ('cream', 'NN'), ('cone..', 'NN'), ('Lem', 'NNP'), ('me', 'PRP'), ('get', 'VB'), ('another', 'DT'), ('one', 'CD'), ('for', 'IN'), ('Lickety-Split', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 9
+[('We', 'PRP'), ("'ll", 'MD'), ('come', 'VB'), (',', ','), ('too', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 10
+[('But', 'CC'), ('I', 'PRP'), ('promised', 'VBD'), ('your', 'PRP$'), ('mothers', 'NNS'), ('I', 'PRP'), ("'d", 'MD'), ('bring', 'VB'), ('you', 'PRP'), ('right', 'RB'), ('back', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 11
+[('Oh', 'UH'), (',', ','), ('come', 'VB'), ('on', 'IN'), (',', ','), ('Megan', 'NNP'), ('.', '.'), ('They', 'PRP'), ("'ll", 'MD'), ('only', 'RB'), ('be', 'VB'), ('gone', 'VBN'), ('a', 'DT'), ('minute', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 12
+[('Well..', 'NNP'), ('okay', 'NN'), (',', ','), ('but', 'CC'), ('come', 'VBD'), ('right', 'RB'), ('back', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 13
+[('Promise', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 14
+[("C'mon", 'NNP'), (',', ','), ("c'mon", 'NN'), (',', ','), ('hurry', 'NN'), ('hurry', 'NN'), ('hurry', 'NN'), ('!', '.'), ('Oh', 'UH'), (',', ','), ('my', 'PRP$'), (',', ','), ('my', 'PRP$'), ('...', ':'), ('what', 'WP'), ('have', 'VBP'), ('we', 'PRP'), ('here', 'RB'), ('?', '.'), ('Ah', 'NNP'), (',', ','), ('my', 'PRP$'), ('fair', 'JJ'), ('young', 'JJ'), ('maidens', 'NNS'), (',', ','), ('how', 'WRB'), ('do', 'VB'), ('you', 'PRP'), ('do', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 15
+[('My', 'PRP$'), ('name', 'NN'), ('is', 'VBZ'), ('Zeb', 'NNP'), (',', ','), ('what', 'WP'), ('might', 'MD'), ('yours', 'RB'), ('be', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 16
+[('Um', 'NNP'), (',', ','), ('Baby', 'NNP'), ('Heart', 'NNP'), ('Throb', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 17
+[('Baby', 'NNP'), ('Half', 'NNP'), ('Note', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 18
+[('Baby', 'NNP'), ('Lofty', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 19
+[('Gee', 'NNP'), (',', ','), ('you', 'PRP'), ("workin'", 'VBP')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 20
+[('Not', 'RB'), ('really..', 'VB'), ('I', 'PRP'), ("'m", 'VBP'), ('Knight', 'NNP'), ('Shade', 'NNP'), ("'s", 'POS'), ('personal', 'JJ'), ('manager', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 21
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 22
+[('My', 'PRP$'), ('my', 'PRP$'), (',', ','), ('you', 'PRP'), ('must', 'MD'), ('be', 'VB'), ('fans..', 'JJ'), ('!', '.'), ("How'd'you", 'NNP'), ('like', 'IN'), ('to', 'TO'), ('meet', 'VB'), ('him', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 23
+[('Would', 'MD'), ('we', 'PRP'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 24
+[('Then', 'RB'), (',', ','), ('come', 'VB'), ('along', 'RB'), (',', ','), ('my', 'PRP$'), ('lovelies', 'NNS'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('you', 'PRP'), ('to', 'TO'), ('meet', 'VB'), ('the', 'DT'), ('great', 'JJ'), ('star', 'NN'), ('himself', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 25
+[('It', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('pleasure', 'NN'), ('to', 'TO'), ('meet', 'VB'), ('all', 'DT'), ('of', 'IN'), ('you', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 26
+[('Can', 'MD'), ('we', 'PRP'), ('come', 'VB'), ('back', 'RB'), ('and', 'CC'), ('sing', 'VBG'), ('tomorrow', 'NN'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 27
+[('Oh', 'UH'), (',', ','), ('sorry', 'JJ'), ('.', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('moving', 'VBG'), ('on', 'IN'), ('right', 'JJ'), ('away', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 28
+[('Aww', 'NNP'), (',', ','), ('why', 'WRB'), ('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('go', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 29
+[('Oh', 'UH'), (',', ','), ('er', 'JJ'), (',', ','), ('tomorrow', 'NN'), ('we', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('play', 'VB'), ('in', 'IN'), ('a', 'DT'), ('village', 'NN'), ('called', 'VBN'), (',', ','), ('er', 'NN'), (',', ','), ('Rosedale', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 30
+[('Ah', 'NNP'), (',', ','), ('er', 'NN'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('perhaps', 'RB'), ('our', 'PRP$'), ('new', 'JJ'), ('friends', 'NNS'), ('like', 'IN'), ('a', 'DT'), ('tour', 'NN'), ('of', 'IN'), ('the', 'DT'), ('campgrounds', 'NNS'), ('before', 'IN'), ('we', 'PRP'), ('move', 'VBP'), ('on', 'IN'), ('?', '.'), ('Ah', 'NNP'), (',', ','), ('er', 'NN'), (',', ','), ('sorry', 'NN'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('accompany', 'VB'), ('you', 'PRP'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('some', 'DT'), ("'business", 'NN'), ("'", "''"), ('to', 'TO'), ('attend', 'VB'), ('to..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 31
+[('Well', 'RB'), (',', ','), ('okay', 'PRP'), ('Zeb', 'NNP'), (',', ','), ('we', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('take', 'VB'), ('long', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 32
+[('We', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'NNS'), ('have', 'VBP'), ('to', 'TO'), ('go', 'VB'), ('get', 'VB'), ("'em", 'PRP'), (',', ','), ('Molly', 'RB'), ('.', '.'), ('The', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('you', 'PRP'), (',', ','), ('wait', 'VB'), ('for', 'IN'), ('us', 'PRP'), ('here', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 33
+[('Hi', 'NNP'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('looking', 'VBG'), ('for', 'IN'), ('three', 'CD'), ('baby', 'NN'), ('Ponies', 'NNS'), (',', ','), ('have', 'VBP'), ('you', 'PRP'), ('seen', 'VBN'), ('them', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 34
+[('Why', 'WRB'), (',', ','), ('yes', 'UH'), (',', ','), ('I', 'PRP'), ('have', 'VBP'), (';', ':'), ('they', 'PRP'), ('were', 'VBD'), ('here', 'RB'), ('just', 'RB'), ('a', 'DT'), ('little', 'JJ'), ('while', 'NN'), ('ago', 'IN'), (',', ','), ('I', 'PRP'), ('sent', 'VBD'), ('them', 'PRP'), ('home', 'NN'), ('to', 'TO'), ('their', 'PRP$'), ('mothers', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 35
+[('You', 'PRP'), ('did', 'VBD'), ('!', '.'), ('Oh', 'UH'), (',', ','), ('good', 'JJ'), ('.', '.'), ('Thanks', 'NNS'), ('for', 'IN'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 36
+[('No', 'DT'), ('problem', 'NN'), ('...', ':'), ('no', 'DT'), ('problem', 'NN'), ('at', 'IN'), ('all', 'DT'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 37
+[('They', 'PRP'), ('went', 'VBD'), ('back', 'RB'), ('to', 'TO'), ('Paradise', 'NNP'), ('Estate', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 38
+[('What', 'WP'), ('?', '.'), ('Where', 'WRB'), ("'s", 'POS'), ('my', 'PRP$'), ('ice', 'NN'), ('cream', 'NN'), ('cone', 'NN'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 39
+[('Never', 'RB'), ('mind', 'NN'), (',', ','), ('Lickety-Split', 'NNP'), ('.', '.'), ('Come', 'NNP'), ('on', 'IN'), (',', ','), ('guys', 'NNS'), (',', ','), ('let', 'VB'), ("'s", 'POS'), ('go', 'VB'), ('make', 'JJ'), ('sure', 'JJ'), ('the', 'DT'), ('babies', 'NNS'), ('got', 'VBD'), ('home', 'RB'), ('alright', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 40
+[('So', 'RB'), (',', ','), ('what', 'WP'), ('do', 'VBP'), ('you', 'PRP'), ('think', 'VB'), ('of', 'IN'), ('our', 'PRP$'), ('little', 'JJ'), ('set-up', 'JJ'), (',', ','), ('eh', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 41
+[('Nice', 'NNP'), (',', ','), ('very', 'RB'), ('nice', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 42
+[('Say', 'NNP'), (',', ','), ('you', 'PRP'), ('three', 'CD'), ('do', 'VBP'), ("n't", 'RB'), ('have', 'VB'), ('any', 'DT'), ('musical', 'JJ'), ('talents', 'NNS'), ('yourselves', 'NNS'), (',', ','), ('do', 'VBP'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 43
+[('Oh', 'UH'), (',', ','), ('I', 'PRP'), ('do', 'VBP'), ('!', '.'), ('Wan', 'VB'), ('na', 'RB'), ('be', 'VB'), ('backup', 'JJ'), ('singer', 'NN'), ('for', 'IN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 44
+[('No', 'DT'), ('kidding..', 'NN'), ('You', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('sing', 'VB'), ('backup', 'NN'), ('for', 'IN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 45
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ("'m", 'VBP'), ('very', 'RB'), ('flattered', 'VBN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 46
+[('Baby', 'NNP'), ('Half', 'NNP'), ('Note', 'NNP'), ('sing', 'VBG'), ('better', 'JJR'), ('than', 'IN'), ('Baby', 'NNP'), ('Heart', 'NNP'), ('Throb', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 47
+[('That', 'DT'), ('was', 'VBD'), ('very', 'RB'), ('nice', 'JJ'), ('!', '.'), ('But', 'CC'), (',', ','), ('would', 'MD'), ("n't", 'RB'), ('you', 'PRP'), ('be', 'VB'), ('better', 'JJR'), ('off', 'RP'), ('trying', 'VBG'), ('it', 'PRP'), ('together', 'RB'), ('?', '.'), ('Rather', 'RB'), ('than', 'IN'), ('as', 'IN'), ('rivals', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 48
+[('See', 'VB'), ('how', 'WRB'), ('much', 'JJ'), ('better', 'JJR'), ('you', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('when', 'WRB'), ('you', 'PRP'), ('work', 'VBP'), ('together', 'RB'), ('?', '.'), ('So', 'RB'), (',', ','), ('you', 'PRP'), ('wan', 'VBP'), ('na', 'TO'), ('join', 'VB'), ('the', 'DT'), ('tour', 'NN'), (',', ','), ('huh', 'NN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 49
+[('Make', 'VB'), ('up', 'RP'), ('your', 'PRP$'), ('minds', 'NNS'), ('quickly', 'RB'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('getting', 'VBG'), ('ready', 'JJ'), ('to', 'TO'), ('move', 'VB'), ('on', 'IN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 50
+[('YES', 'UH'), ('!', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 51
+[('They', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('here', 'RB'), ('and', 'CC'), ('they', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('in', 'IN'), ('the', 'DT'), ('nursery..', 'NN'), ('Where', 'WRB'), ('can', 'MD'), ('they', 'PRP'), ('be', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 52
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), (',', ','), ('but', 'CC'), ('here', 'RB'), ('come', 'JJ'), ('Heart', 'NNP'), ('Throb', 'NNP'), ('and', 'CC'), ('Lofty', 'NNP'), ('.', '.'), ('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('tell', 'VB'), ('them', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 53
+[('Tell', 'VB'), ('us', 'PRP'), ('what', 'WDT'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 54
+[('That..', 'IN'), ('the', 'DT'), ('babies', 'NNS'), ('are', 'VBP'), ('gone', 'VBN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 55
+[('The', 'DT'), ('babies', 'NNS'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 56
+[('Take', 'VB'), ('it', 'PRP'), ('easy', 'JJ'), (',', ','), ('Heart', 'NNP'), ('Throb', 'NNP'), ('.', '.'), ('You', 'PRP'), ('mean', 'VBP'), ('you', 'PRP'), ('lost', 'VBD'), ('them', 'PRP'), ('at', 'IN'), ('the', 'DT'), ('concert', 'NN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 57
+[('Let', 'VB'), ('me', 'PRP'), ('explain', 'VB'), ('while', 'IN'), ('we', 'PRP'), ('go', 'VBP'), ('back', 'RB'), ('to', 'TO'), ('look', 'VB'), ('for', 'IN'), ('them', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 58
+[('Megan', 'NNP'), (',', ','), ('what', 'WP'), ('do', 'VBP'), ('you', 'PRP'), ('think', 'VB'), ('has', 'VBZ'), ('happened', 'VBN'), ('to', 'TO'), ('our', 'PRP$'), ('babies', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 59
+[('Do', 'VBP'), ('you', 'PRP'), ('think', 'VBP'), ('they', 'PRP'), ('could', 'MD'), ('have', 'VB'), ('been', 'VBN'), ('kidnapped', 'VBN'), ('by', 'IN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 60
+[('That', 'DT'), ('monster', 'NN'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('go', 'VB'), ('after', 'IN'), ('him', 'PRP'), ('right', 'RB'), ('now', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 61
+[('No', 'DT'), (',', ','), ('Lofty', 'NNP'), ('.', '.'), ('We', 'PRP'), ("'ll", 'MD'), ('have', 'VB'), ('a', 'DT'), ('better', 'JJR'), ('chance', 'NN'), ('of', 'IN'), ('finding', 'VBG'), ('them', 'PRP'), ('if', 'IN'), ('we', 'PRP'), ('go', 'VBP'), ('back', 'RB'), ('to', 'TO'), ('Paradise', 'NNP'), ('Estate', 'NNP'), ('and', 'CC'), ('organize', 'VB'), ('search', 'NN'), ('parties', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 62
+[('That', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), (',', ','), ('the', 'DT'), ('Baby', 'NNP'), ('Ponies', 'NNPS'), ('are', 'VBP'), ('missing', 'VBG'), (',', ','), ('but', 'CC'), ('we', 'PRP'), ("'re", 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('find', 'VB'), ('them', 'PRP'), ('.', '.'), ('Lofty', 'NNP'), (',', ','), ('why', 'WRB'), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('lead', 'VB'), ('the', 'DT'), ('main', 'JJ'), ('search', 'NN'), ('party', 'NN'), ('?', '.'), ('Okay', 'NNP'), (',', ','), ('Whizzer', 'NNP'), (',', ','), ('you', 'PRP'), ('can', 'MD'), ('carry', 'VB'), ('messages', 'NNS'), ('.', '.'), ('Now', 'RB'), (',', ','), ('Galaxy', 'NNP'), (',', ','), ('you', 'PRP'), ('come', 'VBP'), ('with', 'IN'), ('us', 'PRP'), ('.', '.'), ('Fizzy', 'NNP'), (',', ','), ('you', 'PRP'), ('go', 'VBP'), ('with', 'IN'), ('the', 'DT'), ('other', 'JJ'), ('group', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 63
+[('That', 'DT'), ('was', 'VBD'), ('great', 'JJ'), ('!', '.'), ('Why', 'WRB'), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('take', 'VB'), ('a', 'DT'), ('break', 'NN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 64
+[('Woah..', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 65
+[('You', 'PRP'), ('alright', 'VBP'), (',', ','), ('Baby', 'NNP'), ('Half', 'NNP'), ('Note', 'NNP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 66
+[('Feel', 'NNP'), ('kinda', 'VBD'), ('dizzy..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 67
+[('You', 'PRP'), ("'ve", 'VBP'), ('probably', 'RB'), ('just', 'RB'), ('had', 'VBD'), ('a', 'DT'), ('little', 'JJ'), ('too', 'RB'), ('much', 'JJ'), ('excitement', 'NN'), ('for', 'IN'), ('one', 'CD'), ('day', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 68
+[('Oh', 'UH'), (',', ','), ('y-yeah', 'JJ'), (',', ','), ('yeah', 'UH'), (',', ','), ('Zeb', 'NNP'), (',', ','), ('that', 'WDT'), ("'s", 'VBZ'), ('right', 'JJ'), (',', ','), ('uh', 'UH'), (',', ','), ('maybe', 'RB'), ('you', 'PRP'), ("'d", 'MD'), ('all', 'VB'), ('better', 'RB'), ('take', 'VB'), ('a', 'DT'), ('nap', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 69
+[('Do', 'VBP'), ("n't", 'RB'), ('feel', 'VB'), ('so', 'RB'), ('good', 'JJ'), ('myself..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 70
+[('Me', 'NNP'), ('either..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 71
+[('Look', 'NNP'), ('sick', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 72
+[('All', 'DT'), ('pale', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 73
+[('Like', 'IN'), ('ghosts', 'NNS'), ('!', '.'), ('Feel', 'NNP'), ('sick..', 'VBD'), ('too', 'RB'), ('sick', 'JJ'), ('to', 'TO'), ('fly', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 74
+[('Baby', 'NNP'), ('Lofty', 'NNP'), (',', ','), ('Baby', 'NNP'), ('Lofty', 'NNP'), (',', ','), ('your', 'PRP$'), ('shadow', 'NN'), ('!', '.'), ('Your', 'PRP$'), ('shadow', 'NN'), ('is', 'VBZ'), ('gone', 'VBN'), ('!', '.'), ('All', 'DT'), ('shadows', 'VBZ'), ('gone', 'VBN'), ('!', '.'), ('Where', 'WRB'), ("'s", 'POS'), ('shadows', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 75
+[('Hello', 'NN'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('Camembert', 'JJ'), (',', ','), ('the', 'DT'), ('Mayor', 'NNP'), ('of', 'IN'), ('Muensterville', 'NNP'), ('.', '.'), ('How', 'WRB'), ('can', 'MD'), ('I', 'PRP'), ('help', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 76
+[('Hello', 'NNP'), (',', ','), ('Mr.', 'NNP'), ('Bert', 'NNP'), ('.', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('looking', 'VBG'), ('for', 'IN'), ('a', 'DT'), ('musician', 'NN'), ('called', 'VBN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 77
+[('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('you', 'PRP'), ('say..', 'VBP'), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('Knight', 'NNP'), ('Shade..', 'NNP')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 78
+[('Well', 'RB'), (',', ','), ('have', 'VBP'), ('you', 'PRP'), ('seen', 'VBN'), ('him', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 79
+[('Possibly', 'RB'), (',', ','), ('possibly..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 80
+[('Yes', 'UH'), ('or', 'CC'), ('no', 'DT'), ('?', '.'), ('We', 'PRP'), ('really', 'RB'), ('need', 'VB'), ('to', 'TO'), ('know', 'VB'), ('where', 'WRB'), ('he', 'PRP'), ('is', 'VBZ'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 81
+[('Well', 'RB'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('NOT', 'NNP'), ('going', 'VBG'), ('to', 'TO'), ('find', 'VB'), ('out', 'RP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 82
+[('Oh', 'UH'), (',', ','), ('how', 'WRB'), ('will', 'MD'), ('we', 'PRP'), ('ever', 'RB'), ('find', 'VB'), ('our', 'PRP$'), ('babies', 'NNS'), ('now', 'RB'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 83
+[('What', 'WP'), ("'s", 'VBZ'), ('wrong', 'JJ'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 84
+[('You', 'PRP'), ('tricked', 'VBD'), ('us', 'PRP'), ('!', '.'), ('Stole', 'JJ'), ('shadows', 'NNS'), ('!', '.'), ('Not', 'RB'), ('our', 'PRP$'), ('friend', 'NN'), ('!', '.'), ('Made', 'VBD'), ('us', 'PRP'), ('sick', 'JJ'), ('!', '.'), ('Now', 'RB'), ('give', 'VBP'), ('shadows', 'NNS'), ('back', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 85
+[('Baby', 'NNP'), ('Lofty', 'NNP'), ('right', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 86
+[('No', 'DT'), (',', ','), ('no..', 'RB'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('no', 'DT'), ('thief', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 87
+[('Ah', 'NNP'), (',', ','), ('well', 'RB'), (',', ','), ('uh..', 'JJ')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 88
+[('Somebody', 'NN'), ('stole', 'VB'), ('your', 'PRP$'), ('shadows', 'NNS'), (',', ','), ('eh', 'VB'), ('?', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('some', 'DT'), ('joke', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 89
+[('No', 'DT'), ('joke', 'NN'), ('!', '.'), ('Is', 'VBZ'), ('true', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 90
+[('You', 'PRP'), ('laugh', 'RB'), (',', ','), ('we', 'PRP'), ('go', 'VBP'), ('home', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 91
+[('Where', 'WRB'), ('you', 'PRP'), ('goin', 'VBP'), ("'", "''"), (',', ','), ('babies', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 92
+[('You', 'PRP'), ('know', 'VBP'), (',', ','), ('you', 'PRP'), ('should', 'MD'), ("n't", 'RB'), ('be', 'VB'), ('out', 'RP'), ('after', 'IN'), ('dark', 'NN'), (',', ','), ('alone..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 93
+[('Yeaaah', 'NNP'), ('.', '.'), ('Somethin', 'NNP'), ("'", 'POS'), ('baaad', 'NN'), ('might', 'MD'), ('happen', 'VB'), ('to', 'TO'), ('ya', 'VB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 94
+[('Never', 'RB'), ('see', 'VB'), ('other', 'JJ'), ('ponies', 'NNS'), ('again', 'RB'), ('...', ':')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 95
+[('Maybe', 'RB'), ('they', 'PRP'), ('look', 'VBP'), ('for', 'IN'), ('us', 'PRP'), ('right', 'RB'), ('now', 'RB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 96
+[('Let', 'VB'), ('us', 'PRP'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 97
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('find', 'VB'), ('our', 'PRP$'), ('babies', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 98
+[('Save', 'VB'), ('your', 'PRP$'), ('breath', 'NN'), ('.', '.'), ('They', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('let', 'VB'), ('us', 'PRP'), ('go', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 99
+[('But', 'CC'), ('we', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('DO', 'VB'), ('anything', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 100
+[('Did', 'NNP'), ("n't", 'RB'), ('do', 'VB'), ('anything', 'NN'), ('?', '.'), ('You', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), ('plenty', 'NN'), ('!', '.'), ('Or', 'CC'), ('rather', 'RB'), (',', ','), ('your', 'PRP$'), ('friend', 'NN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('did', 'VBD'), ('.', '.'), ('We', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), ('what', 'WP'), ("'s", 'VBZ'), ('wrong', 'JJ'), (',', ','), ('but', 'CC'), ('we', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('gon', 'VBG'), ('na', 'TO'), ('let', 'VB'), ('you', 'PRP'), ('do', 'VB'), ('that', 'DT'), ('to', 'TO'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 101
+[('But', 'CC'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('is', 'VBZ'), ('not', 'RB'), ('our', 'PRP$'), ('friend', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 102
+[('So', 'IN'), ('you', 'PRP'), ('say', 'VBP'), ('...', ':')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 103
+[('Say..', 'NNP'), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('it', 'PRP'), ('!', '.'), ('Mr.', 'NNP'), ('Mayor', 'NNP'), (',', ','), ('look', 'NN'), ('at', 'IN'), ('the', 'DT'), ('sick', 'JJ'), ('children', 'NNS'), ('.', '.'), ('They', 'PRP'), ('cast', 'VBD'), ('no', 'DT'), ('shadows', 'NN'), ('!', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('the', 'DT'), ('reason', 'NN'), ('they', 'PRP'), ("'re", 'VBP'), ('sick', 'JJ'), ('.', '.'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('must', 'MD'), ('have', 'VB'), ('stolen', 'VBN'), ('their', 'PRP$'), ('shadows', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 104
+[('That', 'DT'), ('makes', 'VBZ'), ('sense', 'NN'), ('.', '.'), ('No', 'DT'), ('doubt', 'NN'), ('they', 'PRP'), ('feel', 'VBP'), ('empty', 'JJ'), ('and', 'CC'), ('incomplete', 'JJ'), ('.', '.'), ('The', 'DT'), ('loss', 'NN'), ('of', 'IN'), ('their', 'PRP$'), ('shadows', 'NNS'), ('being', 'VBG'), ('an', 'DT'), ('outward', 'JJ'), ('sign', 'NN'), ('of', 'IN'), ('some', 'DT'), ('loss', 'NN'), ('of', 'IN'), ('substance', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 105
+[('Please', 'NNP'), (',', ','), ('Mr.', 'NNP'), ('Mayor', 'NNP'), (',', ','), ('you', 'PRP'), ('must', 'MD'), ('let', 'VB'), ('us', 'PRP'), ('go', 'VB'), ('.', '.'), ('What', 'WP'), ('happened', 'VBD'), ('to', 'TO'), ('your', 'PRP$'), ('children', 'NNS'), ('could', 'MD'), ('be', 'VB'), ('happening', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('Baby', 'NNP'), ('Ponies', 'NNP'), ('right', 'RB'), ('now', 'RB'), ('.', '.'), ('We', 'PRP'), ('MUST', 'VBP'), ('be', 'VB'), ('free', 'JJ'), ('to', 'TO'), ('stop', 'VB'), ('this', 'DT'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 106
+[('Well', 'RB'), (',', ','), ('perhaps', 'RB'), ('I', 'PRP'), ('will', 'MD'), ('let', 'VB'), ('you', 'PRP'), ('go', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 107
+[('But', 'CC'), (',', ','), ('Sheriff', 'NNP'), ('Ricotta', 'NNP'), ('and', 'CC'), ('I', 'PRP'), ('will', 'MD'), ('go', 'VB'), ('with', 'IN'), ('you', 'PRP'), ('.', '.'), ('You', 'PRP'), ("'ll", 'MD'), ('need', 'VB'), ('our', 'PRP$'), ('help', 'NN'), ('to', 'TO'), ('get', 'VB'), ('past', 'JJ'), ('our', 'PRP$'), ('nasty', 'JJ'), ('cousins', 'NNS'), (',', ','), ('the', 'DT'), ('Roadies', 'NNPS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 108
+[('Nobody', 'NN'), ('comin', 'NN'), ("'", "''"), ('to', 'TO'), ('save', 'VB'), ('us..', 'JJ')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 109
+[('Where', 'WRB'), ('grown-ups', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 110
+[('Ca', 'NNP'), ("n't", 'RB'), ('give', 'VB'), ('up', 'RP'), ('!', '.'), ('Hey..', 'NNP'), ('let', 'NN'), ("'s", 'POS'), ('sing', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 111
+[('I', 'PRP'), ('wonder', 'VBP'), ('where', 'WRB'), ('the', 'DT'), ('Baby', 'NNP'), ('Ponies', 'NNP'), ('could', 'MD'), ('be', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 112
+[('Our', 'PRP$'), ('babies', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 113
+[('The', 'DT'), ('coast', 'NN'), ('is', 'VBZ'), ('clear', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 114
+[('There', 'EX'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 115
+[('We', 'PRP'), ("'re", 'VBP'), ('so', 'RB'), ('glad', 'JJ'), ('we', 'PRP'), ("'ve", 'VBP'), ('found', 'VBN'), ('you', 'PRP'), ('.', '.'), ('But', 'CC'), ('you', 'PRP'), ("'re", 'VBP'), ('so', 'RB'), ('pale', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 116
+[('We', 'PRP'), ("'re", 'VBP'), ('sick..', 'JJ')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 117
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('stole', 'VBD'), ('shadows..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 118
+[('Well', 'RB'), (',', ','), ('he', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('gon', 'VB'), ('na', 'TO'), ('get', 'VB'), ('away', 'RB'), ('with', 'IN'), ('it', 'PRP'), ('.', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('make', 'VB'), ('him', 'PRP'), ('give', 'VB'), ('those', 'DT'), ('shadows', 'NNS'), ('back', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 119
+[('There', 'EX'), ('he', 'PRP'), ('is', 'VBZ'), ('!', '.'), ('Let', 'NNP'), ("'s", 'POS'), ('go', 'VB'), ('after', 'IN'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 120
+[('Where', 'WRB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 121
+[('He', 'PRP'), ("'s", 'VBZ'), ('on', 'IN'), ('his', 'PRP$'), ('way', 'NN'), ('to', 'TO'), ('his', 'PRP$'), ('trailer', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 122
+[('Let', 'VB'), ("'s", 'POS'), ('go', 'VB'), ('get', 'VB'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 123
+[('What', 'WP'), ('IS', 'VBZ'), ('that', 'DT'), ('in', 'IN'), ('the', 'DT'), ('mirror', 'NN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 124
+[('It', 'PRP'), ('looks', 'VBZ'), ('as', 'IN'), ('if', 'IN'), ('that', 'DT'), ('looking-glass', 'NN'), ('could', 'MD'), ('use', 'VB'), ('a', 'DT'), ('good', 'JJ'), ('cleaning', 'NN'), ('to', 'TO'), ('me', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 125
+[('You', 'PRP'), ('fiend', 'VBP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 126
+[('You', 'PRP'), ("'d", 'MD'), ('better', 'VB'), ('give', 'VB'), ('our', 'PRP$'), ('babies', 'NNS'), ("'", 'POS'), ('back', 'RP'), ('their', 'PRP$'), ('shadows', 'NNS'), ('or', 'CC'), ('else', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 127
+[('We', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('make', 'VB'), ('you', 'PRP'), ('pay', 'VB'), ('for', 'IN'), ('what', 'WP'), ('you', 'PRP'), ('did', 'VBD'), ('to', 'TO'), ('our', 'PRP$'), ('children', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 128
+[('Yep', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 129
+[('Yeah', 'UH'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 130
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('catch', 'NN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 131
+[('Or', 'CC'), ('we', 'PRP'), ("'ll", 'MD'), ('never', 'RB'), ('get', 'VB'), ('our', 'PRP$'), ('babies', 'NNS'), ("'", 'POS'), ('shadows', 'NNS'), ('!', '.'), ('Look', 'NN'), ('at', 'IN'), ('that', 'DT'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 132
+[('Oh-', 'JJ'), ('uh-', 'JJ'), ('I-', 'NNP'), ('I', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('wan', 'VB'), ('na', 'RB'), ('do', 'VBP'), ('it', 'PRP'), ('!', '.'), ('I', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('wan', 'VB'), ('na', 'RB'), ('do', 'VBP'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 133
+[('Then', 'RB'), ('why', 'WRB'), ('did', 'VBD'), ('you', 'PRP'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 134
+[('He', 'PRP'), ('MADE', 'VBD'), ('me', 'PRP'), ('do', 'VB'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 135
+[('Who', 'WP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 136
+[('Erebus', 'NN'), ('!', '.'), ('He', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('wizard', 'NN'), ('.', '.'), ('He', 'PRP'), ('looks', 'VBZ'), ('like', 'IN'), ('a', 'DT'), ('big', 'JJ'), (',', ','), ('gray', 'JJ'), ('storm', 'NN'), ('cloud', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 137
+[('That', 'DT'), ('must', 'MD'), ('be', 'VB'), ('the', 'DT'), ('thing', 'NN'), ('we', 'PRP'), ('saw', 'VBD'), ('in', 'IN'), ('the', 'DT'), ('mirror', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 138
+[('Yes', 'UH'), ('!', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('how', 'WRB'), ('he', 'PRP'), ('gives', 'VBZ'), ('me', 'PRP'), ('my', 'PRP$'), ('orders', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 139
+[('What', 'WP'), ('kind', 'NN'), ('of', 'IN'), ('orders', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 140
+[('To', 'TO'), ('steal', 'VB'), ('shadows', 'NNS'), ('for', 'IN'), ('him', 'PRP'), ('!', '.'), ('Although', 'IN'), ('Zeb', 'NNP'), ('is', 'VBZ'), ('the', 'DT'), ('one', 'NN'), ('who', 'WP'), ('actually', 'RB'), ('steals', 'VBZ'), ("'em", 'PRP'), ('.', '.'), ('He', 'PRP'), ('puts', 'VBZ'), ('them', 'PRP'), ('in', 'IN'), ('his', 'PRP$'), ('satchel', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 141
+[('You', 'PRP'), ('mean', 'VBP'), (',', ','), ('the', 'DT'), ('babies', 'NNS'), ("'", 'POS'), ('shadows', 'NNS'), ('are', 'VBP'), ('in', 'IN'), ('the', 'DT'), ('satchel', 'NN'), ('he', 'PRP'), ('was', 'VBD'), ('carrying', 'VBG'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 142
+[('Yeah', 'UH'), (',', ','), ('that', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 143
+[('And', 'CC'), ('we', 'PRP'), ('let', 'VBP'), ('him', 'PRP'), ('get', 'VB'), ('away', 'RB'), ('...', ':'), ('Was', 'NNP'), ('he', 'PRP'), ('taking', 'VBG'), ('them', 'PRP'), ('to', 'TO'), ('Erebus', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 144
+[('Yeah', 'UH'), ('!', '.'), ('So', 'IN'), ('you', 'PRP'), ('see', 'VBP'), (',', ','), ('I', 'PRP'), ('could', 'MD'), ("n't", 'RB'), ('give', 'VB'), ('back', 'RB'), ('your', 'PRP$'), ('babies', 'NNS'), ("'", 'POS'), ('shadows', 'NNS'), ('-', ':'), ('I', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('got', 'VBN'), ("'em", 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 145
+[('What', 'WP'), ('does', 'VBZ'), ('Erebus', 'NNP'), ('do', 'VB'), ('with', 'IN'), ('the', 'DT'), ('shadows', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 146
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), ('exactly', 'RB'), (',', ','), ('but', 'CC'), ('they', 'PRP'), ('give', 'VBP'), ('him', 'PRP'), ('power', 'NN'), ('.', '.'), ('Power', 'NN'), ('which', 'WDT'), ('he', 'PRP'), ('uses', 'VBZ'), ('to', 'TO'), ('make', 'VB'), ('me', 'PRP'), ('do', 'VB'), ('what', 'WP'), ('he', 'PRP'), ('wants', 'VBZ'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 147
+[('You', 'PRP'), ('see', 'VBP'), (',', ','), ('I', 'PRP'), ('come', 'VBP'), ('from', 'IN'), ('Grayvale', 'NNP'), (',', ','), ('a', 'DT'), ('place', 'NN'), ('that', 'WDT'), ('used', 'VBD'), ('to', 'TO'), ('be', 'VB'), ('called', 'VBN'), ('Bright', 'NNP'), ('Valley', 'NNP'), ('.', '.'), ('I', 'PRP'), ('tried', 'VBD'), ('my', 'PRP$'), ('best', 'JJS'), ('as', 'IN'), ('a', 'DT'), ('singer', 'NN'), ('there', 'RB'), (',', ','), ('but', 'CC'), ('nobody', 'NN'), ('came', 'VBD'), ('to', 'TO'), ('see', 'VB'), ('me', 'PRP'), ('.', '.'), ('I', 'PRP'), ('was', 'VBD'), ('ready', 'JJ'), ('to', 'TO'), ('give', 'VB'), ('up', 'RP'), (',', ','), ('then', 'RB'), ('Erebus', 'NNP'), ('came', 'VBD'), ('along', 'RB'), ('.', '.'), ('He', 'PRP'), ('said', 'VBD'), ('he', 'PRP'), ('was', 'VBD'), ('a', 'DT'), ('wizard', 'NN'), ('and', 'CC'), ('promised', 'VBD'), ('to', 'TO'), ('make', 'VB'), ('me', 'PRP'), ('a', 'DT'), ('star', 'NN'), ('!', '.'), ('All', 'PDT'), ('he', 'PRP'), ('said', 'VBD'), ('he', 'PRP'), ('wanted', 'VBD'), ('in', 'IN'), ('return..', 'NN'), ('was', 'VBD'), ('a', 'DT'), ('little', 'JJ'), ('co-operation', 'NN'), ('.', '.'), ('The', 'DT'), ('first', 'JJ'), ('concert', 'NN'), ('he', 'PRP'), ('promoted', 'VBD'), ('in', 'IN'), ('Bright', 'NNP'), ('Valley', 'NNP'), ('was', 'VBD'), ('a', 'DT'), ('smash', 'NN'), ('!', '.'), ('Everyone', 'NN'), ('in', 'IN'), ('town', 'NN'), ('was', 'VBD'), ('there', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 148
+[('And', 'CC'), ('while', 'IN'), ('I', 'PRP'), ('was', 'VBD'), ('singing', 'VBG'), (',', ','), ('Erebus', 'NNP'), ('had', 'VBD'), ('Zeb', 'NNP'), ('steal', 'VB'), ('everyone', 'NN'), ("'s", 'POS'), ('shadow', 'JJ'), ('-', ':'), ('including', 'VBG'), ('my', 'PRP$'), ('own', 'JJ'), ('mother', 'NN'), ("'s", 'POS'), ('.', '.'), ('When', 'WRB'), ('I', 'PRP'), ('saw', 'VBD'), ('what', 'WP'), ('Erebus', 'NNP'), ('had', 'VBD'), ('done', 'VBN'), (',', ','), ('I', 'PRP'), ('refused', 'VBD'), ('to', 'TO'), ('work', 'VB'), ('for', 'IN'), ('him', 'PRP'), ('any', 'DT'), ('more', 'RBR'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ('demanded', 'VBD'), ('that', 'IN'), ('he', 'PRP'), ('give', 'VB'), ('everyone', 'NN'), ('their', 'PRP$'), ('shadows', 'NNS'), ('back', 'RB'), ('!', '.'), ('But', 'CC'), ('he', 'PRP'), ('threatened', 'VBD'), ('to', 'TO'), ('steal', 'VB'), ('my', 'PRP$'), ('shadow..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 149
+[('..and', 'NN'), ('he', 'PRP'), ('laughed', 'VBD'), ('at', 'IN'), ('me', 'PRP'), ('.', '.'), ('I', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('know', 'VB'), ('then', 'RB'), ('that', 'IN'), ('the', 'DT'), ('shadows', 'NNS'), ('provided', 'VBD'), ('Erebus', 'NNP'), ('with', 'IN'), ('energy', 'NN'), ('that', 'WDT'), ('gave', 'VBD'), ('him', 'PRP'), ('his', 'PRP$'), ('magical', 'JJ'), ('powers', 'NNS'), ('!', '.'), ('And', 'CC'), ('he', 'PRP'), ('used', 'VBD'), ('the', 'DT'), ('energy', 'NN'), ('from', 'IN'), ('the', 'DT'), ('shadows', 'NNS'), ('to', 'TO'), ('make', 'VB'), ('himself', 'PRP'), ('into', 'IN'), ('this', 'DT'), ('huge', 'JJ'), ('cloud', 'NN'), ('of', 'IN'), ('energy', 'NN'), ('!', '.'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('know', 'VB'), ('how', 'WRB'), ('he', 'PRP'), ('does', 'VBZ'), ('that', 'IN'), ('-', ':'), ('it', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('closely', 'RB'), ('guarded', 'JJ'), ('secret', 'NN'), ('.', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('even', 'RB'), ('sure', 'JJ'), ('Zeb', 'NNP'), ('knows', 'VBZ'), ('.', '.'), ('Then', 'RB'), ('Erebus', 'NNP'), ('made', 'VBD'), ('me', 'PRP'), ('take', 'VB'), ('my', 'PRP$'), ('act', 'NN'), ('on', 'IN'), ('the', 'DT'), ('road', 'NN'), (',', ','), ('and', 'CC'), ('he', 'PRP'), ('sent', 'VBD'), ('Zeb', 'NNP'), ('along', 'IN'), ('to', 'TO'), ('do', 'VB'), ('the', 'DT'), ('shadow', 'NN'), ('stealing', 'NN'), ('!', '.'), ('And', 'CC'), ('as', 'IN'), ('I', 'PRP'), ('became', 'VBD'), ('famous', 'JJ'), (',', ','), ('more', 'RBR'), ('fans', 'NNS'), ('came', 'VBD'), ('to', 'TO'), ('see', 'VB'), ('me', 'PRP'), (',', ','), ('Zeb', 'NNP'), ('stole', 'VBD'), ('more', 'JJR'), ('shadows', 'NNS'), ('and', 'CC'), ('Erebus', 'NNP'), ('became', 'VBD'), ('even', 'RB'), ('more', 'RBR'), ('powerful', 'JJ'), ('!', '.'), ('His', 'PRP$'), ('hunger', 'NN'), ('for', 'IN'), ('power', 'NN'), ('is', 'VBZ'), ('endless', 'JJ'), ('!', '.'), ('And', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('forced', 'VBN'), ('to', 'TO'), ('help', 'VB'), ('Zeb', 'NNP'), ('supply', 'VB'), ('him', 'PRP'), ('with', 'IN'), ('more', 'JJR'), ('and', 'CC'), ('more', 'JJR'), ('shadows', 'NNS'), ('.', '.'), ('If', 'IN'), ('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('help', 'VB'), ('him', 'PRP'), (',', ','), ('he', 'PRP'), ("'ll", 'MD'), ('steal', 'VB'), ('my', 'PRP$'), ('shadow', 'NN'), (',', ','), ('which', 'WDT'), ('would', 'MD'), ('end', 'VB'), ('my', 'PRP$'), ('career', 'NN'), ('.', '.'), ('But', 'CC'), ('worse', 'JJR'), (',', ','), ('it', 'PRP'), ('would', 'MD'), ('mean', 'VB'), ('that', 'IN'), ('I', 'PRP'), ("'d", 'MD'), ('never', 'RB'), ('have', 'VB'), ('any', 'DT'), ('hope', 'NN'), ('of', 'IN'), ('restoring', 'VBG'), ('Grayvale', 'NNP'), ('-', ':'), ('and', 'CC'), ('my', 'PRP$'), ('mother', 'NN'), ('-', ':'), ('to', 'TO'), ('the', 'DT'), ('way', 'NN'), ('they', 'PRP'), ('used', 'VBD'), ('to', 'TO'), ('be', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 150
+[('Pleaaase', 'NNP'), ('let', 'VBD'), ('him', 'PRP'), ('go', 'VB'), (',', ','), ('he', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('really', 'RB'), ('wan', 'VB'), ('na', 'TO'), ('hurt', 'VB'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 151
+[('What', 'WP'), ('do', 'VBP'), ('you', 'PRP'), ('think', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 152
+[('Poor', 'NNP'), ('creature', 'NN'), ('did', 'VBD'), ("n't", 'RB'), ('have', 'VB'), ('any', 'DT'), ('choice', 'NN'), (',', ','), ('did', 'VBD'), ('he', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 153
+[('Thank', 'NNP'), ('you', 'PRP'), (',', ','), ('Baby', 'NNP'), ('Heart', 'NNP'), ('Throb', 'NNP'), ('.', '.'), ("Y'know..", 'NNP'), ('you', 'PRP'), ("'re", 'VBP'), ('so', 'RB'), ('lucky', 'JJ'), ('to', 'TO'), ('have', 'VB'), ('loved', 'VBN'), ('ones', 'NNS'), ('who', 'WP'), ('care', 'VBP'), ('about', 'IN'), ('you', 'PRP'), ('so', 'RB'), ('much', 'JJ'), ('.', '.'), ('I', 'PRP'), ('have', 'VBP'), ('a', 'DT'), ('wonderful', 'JJ'), ('mother', 'NN'), ('-', ':'), ('but', 'CC'), ('she-', 'JJ'), ('she', 'PRP'), ('has', 'VBZ'), ('to', 'TO'), ('live', 'VB'), ('with', 'IN'), ('the', 'DT'), ('terrible', 'JJ'), ('shame', 'NN'), ('of', 'IN'), ('what', 'WP'), ('I', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), (',', ','), ('to', 'TO'), ('her', 'PRP$'), ('AND', 'NNP'), ('Grayvale', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 154
+[('I', 'PRP'), ('think', 'VBP'), ('we', 'PRP'), ('oughtta', 'VBP'), ('help', 'VB'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 155
+[('You', 'PRP'), ('mean', 'VBP'), ('we', 'PRP'), ('should', 'MD'), ('fight', 'VB'), ('Erebus', 'NNP'), ('ourselves', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 156
+[('Exactly', 'RB'), ('!', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('the', 'DT'), ('only', 'JJ'), ('way', 'NN'), ('we', 'PRP'), ("'ll", 'MD'), ('ever', 'RB'), ('get', 'VB'), ('the', 'DT'), ('babies', 'NNS'), ("'", 'POS'), ('shadows', 'NNS'), ('back', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 157
+[('AND', 'CC'), ('our', 'PRP$'), ('children', 'NNS'), ("'s", 'POS'), ('shadows', 'NNS'), (',', ','), ('too', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 158
+[('Yup', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 159
+[('And', 'CC'), ('my', 'PRP$'), ('mothers', 'NNS'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('Grayvale', 'NNP'), ("'s", 'POS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 160
+[('Well', 'RB'), (',', ','), ('what', 'WP'), ('are', 'VBP'), ('we', 'PRP'), ('waiting', 'VBG'), ('for', 'IN'), (',', ','), ('guys', 'NNS'), ('?', '.'), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('show', 'VBP'), ('us', 'PRP'), ('the', 'DT'), ('way', 'NN'), ('to', 'TO'), ('Grayvale', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 161
+[('Alright', 'RB'), ('!', '.'), ('Yeah', 'UH'), ('!', '.'), ('Yaaay', 'UH'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 162
+[('Where', 'WRB'), ('is', 'VBZ'), ('everybody', 'NN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 163
+[('I', 'PRP'), ('think', 'VBP'), ('they', 'PRP'), ('must', 'MD'), ('be', 'VB'), ('in', 'IN'), ('hiding', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 164
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('...', ':')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 165
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('...', ':')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 166
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 167
+[('You', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('a', 'DT'), ('lot', 'NN'), ('of', 'IN'), ('nerve', 'NN'), ('coming', 'VBG'), ('back', 'RB'), ('here', 'RB'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 168
+[('And', 'CC'), ('you', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('sorry', 'JJ'), ('you', 'PRP'), ('did', 'VBD'), ('...', ':')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 169
+[('There', 'EX'), ("'s", 'VBZ'), ('got', 'VBD'), ('ta', 'RB'), ('be', 'VB'), ('a', 'DT'), ('way', 'NN'), ('out', 'IN'), ('!', '.'), ('Keep', 'VB'), ('looking', 'VBG'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 170
+[('-', ':'), ('I', 'PRP'), ("'m", 'VBP'), ('afraid', 'JJ'), ('we', 'PRP'), ("'re", 'VBP'), ('doomed', 'VBN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 171
+[('Stop', 'VB'), ('this', 'DT'), ('!', '.'), ('Please', 'NN'), ('!', '.'), ('My', 'PRP$'), ('son..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 172
+[('Mother', 'NNP'), (',', ','), ('can', 'MD'), ('you', 'PRP'), ('ever', 'RB'), ('forgive', 'VBP'), ('me', 'PRP'), ('for', 'IN'), ('what', 'WP'), ('I', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 173
+[('You', 'PRP'), ("'re", 'VBP'), ('my', 'PRP$'), ('son', 'NN'), (',', ','), ('I', 'PRP'), ('love', 'VBP'), ('you', 'PRP'), ('.', '.'), ('Nothing', 'NN'), ('could', 'MD'), ('ever', 'RB'), ('change', 'VB'), ('that', 'DT'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 174
+[('Please', 'NN'), ('!', '.'), ('Leave', 'VB'), ('my', 'PRP$'), ('son', 'NN'), ('and', 'CC'), ('his', 'PRP$'), ('friends', 'NNS'), ('alone', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 175
+[('I', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('expect', 'VB'), ('them', 'PRP'), ('to', 'TO'), ('hate', 'VB'), ('me', 'PRP'), ('so', 'RB'), ('much', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 176
+[('What', 'WP'), ('else', 'RB'), ('did', 'VBD'), ('you', 'PRP'), ('expect', 'VBP'), ('from', 'IN'), ('them', 'PRP'), (',', ','), ('my', 'PRP$'), ('son', 'NN'), ('?', '.'), ('You', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('earned', 'VBN'), ('their', 'PRP$'), ('trust', 'NN'), ('.', '.'), ('And', 'CC'), ('Erebus', 'NNP'), ('possesses', 'VBZ'), ('their', 'PRP$'), ('spirit', 'NN'), ('and', 'CC'), ('courage', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 177
+[('Not', 'RB'), ('for', 'IN'), ('long', 'RB'), (',', ','), ('he', 'PRP'), ('does', 'VBZ'), ("n't", 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 178
+[('Yes', 'UH'), (',', ','), ('Master', 'NNP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('has', 'VBZ'), ('done', 'VBN'), ('well', 'RB'), ('.', '.'), ('I', 'PRP'), ('suggest', 'VBP'), ('we', 'PRP'), ('roll', 'VBP'), ('out', 'RP'), ('the', 'DT'), ('red', 'JJ'), ('carpet', 'NN'), ('and', 'CC'), ('give', 'VB'), ('them', 'PRP'), ('all', 'PDT'), ('a', 'DT'), ('welcome', 'JJ'), ('they', 'PRP'), ("'ll", 'MD'), ('never', 'RB'), ('forget', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 179
+[('Capital', 'NN'), ('idea', 'NN'), (',', ','), ('capital', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 180
+[('Ah', 'NNP'), (',', ','), ('my', 'PRP$'), ('boy', 'NN'), ('...', ':'), ('You', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), ('well', 'RB'), ('.', '.'), ('This', 'DT'), ('is', 'VBZ'), ('a', 'DT'), ('fine', 'JJ'), ('assortment', 'NN'), ('of', 'IN'), ('shadows', 'NNS'), ('.', '.'), ('Mmm', 'NNP'), (',', ','), ('very', 'RB'), ('fine', 'JJ'), ('indeed', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 181
+[('Surprise', 'NNP'), (',', ','), ('Erebus', 'NNP'), ('!', '.'), ('As', 'IN'), ('of', 'IN'), ('right', 'NN'), ('now', 'RB'), (',', ','), ('I', 'PRP'), ('quit', 'VBP'), ('helping', 'VBG'), ('you', 'PRP'), ('steal', 'JJ'), ('shadows', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 182
+[('You', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('mean', 'VB'), ('that', 'IN'), ('!', '.'), ('I', 'PRP'), ('make', 'VBP'), ('you', 'PRP'), ('what', 'WP'), ('you', 'PRP'), ('are', 'VBP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 183
+[('That', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), (',', ','), ('you', 'PRP'), ('did', 'VBD'), ('.', '.'), ('But', 'CC'), ('now', 'RB'), ('I', 'PRP'), ("'m", 'VBP'), ('making', 'VBG'), ('my', 'PRP$'), ('own', 'JJ'), ('decisions', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 184
+[('That', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), (',', ','), ('not', 'RB'), ('only', 'RB'), ('is', 'VBZ'), ('he', 'PRP'), ('quitting', 'VBG'), (',', ','), ('but', 'CC'), ('we', 'PRP'), ('want', 'VBP'), ('everyone', 'NN'), ("'s", 'POS'), ('shadow', 'NN'), ('back', 'RB'), ('and', 'CC'), ('we', 'PRP'), ('want', 'VBP'), ('them', 'PRP'), ('back', 'RB'), ('NOW', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 185
+[('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('afford', 'VB'), ('to', 'TO'), ('let', 'VB'), ('you', 'PRP'), ('turn', 'VB'), ('on', 'IN'), ('me', 'PRP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.'), ('You', 'PRP'), ('and', 'CC'), ('your', 'PRP$'), ('friends', 'NNS'), ('will', 'MD'), ('pay', 'VB'), ('dearly', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 186
+[('The', 'DT'), ('master', 'NN'), ('said', 'VBD'), ('you', 'PRP'), ("'d", 'MD'), ('pay', 'VB'), ('...', ':'), ('..and', 'NN'), ('now', 'RB'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('time', 'NN'), ('for', 'IN'), ('me', 'PRP'), ('to', 'TO'), ('collect', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 187
+[('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('care', 'NN'), ('of', 'IN'), ('Zeb', 'NNP'), ('!', '.'), ('Find', 'NNP'), ('that', 'IN'), ('satchel', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 188
+[('Okay', 'NNP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 189
+[('You', 'PRP'), ('fool', 'VBP'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('out', 'IN'), ('of', 'IN'), ('your', 'PRP$'), ('league', 'NN'), ('here', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 190
+[('The', 'DT'), ('satchel', 'NN'), ('should', 'MD'), ('be', 'VB'), ('in', 'IN'), ('one', 'CD'), ('of', 'IN'), ('these', 'DT'), ('rooms', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 191
+[('We', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('help', 'VB'), ('running', 'VBG'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 192
+[('What', 'WP'), ("'ll", 'MD'), ('we', 'PRP'), ('do', 'VB'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 193
+[('The', 'DT'), ('bushes', 'NNS'), (',', ','), ('quick', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 194
+[('Hm', 'NNP'), ('?', '.'), ('Ah', 'NNP'), (',', ','), ('hahahaha', 'NN'), ('!', '.'), ('You', 'PRP'), ('can', 'MD'), ('run', 'VB'), (',', ','), ('my', 'PRP$'), ('little', 'JJ'), ('friends', 'NNS'), (',', ','), ('but', 'CC'), ('you', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('hide', 'VB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 195
+[('Split', 'NNP'), ('up', 'RB'), ('and', 'CC'), ('hide', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 196
+[('It', 'PRP'), ("'s", 'VBZ'), ('our', 'PRP$'), ('only', 'JJ'), ('chance', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 197
+[('There', 'EX'), ("'s", 'VBZ'), ('the', 'DT'), ('satchel', 'NN'), ('!', '.'), ('Got', 'VBD'), ('it', 'PRP'), ('!', '.'), ('Now', 'RB'), ('let', 'VBP'), ("'s", 'PRP'), ('go', 'VB'), ('find', 'VB'), ('the', 'DT'), ('others', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 198
+[('You', 'PRP'), ('girls', 'VBP'), ('oughtta', 'JJ'), ('watch', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ("'re", 'VBP'), ('going', 'VBG'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 199
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('Molly', 'NNP'), (',', ','), ('we', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('stop', 'VB'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 200
+[('Oh', 'UH'), (',', ','), ('darlings', 'JJ'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('so', 'RB'), ('sorry', 'JJ'), ('!', '.'), ('Are', 'NNP'), ('you', 'PRP'), ('both', 'DT'), ('alright', 'VBN'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 201
+[('We', 'PRP'), ("'re", 'VBP'), ('fine', 'JJ'), ('.', '.'), ('Have', 'VBP'), ('you', 'PRP'), ('seen', 'VBN'), ('Erebus', 'NNP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 202
+[('Seen', 'NNP'), ('him', 'PRP'), ('?', '.'), ('Seen', 'NNP'), ('him', 'PRP'), ('?', '.'), ('My', 'NNP'), ('darlings', 'NNS'), (',', ','), ('we', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('trying', 'VBG'), ('to', 'TO'), ('stay', 'VB'), ('away', 'RB'), ('from', 'IN'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 203
+[('Galaxy', 'NNP'), (',', ','), ('use', 'VB'), ('your', 'PRP$'), ('light', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 204
+[('No', 'DT'), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('!', '.'), ('Zeb', 'VB'), ('?', '.'), ('Zeb', 'NNP'), (',', ','), ('quickly', 'RB'), ('!', '.'), ('Bring', 'VBG'), ('the', 'DT'), ('satchel', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 205
+[('Keep', 'VB'), ('back', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 206
+[('Mm..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 207
+[('I', 'PRP'), ('hunger', 'VBP'), (',', ','), ('Zeb', 'NNP'), ('!', '.'), ('Feed', 'NNP'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 208
+[('My', 'PRP$'), ('pleasure', 'NN'), (',', ','), ('master', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 209
+[('Let', 'VB'), ("'s", 'POS'), ('get', 'VB'), ('Galaxy', 'NNP'), ('to', 'TO'), ('safety', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 210
+[('So', 'IN'), ('the', 'DT'), ('Shadow', 'NNP'), ('Satchel', 'NNP'), ('seems', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('the', 'DT'), ('source', 'NN'), ('of', 'IN'), ('Erebus', 'NNP'), ("'", 'POS'), ('power', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 211
+[('And', 'CC'), ('the', 'DT'), ('longer', 'JJR'), ('Erebus', 'NNP'), ('chased', 'VBD'), ('after', 'IN'), ('us', 'PRP'), (',', ','), ('and', 'CC'), ('used', 'VBD'), ('up', 'RP'), ('his', 'PRP$'), ('energy', 'NN'), (',', ','), ('the', 'DT'), ('smaller', 'JJR'), ('he', 'PRP'), ('became', 'VBD'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 212
+[('That', 'DT'), ("'s", 'VBZ'), ('right', 'JJ'), ('!', '.'), ('So', 'IN'), ('we', 'PRP'), ('if', 'IN'), ('we', 'PRP'), ('can', 'MD'), ('keep', 'VB'), ('him', 'PRP'), ('exerting', 'VBG'), ('himself', 'PRP'), ('long', 'JJ'), ('enough', 'RB'), (',', ','), ('we', 'PRP'), ('should', 'MD'), ('be', 'VB'), ('able', 'JJ'), ('to', 'TO'), ('beat', 'VB'), ('him', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 213
+[('But', 'CC'), ('we', 'PRP'), ('need', 'VBP'), ('an', 'DT'), ('army', 'NN'), ('for', 'IN'), ('that', 'DT'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 214
+[('Well', 'RB'), (',', ','), ('that', 'DT'), ("'s", 'VBZ'), ('kind', 'NN'), ('of', 'IN'), ('what', 'WP'), ('I', 'PRP'), ('had', 'VBD'), ('in', 'IN'), ('mind', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 215
+[('Quickly', 'NNP'), (',', ','), ('I', 'PRP'), ('need', 'VBP'), ('more', 'JJR'), ('!', '.'), ('That', 'IN'), ('one', 'CD'), ('pony', 'NN'), ('shadow', 'NN'), ('was', 'VBD'), ("n't", 'RB'), ('enough', 'RB'), ('!', '.'), ('I', 'PRP'), ('need', 'VBP'), ('more', 'JJR'), ('and', 'CC'), ('I', 'PRP'), ('need', 'VBP'), ('it', 'PRP'), ('now', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 216
+[('But', 'CC'), ('master', 'NN'), (',', ','), ('there', 'EX'), ('is', 'VBZ'), ("n't", 'RB'), ('any', 'DT'), ('more', 'JJR'), ('.', '.'), ('And', 'CC'), ('without', 'IN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('there', 'EX'), ("'s", 'VBZ'), ('no', 'DT'), ('way', 'NN'), ('to', 'TO'), ('lure', 'VB'), ('people', 'NNS'), ('to', 'TO'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 217
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('care', 'VB'), (',', ','), ('Zeb', 'NNP'), ('!', '.'), ('I', 'PRP'), ('need', 'VBP'), ('more', 'JJR'), ('shadows', 'NNS'), (',', ','), ('or', 'CC'), ('I', 'PRP'), ("'ll", 'MD'), ('take', 'VB'), ('yours', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 218
+[('Yes', 'UH'), (',', ','), ('yes..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 219
+[('Now', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 220
+[('Oh', 'UH'), (',', ','), ('come', 'VB'), ('on', 'IN'), (',', ','), ('I', 'PRP'), ('need', 'VBP'), ('your', 'PRP$'), ('help', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 221
+[('Now', 'RB'), ('remember..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 222
+[('I', 'PRP'), ('know', 'VBP'), (',', ','), ('I', 'PRP'), ('know', 'VBP'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('important..', 'JJ')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 223
+[('Now', 'RB'), ('remember', 'VB'), (',', ','), ('Lofty', 'NNP'), ('.', '.'), ('Stay', 'NNP'), ('low', 'JJ'), ('until', 'IN'), ('you', 'PRP'), ('get', 'VBP'), ('out', 'IN'), ('of', 'IN'), ('Grayvale', 'NNP'), ('.', '.'), ('We', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('risk', 'VB'), ('Erebus', 'NNP'), ('spotting', 'VBG'), ('you', 'PRP'), ('.', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('counting', 'VBG'), ('on', 'IN'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 224
+[('Lofty', 'NNP'), (',', ','), ('should', 'MD'), ("n't", 'RB'), ('we', 'PRP'), ('stay', 'VB'), ('lower', 'JJR'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 225
+[('You', 'PRP'), ("'re", 'VBP'), ('right', 'JJ'), (',', ','), ('Molly', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 226
+[('Woah', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 227
+[('See', 'VB'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('just', 'RB'), ('so', 'RB'), ('hard', 'JJ'), ('flying', 'VBG'), ('like', 'IN'), ('this', 'DT'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 228
+[('Lofty', 'NNP'), (',', ','), ('help', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 229
+[('What', 'WP'), ('a', 'DT'), ('lovely', 'JJ'), ('little', 'JJ'), ('girl', 'NN'), ('.', '.'), ('Your', 'PRP$'), ('shadow', 'NN'), ('is', 'VBZ'), ('just', 'RB'), ('right', 'RB'), ('for', 'IN'), ('my', 'PRP$'), ('collection', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 230
+[('NO', 'DT'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 231
+[('While', 'IN'), ('they', 'PRP'), ("'re", 'VBP'), ('playing', 'VBG'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('just', 'RB'), ('take', 'VB'), ('your', 'PRP$'), ('shadow', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 232
+[('Woah..', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 233
+[('Woah', 'UH'), ('!', '.'), ('That', 'DT'), ('was', 'VBD'), ('close', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 234
+[('Hold', 'NN'), ('on', 'IN'), (',', ','), ('we', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('a', 'DT'), ('long', 'JJ'), ('way', 'NN'), ('to', 'TO'), ('go', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 235
+[('Megan', 'NNP'), (',', ','), ('there', 'EX'), ("'s", 'VBZ'), ('no', 'DT'), ('point', 'NN'), ('in', 'IN'), ('talking', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('Grayvalians', 'NNPS'), ('.', '.'), ('They', 'PRP'), ('hate', 'VBP'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 236
+[('You', 'PRP'), ("'re", 'VBP'), ('wrong', 'JJ'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('.', '.'), ('We', 'PRP'), ('need', 'VBP'), ('them', 'PRP'), ('to', 'TO'), ('get', 'VB'), ('the', 'DT'), ('Baby', 'NNP'), ('Ponies', 'NNP'), ("'", 'POS'), ('shadows', 'NNS'), ('back', 'RB'), ('!', '.'), ('GRAYVALIANS', 'NN'), ('!', '.'), ('Together', 'RB'), (',', ','), ('we', 'PRP'), ('can', 'MD'), ('overcome', 'VB'), ('Erebus', 'NNP'), ('and', 'CC'), ('Zeb', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 237
+[('Why', 'WRB'), ('should', 'MD'), ('we', 'PRP'), ('help', 'VB'), ('you', 'PRP'), (',', ','), ('when', 'WRB'), ('you', 'PRP'), ('stand', 'VBP'), ('with', 'IN'), ('the', 'DT'), ('very', 'RB'), ('one', 'NN'), ('who', 'WP'), ('stole', 'VBZ'), ('our', 'PRP$'), ('shadows', 'NNS'), ('?', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 238
+[('Because', 'IN'), ('our', 'PRP$'), ('loved', 'JJ'), ('ones', 'NNS'), ('have', 'VBP'), ('lost', 'VBN'), ('their', 'PRP$'), ('shadows', 'NNS'), (',', ','), ('and', 'CC'), ('we', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('save', 'VB'), ('them', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 239
+[('We', 'PRP'), ('trusted', 'VBD'), ('him', 'PRP'), ('before', 'IN'), (',', ','), ('and', 'CC'), ('he', 'PRP'), ('betrayed', 'VBD'), ('our', 'PRP$'), ('trust', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 240
+[('If', 'IN'), ('you', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('trust', 'VB'), ('me', 'PRP'), (',', ','), ('trust', 'NN'), ('Megan', 'NNP'), ('and', 'CC'), ('the', 'DT'), ('Ponies', 'NNPS'), ('!', '.'), ('They-', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 241
+[('No', 'DT'), ('!', '.'), ('Go', 'VB'), ('!', '.'), ('And', 'CC'), ('leave', 'VBP'), ('us', 'PRP'), ('alone', 'RB'), ('!', '.'), ('There', 'EX'), ("'s", 'VBZ'), ('nothing', 'NN'), ('we', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 242
+[('No', 'DT'), ('shadows', 'NNS'), ('?', '.'), ('You', 'PRP'), ('let', 'VB'), ('them', 'PRP'), ('get', 'VB'), ('away', 'RB'), ('?', '.'), ('I', 'PRP'), ('must', 'MD'), ('have', 'VB'), ('more', 'JJR'), ('shadows', 'NNS'), ('!', '.'), ('Only', 'RB'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('can', 'MD'), ('get', 'VB'), ('me', 'PRP'), ('all', 'PDT'), ('the', 'DT'), ('shadows', 'NNS'), ('I', 'PRP'), ('need', 'VBP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 243
+[('I', 'PRP'), ('will', 'MD'), ('not', 'RB'), ('fail', 'VB'), ('you', 'PRP'), ('again', 'RB'), (',', ','), ('Erebus', 'UH'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 244
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('get', 'VB'), ('the', 'DT'), ('Shadow', 'NNP'), ('Satchel', 'NNP'), ('away', 'RB'), ('from', 'IN'), ('Zeb', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 245
+[('He', 'PRP'), ('and', 'CC'), ('Erebus', 'NNP'), ('are', 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('come', 'VB'), ('looking', 'VBG'), ('for', 'IN'), ('us', 'PRP'), (',', ','), ('because', 'IN'), ('we', 'PRP'), ("'re", 'VBP'), ('the', 'DT'), ('only', 'JJ'), ('ones', 'NNS'), ('around', 'IN'), ('with', 'IN'), ('shadows', 'NNS'), ('!', '.'), ('So', 'RB'), ('when', 'WRB'), ('they', 'PRP'), ('come', 'VBP'), (',', ','), ('we', 'PRP'), ('can', 'MD'), ('be', 'VB'), ('waiting', 'VBG'), ('for', 'IN'), ('them', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 246
+[('I', 'PRP'), ("'ll", 'MD'), ('stay', 'VB'), ('here', 'RB'), ('with', 'IN'), ('Lickety-Split', 'NNP'), ('and', 'CC'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('and', 'CC'), ('try', 'VB'), ('to', 'TO'), ('get', 'VB'), ('them', 'PRP'), ('from', 'IN'), ('behind', 'IN'), (',', ','), ('okay', 'VB'), ('?', '.'), ('You', 'PRP'), ('and', 'CC'), ('the', 'DT'), ('sheriff', 'NN'), ('can', 'MD'), ('circle', 'VB'), ('through', 'IN'), ('the', 'DT'), ('woods', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 247
+[('We', 'PRP'), ("'d", 'MD'), ('better', 'VB'), ('do', 'VB'), ('SOMETHING', 'JJR'), ('!', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('here', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 248
+[('Now', 'RB'), ("'s", 'VBZ'), ('our', 'PRP$'), ('chance', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 249
+[('There', 'EX'), ('they', 'PRP'), ('are', 'VBP'), (',', ','), ('Zeb', 'NNP'), ('!', '.'), ('Return', 'NN'), ('to', 'TO'), ('me', 'PRP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ("'ll", 'MD'), ('forgive', 'VB'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 250
+[('You', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('fool', 'VB'), ('me', 'PRP'), ('any', 'DT'), ('more', 'RBR'), (',', ','), ('Erebus', 'NNP'), ('!', '.'), ('I', 'PRP'), ("'ll", 'MD'), ('never', 'RB'), ('return', 'VB'), ('!', '.'), ('And', 'CC'), ('I', 'PRP'), ('WO', 'VBP'), ("N'T", 'NNP'), ('let', 'VB'), ('you', 'PRP'), ('hurt', 'VB'), ('my', 'PRP$'), ('friends', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 251
+[('Surrender', 'NNP'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('you', 'PRP'), ('and', 'CC'), ('your', 'PRP$'), ('friends', 'NNS'), ('ca', 'MD'), ("n't", 'RB'), ('stop', 'VB'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 252
+[('You', 'PRP'), ('must', 'MD'), ('return', 'VB'), ('to', 'TO'), ('me', 'PRP'), ('.', '.'), ('Your', 'PRP$'), ('friends', 'NNS'), ('can', 'MD'), ('not', 'RB'), ('protect', 'VB'), ('you', 'PRP'), ('!', '.'), ('Now', 'RB'), ('feed', 'VBP'), ('me', 'PRP'), ('!', '.'), ('Give', 'VB'), ('me', 'PRP'), ('that', 'IN'), ('shadow', 'NN'), ('now', 'RB'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 253
+[('Going', 'VBG'), ('someplace', 'NN'), ('?', '.'), ('Zeb', 'NNP'), ("'s", 'POS'), ('waitin', 'NN'), ("'", "''"), ('for', 'IN'), ('ya', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 254
+[('Leave', 'VB'), ('this', 'DT'), ('place', 'NN'), (',', ','), ('Erebus', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 255
+[('Listen', 'VBN'), ('to', 'TO'), ('him', 'PRP'), (',', ','), ('Zeb', 'NNP'), ('-', ':'), ('he', 'PRP'), ("'s", 'VBZ'), ('giving', 'VBG'), ('me', 'PRP'), ('orders', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 256
+[('Such', 'JJ'), ('rudeness', 'NN'), (',', ','), ('and', 'CC'), ('after', 'IN'), ('everything', 'NN'), ('you', 'PRP'), ("'ve", 'VBP'), ('done', 'VBN'), ('for', 'IN'), ('him', 'PRP'), (',', ','), ('too', 'RB'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 257
+[('You', 'PRP'), ('should', 'MD'), ('have', 'VB'), ('stuck', 'VBN'), ('with', 'IN'), ('me', 'PRP'), (',', ','), ('my', 'PRP$'), ('boy', 'NN'), ('!', '.'), ('I', 'PRP'), ('would', 'MD'), ('have', 'VB'), ('made', 'VBN'), ('you', 'PRP'), ('famous', 'JJ'), (',', ','), ('and', 'CC'), ('you', 'PRP'), ('could', 'MD'), ('have', 'VB'), ('supplied', 'VBN'), ('me', 'PRP'), ('with', 'IN'), ('shadows', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 258
+[('Spare', 'NNP'), ('him', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 259
+[('A', 'DT'), ('mother', 'NN'), ("'s", 'POS'), ('love', 'NN'), ('!', '.'), ('How', 'WRB'), ('touching', 'JJ'), ('!', '.'), ('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('you', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('want', 'VB'), ('your', 'PRP$'), ('mother', 'NN'), ('to', 'TO'), ('suffer', 'VB'), (',', ','), ('do', 'VB'), ('you', 'PRP'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 260
+[('Hey', 'NNP'), (',', ','), ('Boss', 'NNP'), (',', ','), ('we', 'PRP'), ('got', 'VBD'), ("'em", 'PRP'), ('!', '.'), ('Aww', 'NNP'), (',', ','), ('we', 'PRP'), ('got', 'VBD'), ('the', 'DT'), ('big', 'JJ'), ('Cheesies', 'NNS'), (',', ','), ('hurr', 'NN'), ('hurr..', 'NN')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 261
+[('Seize', 'VB'), ('them', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 262
+[('Oh..', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 263
+[('Mother', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 264
+[('Knight', 'NNP'), ('Shade', 'NNP'), (',', ','), ('you', 'PRP'), ('know', 'VBP'), ('I', 'PRP'), ("'m", 'VBP'), ('the', 'DT'), ('only', 'JJ'), ('one', 'NN'), ('that', 'WDT'), ('has', 'VBZ'), ('really', 'RB'), ('had', 'VBD'), ('the', 'DT'), ('power', 'NN'), ('to', 'TO'), ('do', 'VB'), ('anything', 'NN'), ('for', 'IN'), ('you', 'PRP'), ('!', '.'), ('Remember', 'VB'), ('the', 'DT'), ('fame', 'NN'), ('?', '.'), ('The', 'DT'), ('adoring', 'VBG'), ('fans', 'NNS'), ('?', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 265
+[('It', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('worth', 'JJ'), ('it', 'PRP'), ('any', 'DT'), ('more', 'RBR'), (',', ','), ('Erebus', 'NNP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 266
+[('You', 'PRP'), ("'re", 'VBP'), ('a', 'DT'), ('real', 'JJ'), ('fool', 'NN'), ('.', '.'), ('Zeb', 'NNP'), ('!', '.'), ('Another', 'DT'), ('shadow', 'NN'), ('.', '.'), ('This', 'DT'), ('time', 'NN'), (',', ','), ('get', 'VB'), ('his', 'PRP$'), ('friend', 'NN'), (',', ','), ('who', 'WP'), ('thinks', 'VBZ'), ('she', 'PRP'), ("'s", 'VBZ'), ('been', 'VBN'), ('hiding', 'VBG'), ('from', 'IN'), ('us', 'PRP'), ('in', 'IN'), ('the', 'DT'), ('bushes', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 267
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 268
+[('I', 'PRP'), ("'ll", 'MD'), ('just', 'RB'), ('take', 'VB'), ('your', 'PRP$'), ('shadow', 'NN'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 269
+[('No', 'DT'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 270
+[('Go', 'VB'), ('away', 'RB'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('bother', 'VB'), ('me', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 271
+[('YOU', 'NN'), ('!', '.'), ('Because', 'IN'), ('of', 'IN'), ('you', 'PRP'), ('and', 'CC'), ('your', 'PRP$'), ('friend', 'NN'), (',', ','), ('Knight', 'NNP'), ('Shade', 'NNP'), ('turned', 'VBD'), ('against', 'IN'), ('me', 'PRP'), ('!', '.'), ('Soon', 'RB'), ('you', 'PRP'), ("'ll", 'MD'), ('join', 'VB'), ('him', 'PRP'), ('in', 'IN'), ('his', 'PRP$'), ('torment', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 272
+[('I', 'PRP'), ('have', 'VBP'), ('a', 'DT'), ('surprise', 'NN'), ('for', 'IN'), ('you', 'PRP'), (',', ','), ('Erebus', 'NNP'), ('.', '.'), ('The', 'DT'), ('Flutter', 'NNP'), ('Ponies', 'NNPS'), ('!', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('to', 'TO'), ('defeat', 'VB'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 273
+[('ZEB', 'NN'), ('!', '.'), ('Zeb', 'UH'), ('!', '.'), ('The', 'DT'), ('satchel', 'NN'), (',', ','), ('use', 'VB'), ('it', 'PRP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 274
+[('EREBUS', 'NN'), ('!', '.'), ('HELP', 'NNP'), ('ME', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 275
+[('The', 'DT'), ('shadows', 'NNS'), ('are', 'VBP'), ('returning', 'VBG'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 276
+[('They', 'PRP'), ("'re", 'VBP'), ('getting', 'VBG'), ('their', 'PRP$'), ('shadows', 'NNS'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 277
+[('Shadows', 'NNS'), ('!', '.'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 278
+[('To', 'TO'), ('think', 'VB'), ('that', 'IN'), ('those', 'DT'), ('pathetic', 'JJ'), ('creatures', 'NNS'), ('caused', 'VBD'), ('such', 'JJ'), ('problems', 'NNS'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 279
+[('But', 'CC'), ('it', 'PRP'), ("'ll", 'MD'), ('never', 'RB'), ('happen', 'VB'), ('again', 'RB'), ('.', '.'), ('And', 'CC'), ('we', 'PRP'), ('have', 'VBP'), ('Knight', 'VBN'), ('Shade', 'NNP'), ('to', 'TO'), ('thank', 'VB'), ('for', 'IN'), ('that', 'DT'), ('!', '.'), ('Three', 'CD'), ('cheers', 'NNS'), ('for', 'IN'), ('Knight', 'NNP'), ('Shade', 'NNP'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 280
+[('Hip', 'NNP'), ('hip', 'NN'), (',', ','), ('hooray', 'NN'), ('!', '.'), ('Hip', 'NNP'), ('hip', 'NN'), (',', ','), ('hooray', 'NN'), ('!', '.'), ('Hip', 'NNP'), ('hip', 'NN'), (',', ','), ('hooray', 'NN'), ('!', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 281
+[('I', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('deserve', 'VB'), ('your', 'PRP$'), ('cheers', 'NNS'), ('.', '.'), ('I', 'PRP'), ('just', 'RB'), ('hope', 'VBP'), ('you', 'PRP'), ("'ll", 'MD'), ('forget', 'VB'), ('what', 'WP'), ('I', 'PRP'), ('did', 'VBD'), (',', ','), ('and', 'CC'), ('forgive', 'JJ'), ('me', 'PRP'), ('.', '.')]
+mlpaf-s1e4-dialog-brightlights.txt - line: 282
+[('Knight', 'NNP'), ('Shade', 'NNP'), ('wonderfulest', 'JJS'), (',', ','), ('bravest', 'JJS'), ('hero', 'NN'), ('ever', 'RB'), ('.', '.')]
+
+Analyzing: mlpaf-s2e4-dialog-somnambula.txt
+mlpaf-s2e4-dialog-somnambula.txt - line: 1
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('get', 'VB'), ('these', 'DT'), ('banners', 'NNS'), ('and', 'CC'), ('bows', 'NNS'), ('and', 'CC'), ('balloons', 'NNS'), ('and', 'CC'), ('things', 'NNS'), ('up', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 2
+[('You', 'PRP'), ("'re", 'VBP'), ('certainly', 'RB'), ('on', 'IN'), ('cloud', 'NNS'), ('nine', 'CD'), ('today', 'NN'), (',', ','), ('Truly', 'NNP'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 3
+[('But', 'CC'), ('of', 'IN'), ('course', 'NN'), (',', ','), ('Paradise', 'NNP'), ('!', '.'), ('The', 'DT'), ('Big', 'NNP'), ('Brother', 'NNP'), ('Ponies', 'NNPS'), ('are', 'VBP'), ('comin', 'VBN'), ("'", "''"), ('home', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 4
+[('Gee', 'NNP'), (',', ','), ('what', 'WP'), ('if', 'IN'), ('the', 'DT'), ('Big', 'NNP'), ('Brothers', 'NNPS'), ('do', 'VBP'), ("n't", 'RB'), ('make', 'VB'), ('it', 'PRP'), ('on', 'IN'), ('time', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 5
+[('Who', 'WP'), ('knows', 'VBZ'), ('what', 'WP'), ('might', 'MD'), ('have', 'VB'), ('happened', 'VBN'), ('to', 'TO'), ('them', 'PRP'), ('?', '.'), ('And', 'CC'), ('a', 'DT'), ('year', 'NN'), ("'s", 'POS'), ('an', 'DT'), ('awfully', 'RB'), ('long', 'JJ'), ('time..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 6
+[('You', 'PRP'), ("'re", 'VBP'), ('speaking', 'VBG'), ('of', 'IN'), ('the', 'DT'), ('Big', 'NNP'), ('Brothers', 'NNPS'), ('!', '.'), ('They', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('here', 'RB'), ('alright', 'JJ'), ('!', '.'), ('And', 'CC'), ('they', 'PRP'), ("'ll", 'MD'), ('be', 'VB'), ('on', 'IN'), ('time', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 7
+[('Surprise', 'NN'), ('!', '.'), ('!', '.'), ('Hiya', 'NNP'), ('Buttons', 'NNPS'), ('!', '.'), ('Was', 'VBP'), ("n't", 'RB'), ('that', 'IN'), ('a', 'DT'), ('good', 'JJ'), ('surprise', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 8
+[('Uh', 'NNP'), (',', ','), ('sure', 'JJ'), ('!', '.'), ('Now', 'RB'), ('help', 'VB'), ('me', 'PRP'), ('replace', 'VB'), ('all', 'PDT'), ('these', 'DT'), ("'surprise", 'NNP'), ("'", 'POS'), ('balloons', 'NNS'), ('!', '.'), ('Do', 'VBP'), ('you', 'PRP'), ('hear', 'VB'), ('something..', 'NNS'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 9
+[('A', 'DT'), ('bit', 'NN'), ('louder', 'NN'), (',', ','), ('perhaps..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 10
+[('It', 'PRP'), ('sounds', 'VBZ'), ('like', 'IN'), ('a', 'DT'), ('circus', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 11
+[('Now', 'RB'), (',', ','), ('Kyrie', 'NNP'), (',', ','), ('sing', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 12
+[('No', 'DT'), (',', ','), ('Somnambula', 'NNP'), (',', ','), ('please', 'NN'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('make', 'VB'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 13
+[('SING', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 14
+[('Let', 'VB'), ("'s", 'POS'), ('see', 'VB'), ('what', 'WP'), ('it', 'PRP'), ('is..', 'VBD')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 15
+[('Paradise', 'NN'), ('!', '.'), ('What', 'WP'), ('are', 'VBP'), ('you', 'PRP'), ('doing', 'VBG'), ('?', '.'), ('!', '.'), ('You-', 'JJ'), ('aaoh', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 16
+[('But', 'CC'), ('the', 'DT'), ('party', 'NN'), ('!', '.'), ('Oh', 'NNP'), ('well', 'RB'), (',', ','), ('it', 'PRP'), ('does', 'VBZ'), ("n't", 'RB'), ('matter..', 'VB')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 17
+[('No-', 'JJ'), ('Lofty', 'NNP'), ('!', '.'), ('You', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('!', '.'), ('The', 'DT'), ('party', 'NN'), ('!', '.'), ('Everybody', 'NN'), ('!', '.'), ('PLEASE', 'NNP'), ('do', 'VBP'), ("n't", 'RB'), ('do', 'VB'), ('this', 'DT'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 18
+[('We', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('play', 'VB'), ('this', 'DT'), ('when', 'WRB'), ('the', 'DT'), ('Big', 'NNP'), ('Brothers', 'NNPS'), ('cross', 'VBP'), ('the', 'DT'), ('finish', 'JJ'), ('line', 'NN'), (',', ','), ('so', 'IN'), ('get', 'VB'), ('it', 'PRP'), ('right', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 19
+[('You', 'PRP'), ('hear', 'VBP'), ('somethin', 'JJ'), ("'", 'POS'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 20
+[('I', 'PRP'), ('surely', 'RB'), ('do', 'VBP'), ('-', ':'), ('I', 'PRP'), ('hear', 'VBP'), ('the', 'DT'), ('sound', 'NN'), ('of', 'IN'), ("y'all", 'NN'), ('not', 'RB'), ('playin', 'JJ'), ("'", "''"), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 21
+[('That', 'DT'), ("'s", 'VBZ'), ('enough', 'JJ'), (',', ','), ('Kyrie', 'NNP'), ('.', '.'), ('Ah', 'NNP'), (',', ','), ('I', 'PRP'), ('feel..', 'VBP'), ('..better', 'JJ'), ('already', 'RB'), ('.', '.'), ('Welcome', 'NNP'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 22
+[('We', 'PRP'), ('thought', 'VBD'), ('we', 'PRP'), ('heard..', 'VBP'), ('a', 'DT'), ('circus', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 23
+[('And', 'CC'), ('so', 'RB'), ('you', 'PRP'), ('did', 'VBD'), ('.', '.'), ('We', 'PRP'), ('can', 'MD'), ('go', 'VB'), ('there', 'RB'), ('if', 'IN'), ('you', 'PRP'), ('like', 'VBP'), ('All', 'DT'), ('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('is', 'VBZ'), ('follow', 'VB'), ('me', 'PRP')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 24
+[('Fourth', 'NNP'), ('down', 'RB'), ('and', 'CC'), ('five', 'CD'), ('yards', 'NNS'), ('to', 'TO'), ('go', 'VB'), (',', ','), ('Steamer', 'NNP'), ('!', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('almost', 'RB'), ('home', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 25
+[('Yeah', 'UH'), (',', ','), ('and', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('ride', 'VB'), ('all', 'DT'), ('over', 'IN'), ('your', 'PRP$'), ('rails', 'NNS'), ('at', 'IN'), ('the', 'DT'), ('finish', 'JJ'), ('line', 'NN'), (',', ','), ('Score', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 26
+[('Ah', 'NNP'), (',', ','), ('just', 'RB'), ('think', 'VB'), (',', ','), ('Salty', 'NN'), ('!', '.'), ('In', 'IN'), ('a', 'DT'), ('few', 'JJ'), ('moments', 'NNS'), (',', ','), ('we', 'PRP'), ("'ll", 'MD'), ('see', 'VB'), ('Paradise', 'NNP'), ('Estate', 'NNP'), ('again', 'RB'), ('!', '.'), ('Ah', 'NNP'), (',', ','), ('after', 'IN'), ('all', 'PDT'), ('this', 'DT'), ('time..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 27
+[('Aye', 'NNP'), (',', ','), ('matey', 'NN'), ('!', '.'), ('We', 'PRP'), ("'ll", 'MD'), ('hoist', 'VB'), ('our', 'PRP$'), ('jim', 'NN'), ('and', 'CC'), ('lay', 'VB'), ('ha-hard', 'NN'), ('into', 'IN'), ('port', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 28
+[('Uh', 'NN'), ('...', ':'), ('right', 'RB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 29
+[('Reckon', 'NNP'), ('you', 'PRP'), ("'re", 'VBP'), ('lookin', 'JJ'), ("'", "''"), ('forward', 'RB'), ('to', 'TO'), ('seein', 'VB'), ("'", "''"), ('them', 'PRP'), ('lil', 'VBP'), ("'", "''"), ('fillies', 'NNS'), ('when', 'WRB'), ('we', 'PRP'), ('get', 'VBP'), ('home', 'RB'), (',', ','), ('eh', 'JJ'), ('Slugger', 'NNP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 30
+[('Yep', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 31
+[('Especially', 'RB'), ('that', 'IN'), ('there', 'EX'), ('Buttons', 'NNP'), (',', ','), ('huh', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 32
+[('Yep..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 33
+[('Hm..', 'NNP'), ('sure', 'JJ'), ('hope', 'NN'), ('she', 'PRP'), ('can', 'MD'), ('improve', 'VB'), ('your', 'PRP$'), ('talkin', 'NN'), ("'", "''"), ('abilities', 'NNS'), ('some', 'DT'), ('!', '.'), ('Yee-haw', 'JJ'), ('!', '.'), ('Gon', 'NNP'), ('na', 'TO'), ('bust', 'VB'), ('your', 'PRP$'), ('chops', 'NNS'), (',', ','), ('Score', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 34
+[('It', 'PRP'), ('ai', 'VBP'), ("n't", 'RB'), ('a', 'DT'), ('touchdown', 'JJ'), ("'til", 'NN'), ('you', 'PRP'), ('pass', 'VBP'), ('the', 'DT'), ('goalpost', 'NN'), (',', ','), ('Tex', 'NNP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 35
+[('Ho-ho-ho', 'NNP'), (',', ','), ('blow', 'IN'), ('me', 'PRP'), ('down', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 36
+[('Where', 'WRB'), ('IS', 'VBZ'), ('everybody', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 37
+[('Maybe', 'RB'), ('they', 'PRP'), ('forgot', 'VBP'), ('we', 'PRP'), ('was', 'VBD'), ('comin', 'VBG'), ("'", 'POS'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 38
+[('Ah', 'NNP'), (',', ','), ('not', 'RB'), ('the', 'DT'), ('Little', 'JJ'), ('Ponies', 'NNPS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 39
+[('N-not', 'JJ'), ('Buttons', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 40
+[('They', 'PRP'), ("'d", 'MD'), ('never', 'RB'), ('forget', 'VB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 41
+[('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('it', 'PRP'), ('!', '.'), ('This', 'DT'), ('is', 'VBZ'), ('all', 'PDT'), ('a', 'DT'), ('gag', 'NN'), ('!', '.'), ('All', 'DT'), ('we', 'PRP'), ('got', 'VBD'), ('ta', 'JJ'), ('do', 'NN'), ('is', 'VBZ'), ('walk', 'VB'), ('through', 'IN'), ('that', 'DT'), ('door', 'NN'), (',', ','), ('and', 'CC'), ('they', 'PRP'), ("'ll", 'MD'), ('all', 'DT'), ('jump', 'VB'), ('out', 'RP'), ('yelling', 'VBG'), ('``', '``'), ('surprise', 'NN'), ('!', '.'), ('``', '``'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 42
+[('It', 'PRP'), ("'s", 'VBZ'), ('the', 'DT'), ('Big', 'NNP'), ('Brothers', 'NNPS'), ("y'all", 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 43
+[('Ah', 'NNP'), (',', ','), ('you', 'PRP'), ('can', 'MD'), ('jump', 'VB'), ('out', 'RB'), ('and', 'CC'), ('surprise', 'VB'), ('us', 'PRP'), ('now', 'RB')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 44
+[('Anybody', 'NN'), ('home', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 45
+[('Ahoy', 'NNP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 46
+[('There', 'EX'), ('is', 'VBZ'), ('something', 'NN'), ('seriously', 'RB'), ('wrong', 'JJ'), ('here', 'RB'), ('.', '.'), ('Who', 'WP'), ('could', 'MD'), ('imagine', 'VB'), ('we', 'PRP'), ("'d", 'MD'), ('return', 'VB'), ('after', 'IN'), ('all', 'DT'), ('this', 'DT'), ('time', 'NN'), ('to', 'TO'), ('find', 'VB'), ('Paradise', 'NNP'), ('Estate', 'NNP'), ('abandoned', 'VBD'), ('?', '.'), ('Devoid', 'NNP'), ('of', 'IN'), ('life', 'NN'), ('?', '.'), ('Silent', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 47
+[('You', 'PRP'), ("'re", 'VBP'), ('here', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 48
+[('You', 'PRP'), ("'re", 'VBP'), ('here', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 49
+[('Hooray', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 50
+[('Me', 'JJ'), ('hap-py', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 51
+[('What', 'WP'), ('happened', 'VBD'), ('to', 'TO'), ('everybody', 'VB'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 52
+[('They', 'PRP'), ('heard', 'VBD'), ('the', 'DT'), ('sound', 'NN'), ('of', 'IN'), ('a', 'DT'), ('circus', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 53
+[('And', 'CC'), ('they', 'PRP'), ('all', 'DT'), ('just', 'RB'), ('up', 'RB'), ('and', 'CC'), ('left', 'VBD'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 54
+[('Like', 'IN'), ('they', 'PRP'), ('were', 'VBD'), ('in', 'IN'), ('some', 'DT'), ('kind', 'NN'), ('of', 'IN'), ('trance', 'NN'), ('or', 'CC'), ('something', 'NN'), ('!', '.'), ('I', 'PRP'), ('heard', 'VBD'), ('it', 'PRP'), (',', ','), ('but', 'CC'), ('it', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('bother', 'VB'), ('me', 'PRP'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 55
+[('Me', 'NNP'), ('heard', 'VBD'), ('it', 'PRP'), ('too', 'RB'), (',', ','), ('but', 'CC'), ('no', 'DT'), ('make', 'VB'), ('me', 'PRP'), ('go', 'VB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 56
+[('Hm', 'NNP'), ('.', '.'), ('It', 'PRP'), ('sounds', 'VBZ'), ('like', 'IN'), ('it', 'PRP'), ('affects', 'VBZ'), ('JUST', 'NNP'), ('the', 'DT'), ('Little', 'NNP'), ('Ponies', 'NNPS'), (',', ','), ('and', 'CC'), ('not', 'RB'), ('the', 'DT'), ('babies', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 57
+[('And', 'CC'), ('not', 'RB'), ('baby', 'JJ'), ('dragons', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 58
+[('What', 'WP'), ("d'you", 'VBZ'), ('think', 'VBP'), ('we', 'PRP'), ('should', 'MD'), ('do', 'VB'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 59
+[('I', 'PRP'), ('think', 'VBP'), ('Truly', 'RB'), ('and', 'CC'), ('the', 'DT'), ('others', 'NNS'), ('should', 'MD'), ('wait', 'VB'), ('here', 'RB'), ('!', '.'), ('While', 'IN'), ('we', 'PRP'), ('go', 'VBP'), ('find', 'JJ'), ("'em", 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 60
+[('They', 'PRP'), ("'re", 'VBP'), ('just', 'RB'), ('so', 'RB'), ('dashing', 'VBG'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 61
+[('And', 'CC'), ('brave', 'VB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 62
+[('Oh', 'UH'), (',', ','), ('I', 'PRP'), ('do', 'VBP'), ('hope', 'RB'), ('they', 'PRP'), ('can', 'MD'), ('rescue', 'VB'), ('the', 'DT'), ('others..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 63
+[('Ah..', 'IN'), ('I', 'PRP'), ('can', 'MD'), ('feel', 'VB'), ('my', 'PRP$'), ('powers', 'NNS'), ('increasing', 'VBG'), ('already', 'RB'), ('!', '.'), ('Now', 'RB'), ('I', 'PRP'), ('can', 'MD'), ('make', 'VB'), ('all', 'DT'), ('this', 'DT'), ('real', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 64
+[('Oh', 'UH'), ('yes', 'UH'), (',', ','), ('oh', 'JJ'), ('yes', 'UH'), (',', ','), ('oh', 'JJ'), ('yes', 'UH'), (',', ','), ('here', 'RB'), ('it', 'PRP'), ('is', 'VBZ'), ('!', '.'), ('The', 'DT'), ('wonder', 'NN'), ('kitchen', 'NN'), (',', ','), ('bake', 'VB'), ('to', 'TO'), ('your', 'PRP$'), ('heart', 'NN'), ("'s", 'POS'), ('content', 'NN'), ('!', '.'), ('Step', 'NN'), ('right', 'RB'), ('up', 'RB'), (',', ','), ('folks', 'NNS'), ('!', '.'), ('The', 'DT'), ('gardener', 'NN'), ("'s", 'POS'), ('delight', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 65
+[('Oh', 'UH'), ('boy', 'NN'), (',', ','), ('seeds', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 66
+[('Ice', 'NNP'), ('cream', 'NN'), (',', ','), ('ladies', 'NNS'), ('and', 'CC'), ('gents', 'NNS'), ('!', '.'), ('All', 'DT'), ('you', 'PRP'), ('can', 'MD'), ('eat', 'VB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 67
+[('I', 'PRP'), ("'ll", 'MD'), ('have', 'VB'), ('one', 'CD'), ('of', 'IN'), ('each', 'DT'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 68
+[('We', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('following', 'VBG'), ('the', 'DT'), ('Ponies', 'NNPS'), ("'", 'POS'), ('tracks', 'NNS'), ('all', 'DT'), ('day', 'NN'), ('without', 'IN'), ('a', 'DT'), ('sign', 'NN'), ('of', 'IN'), ("'em", 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 69
+[('And', 'CC'), ('it', 'PRP'), ("'s", 'VBZ'), ('getting', 'VBG'), ('dark', 'JJ'), ('!', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'NNS'), ('have', 'VBP'), ('to', 'TO'), ('bed', 'VB'), ('down', 'RP'), ('soon', 'RB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 70
+[('N-no', 'JJ'), ('!', '.'), ('We', 'PRP'), ('keep', 'VBP'), ('searching', 'VBG'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 71
+[('No', 'DT'), ('way', 'NN'), (',', ','), ('Slugger', 'NNP'), ('!', '.'), ('Why', 'WRB'), (',', ','), ('in', 'IN'), ('five', 'CD'), ('minutes', 'NNS'), (',', ','), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('be', 'VB'), ('able', 'JJ'), ('to', 'TO'), ('see', 'VB'), ('your', 'PRP$'), ('own', 'JJ'), ('nose', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 72
+[('Now', 'RB'), (',', ','), ('Kyrie', 'NNP'), ('-', ':'), ('sing', 'NN'), ('for', 'IN'), ('me', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 73
+[('No', 'DT'), (',', ','), ('Somnambula', 'RB'), ('!', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('not', 'RB'), ('right', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 74
+[('I', 'PRP'), ('have', 'VBP'), ('the', 'DT'), ('power', 'NN'), ('to', 'TO'), ('make', 'VB'), ('my', 'PRP$'), ('illusions', 'NNS'), ('real', 'JJ'), ('now', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 75
+[('Uh-', 'JJ'), ('ah-', 'JJ'), ('alright', 'NN'), (',', ','), ('alright', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 76
+[('TRULY', 'RB'), ('!', '.'), ('Come', 'NNP'), ('on', 'IN'), ('!', '.'), ('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('stop', 'VB'), ('her', 'PRP$'), ('!', '.'), ('Hurry', 'NN'), ('!', '.'), ('Oh', 'UH'), (',', ','), ('Truly', 'NNP'), (',', ','), ('wake', 'VBP'), ('up', 'RP'), ('!', '.'), ('Oh', 'UH'), ('no', 'DT'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 77
+[('Not', 'RB'), ('Big', 'NNP'), ('Brothers', 'NNS'), ('too', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 78
+[('We', 'PRP'), ('got', 'VBD'), ('ta', 'RB'), ('break', 'VB'), ('their', 'PRP$'), ('trance', 'NN'), ('somehow', 'NN'), ('!', '.'), ('Oh', 'UH'), (',', ','), ('I', 'PRP'), ('hate', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('this', 'DT'), (',', ','), ('but..', 'VB'), ('LET', 'NNP'), ("'EM", 'PRP'), ('HAVE', 'VB'), ('IT', 'NNP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 79
+[('What', 'WP'), ('in', 'IN'), ('the', 'DT'), ('sam', 'NN'), ('hill..', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 80
+[('What', 'WP'), ("'re", 'VBP'), ('we', 'PRP'), ('doin', 'VBP'), ("'", "''"), ('here', 'RB'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 81
+[('Somebody', 'NN'), ('knocked', 'VBD'), ('us', 'PRP'), ('off', 'RP'), ('the', 'DT'), ('tracks', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 82
+[('It', 'PRP'), ('was', 'VBD'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 83
+[('What', 'WP'), ("'s", 'VBZ'), ('that', 'DT'), ('singin', 'NN'), ("'", "''"), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 84
+[('It', 'PRP'), ("'s", 'VBZ'), ('funny', 'JJ'), ('singing', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 85
+[('It', 'PRP'), ('makes', 'VBZ'), ('all', 'PDT'), ('the', 'DT'), ('grown-up', 'JJ'), ('ponies', 'NNS'), ('act', 'VBP'), ('strange', 'JJ'), ('!', '.'), ('Even', 'RB'), ('Big', 'NNP'), ('Brothers', 'NNPS'), (',', ','), ('like', 'IN'), ('they', 'PRP'), ('walkin', 'VBP'), ("'", "''"), ('in', 'IN'), ('sleep', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 86
+[('Where', 'WRB'), ("'s", 'VBZ'), ('it', 'PRP'), ('coming', 'VBG'), ('from', 'IN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 87
+[('Right', 'RB'), ('there', 'EX'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 88
+[('Slugger', 'NN'), ('!', '.'), ('What', 'WP'), ("'re", 'VBP'), ('you', 'PRP'), ('doing', 'VBG'), ('?', '.'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 89
+[('Truly', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 90
+[('Ah', 'NN'), ('!', '.'), ('Oh', 'UH'), (',', ','), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 91
+[('Come', 'NNP'), ('back', 'RB'), ('!', '.'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 92
+[('Ah', 'NNP'), (',', ','), ('you', 'PRP'), ('okay', 'VBP'), ('good', 'JJ'), ('buddy', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 93
+[('Yep', 'NN'), (',', ','), ('I-I', 'NNP'), ('think', 'VBP'), ('so..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 94
+[('THAT', 'DT'), ("'S", 'VBZ'), ('where', 'WRB'), ('we', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('go', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 95
+[('Looks', 'VBZ'), ('a', 'DT'), ('mite', 'JJ'), ('dangerous', 'JJ'), (',', ','), ('Score', 'NNP'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 96
+[('That', 'DT'), ("'s", 'VBZ'), ('where', 'WRB'), ('the', 'DT'), ('Little', 'JJ'), ('Ponies', 'NNPS'), ('are', 'VBP'), (',', ','), ('Tex', 'NNP'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 97
+[('That', 'DT'), ("'s", 'VBZ'), ('where', 'WRB'), ('Buttons', 'NNP'), ('is', 'VBZ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 98
+[('Then', 'RB'), ('that', 'DT'), ("'s", 'VBZ'), ('where', 'WRB'), ('we', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('go', 'VB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 99
+[('Now', 'RB'), (',', ','), ('you', 'PRP'), ('lil', 'VBP'), ("'", "''"), ("'uns", 'NNS'), ('head', 'VBP'), ('back', 'RB'), ('up', 'IN'), ('to', 'TO'), ('the', 'DT'), ('hills', 'NNS'), ('and', 'CC'), ('stay', 'VB'), ('safe', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 100
+[('Come', 'NNP'), ('on', 'IN'), (',', ','), ('let', 'VB'), ("'s", 'POS'), ('see', 'VB'), ('some', 'DT'), ('teamwork', 'NN'), ('!', '.'), ('Now', 'RB'), ('that', 'DT'), ("'s", 'VBZ'), ('what', 'WP'), ('I', 'PRP'), ('call', 'VBP'), ('teamwork', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 101
+[('Boy', 'NNP'), ('howdy..', 'NN')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 102
+[('I', 'PRP'), ("'m", 'VBP'), ('beginnin', 'JJ'), ("'", "''"), ('to', 'TO'), ('understand', 'VB'), ('why', 'WRB'), ('all', 'PDT'), ('the', 'DT'), ('Little', 'NNP'), ('Ponies', 'NNPS'), ('left', 'VBD'), ('home', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 103
+[('Maybe', 'RB'), ('.', '.'), ('But', 'CC'), ('there', 'EX'), ("'s", 'VBZ'), ('something', 'NN'), ('weird', 'JJ'), ('about', 'IN'), ('all', 'DT'), ('this', 'DT'), ('.', '.'), ('Truly', 'RB'), ('!', '.'), ('Hey', 'NNP'), (',', ','), ("c'mere", 'RB'), (',', ','), ('we', 'PRP'), ('wan', 'VBP'), ('na', 'JJ'), ('talk', 'NN'), ('to', 'TO'), ('ya', 'NN'), ('!', '.'), ('Well', 'NNP'), ('how', 'WRB'), ("d'you", 'NN'), ('like', 'IN'), ('that', 'DT'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 104
+[('Lickety-Split', 'NNP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 105
+[('It', 'PRP'), ("'s", 'VBZ'), ('us', 'PRP'), ('!', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('the', 'DT'), ('Big', 'NNP'), ('Brother', 'NNP'), ('Ponies', 'NNPS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 106
+[('Not', 'RB'), ('now', 'RB'), (',', ','), ('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('ta', 'JJ'), ('get', 'VB'), ('some', 'DT'), ('more', 'RBR'), ('ice', 'JJ'), ('cream', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 107
+[('Heart', 'NNP'), ('Throb', 'NNP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 108
+[('No', 'DT'), ('!', '.'), ('I', 'PRP'), ('am', 'VBP'), ('Salome', 'NNP'), (',', ','), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('famous', 'JJ'), ('lovers', 'NNS'), ('in', 'IN'), ('history', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 109
+[('Heart', 'NNP'), ('Throb', 'NNP'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('you', 'PRP'), ('recognize', 'VB'), ('us', 'PRP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 110
+[('Go', 'VB'), ('away', 'RP'), (',', ','), ('you', 'PRP'), ("'re", 'VBP'), ('spoiling', 'VBG'), ('my', 'PRP$'), ('performance', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 111
+[('No', 'DT'), ('!', '.'), ('You', 'PRP'), ("'re", 'VBP'), ('gon', 'VBG'), ('na', 'TO'), ('listen', 'VB'), ('to', 'TO'), ('us', 'PRP'), ('!', '.'), ('Heart', 'NNP'), ('Throb..', 'NNP'), ('you', 'PRP'), ("'re", 'VBP'), ('so', 'RB'), ('old', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 112
+[('I', 'PRP'), ('feel', 'VBP'), ('fine', 'JJ'), ('!', '.'), ('Now', 'RB'), ('get', 'VBP'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), ('!', '.'), ('I', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('be', 'VB'), ('alone', 'RB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 113
+[('Gingerbread', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 114
+[('I', 'PRP'), ('just', 'RB'), ('got', 'VBD'), ('ta', 'JJ'), ('find', 'NN'), ('Buttons', 'NNP'), ('-', ':'), ('I', 'PRP'), ('got', 'VBD'), ('ta', 'RB'), ('know', 'VB'), ('if', 'IN'), ('she', 'PRP'), ("'s", 'VBZ'), ('okay', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 115
+[('That', 'DT'), ('gal', 'NN'), ("'s", 'POS'), ('face', 'NN'), ('looked', 'VBD'), ('like', 'IN'), ('40', 'CD'), ('miles', 'NNS'), ('of', 'IN'), ('bad', 'JJ'), ('road', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 116
+[('Something', 'VBG'), ('is', 'VBZ'), ('not', 'RB'), ('altogether', 'RB'), ('ship-shape', 'NN'), ('here', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 117
+[('I', 'PRP'), ("'ll", 'MD'), ('say', 'VB'), ('!', '.'), ('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('get', 'VB'), ('them', 'PRP'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), ('now', 'RB'), ('.', '.'), ('And', 'CC'), ('we', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('let', 'VB'), ('anything', 'NN'), ('stop', 'VB'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 118
+[('Woah', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 119
+[('Well', 'RB'), ('shift', 'VB'), ('my', 'PRP$'), ('gears', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 120
+[('Woah', 'NNP'), (',', ','), ('what', 'WP'), ('a', 'DT'), ('spread', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 121
+[('Ho-ho-ho', 'NNP'), (',', ','), ('blow', 'IN'), ('me', 'PRP'), ('down', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 122
+[('Now', 'RB'), ('who', 'WP'), ('could', 'MD'), ("'ve", 'VBP'), ('known', 'VBN'), ('that', 'IN'), ('football', 'NN'), ('is', 'VBZ'), ('my', 'PRP$'), ('game', 'NN'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 123
+[('Aye', 'NNP'), (',', ','), ('and', 'CC'), ('there', 'EX'), ("'s", 'VBZ'), ('the', 'DT'), ('fine', 'JJ'), ('ship', 'NN'), ('I', 'PRP'), ("'ve", 'VBP'), ('always', 'RB'), ('wanted', 'VBN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 124
+[('Wait', 'WRB'), ('a', 'DT'), ('minute', 'NN'), (',', ','), ('guys', 'NN'), ('!', '.'), ('This', 'DT'), ('is', 'VBZ'), ("n't", 'RB'), ('right', 'JJ'), ('!', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('too', 'RB'), ('perfect', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 125
+[('Yeah', 'UH'), (',', ','), ('ai', 'VBP'), ("n't", 'RB'), ('it', 'PRP'), ('just', 'RB'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 126
+[('So', 'RB'), (',', ','), ('they', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('play', 'VB'), (',', ','), ('eh', 'VB'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 127
+[('No', 'DT'), ('!', '.'), ('No', 'UH'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('make', 'VB'), ('me', 'PRP'), ('do', 'VB'), ('it', 'PRP'), ('Somnambula', 'VB'), ('!', '.'), ('What', 'WP'), ('you', 'PRP'), ("'re", 'VBP'), ('doing', 'VBG'), ('is', 'VBZ'), ('evil', 'JJ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 128
+[('I', 'PRP'), ('have', 'VBP'), ('my', 'PRP$'), ('youth', 'NN'), ('back', 'RB'), ('-', ':'), ('I', 'PRP'), ('have', 'VBP'), ('my', 'PRP$'), ('new', 'JJ'), ('powers', 'NNS'), ('!', '.'), ('YOU', 'NNP'), ('do', 'VBP'), ("n't", 'RB'), ('think', 'VB'), ('I', 'PRP'), ("'m", 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('stop', 'VB'), ('now', 'RB'), (',', ','), ('do', 'VBP'), ('you', 'PRP'), ('?', '.'), ('!', '.'), ('Now', 'RB'), (',', ','), ('sing', 'VBG'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 129
+[('No', 'DT'), ('!', '.'), ('Do', 'VBP'), ("n't", 'RB'), ('listen', 'VB'), ('to', 'TO'), ('it..', 'VB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 130
+[('All', 'DT'), ('aboard', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 131
+[('Yee-haw', 'NN'), (',', ','), ('it', 'PRP'), ("'s", 'VBZ'), ('round-up', 'JJ'), ('time', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 132
+[('Let', 'VB'), ("'s", 'POS'), ('burn', 'JJ'), ('rubber', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 133
+[('All', 'DT'), ('power', 'NN'), ('back', 'RB'), (',', ','), ('full', 'JJ'), ('speed', 'NN'), ('ahead', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 134
+[('Batter', 'NNP'), ('up', 'RP'), ('!', '.'), ('Explaining', 'NNP'), ('sports', 'NNS')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 135
+[('It', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('run', 'NN'), ('!', '.'), ('He', 'PRP'), ("'s", 'VBZ'), ('on', 'IN'), ('the', 'DT'), ('50', 'CD'), (',', ','), ('the', 'DT'), ('40', 'CD'), (',', ','), ('the', 'DT'), ('30', 'CD'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 136
+[('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('get', 'VB'), ('out', 'IN'), ('of', 'IN'), ('here', 'RB'), ('!', '.'), ('I', 'PRP'), ("'ve", 'VBP'), ('just', 'RB'), ('got', 'VBN'), ('to', 'TO'), ('!', '.'), ('Got', 'NNP'), ('ta', 'JJ'), ('get', 'VB'), ('out', 'RP'), ('!', '.'), ('Got', 'NNP'), ('ta', 'JJ'), ('get', 'VB'), ('out', 'RP'), ('!', '.'), ('Go-', 'JJ'), ('I', 'PRP'), ('am', 'VBP'), ('out', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 137
+[('Hey', 'NNP'), (',', ','), ('look', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 138
+[('Hey', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 139
+[('Over', 'IN'), ('here', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 140
+[('There', 'EX'), ('she', 'PRP'), ('is', 'VBZ'), (',', ','), ('here', 'RB'), (',', ','), ('here', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 141
+[('What', 'WP'), ("d'you", 'NN'), ('want', 'VBP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 142
+[('Have', 'VBP'), ('you', 'PRP'), ('seen', 'VBN'), ('the', 'DT'), ('ponies', 'NNS'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 143
+[('They', 'PRP'), ("'re", 'VBP'), ('in', 'IN'), ('there', 'RB'), (',', ','), ('and', 'CC'), ('they', 'PRP'), ("'re", 'VBP'), ('all', 'DT'), ('playing', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 144
+[('What', 'WP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 145
+[('Somnambula', 'NNP'), ('made', 'VBD'), ('me', 'PRP'), ('sing', 'VBG'), ('them', 'PRP'), ('into', 'IN'), ('a', 'DT'), ('trance', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 146
+[('Who', 'WP'), ("'s", 'VBZ'), ("So'nambula", 'NNP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 147
+[('She', 'PRP'), ("'s", 'VBZ'), ('an', 'DT'), ('awful', 'JJ'), ('witch', 'NN'), (',', ','), ('who', 'WP'), ('takes', 'VBZ'), ('youth', 'NN'), ('for', 'IN'), ('herself', 'NN'), ('and', 'CC'), ('only', 'RB'), ('gives', 'VBZ'), ('back', 'RB'), ('age', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 148
+[('Y-you', 'JJ'), ('put', 'VBD'), ('them', 'PRP'), ('in', 'IN'), ('a', 'DT'), ('trance', 'NN'), ('?', '.'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 149
+[('Can', 'MD'), ('you', 'PRP'), ('put', 'VB'), ('them', 'PRP'), ('out', 'IN'), ('of', 'IN'), ('it', 'PRP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 150
+[('Well', 'RB'), (',', ','), ('I', 'PRP'), ('suppose', 'VBP'), ('I', 'PRP'), ('could', 'MD'), ('sing', 'VB'), ('a', 'DT'), ('different', 'JJ'), ('song', 'NN'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('going', 'VBG'), ('back', 'RB'), ('there', 'RB'), ('!', '.'), ('I', 'PRP'), ("'m", 'VBP'), ('not', 'RB'), ('going', 'VBG'), ('anywhere', 'RB'), ('near', 'IN'), ('Somnambula', 'NNP'), ('again', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 151
+[('But', 'CC'), ('you', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('help', 'VB'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 152
+[('Please', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 153
+[('Help', 'NN'), ('rescue', 'VB'), ('our', 'PRP$'), ('friends', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 154
+[('Help', 'VB'), ('us', 'PRP'), ('!', '.'), ('Please', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 155
+[('Okay..', 'NNP'), ('I', 'PRP'), ("'ll", 'MD'), ('help', 'VB'), ('.', '.'), ('Will', 'VB'), ('you', 'PRP'), ('come', 'VB'), ('with', 'IN'), ('me', 'PRP'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 156
+[('YES', 'UH'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 157
+[('Okay', 'NNP'), (',', ','), ('no', 'DT'), ('one', 'NN'), ("'s", 'POS'), ('around', 'IN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 158
+[('Cover', 'VB'), ('your', 'PRP$'), ('ears', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 159
+[('The', 'DT'), ('Ponies', 'NNPS'), ('!', '.'), ('Got', 'NNP'), ('to', 'TO'), ('help', 'VB'), ('them', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 160
+[('What', 'WP'), ('am', 'VBP'), ('I', 'PRP'), ('doin', 'VBP'), ("'", "''"), ('?', '.'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 161
+[('You', 'PRP'), ('came', 'VBD'), (',', ','), ('you', 'PRP'), ('rescued', 'VBD'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 162
+[('Our', 'PRP$'), ('heroes', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 163
+[('But', 'CC'), ('what', 'WP'), ("'s", 'VBZ'), ('happened', 'VBN'), ('to', 'TO'), ('us', 'PRP'), ('?', '.'), ('We', 'PRP'), ("'re", 'VBP'), ('so', 'RB'), ('old..', 'JJ')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 164
+[('Where', 'WRB'), ("'s", 'POS'), ('Buttons', 'NNP'), ('?', '.'), ('I', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('find', 'VB'), ('her', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 165
+[('Yeah', 'UH'), (',', ','), ('I', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('seen', 'VBN'), ('ANY', 'NNP'), ('of', 'IN'), ('the', 'DT'), ('unicorns', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 166
+[('And', 'CC'), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), (',', ','), ('either', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 167
+[('4-Speed', 'JJ'), (',', ','), ('Slugger', 'NNP'), (',', ','), ('come', 'VB'), ('with', 'IN'), ('me', 'PRP'), ('!', '.'), ('The', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('you', 'PRP'), ('-', ':'), ('protect', 'VB'), ('the', 'DT'), ('Little', 'JJ'), ('Ponies', 'NNPS'), ('!', '.'), ('And', 'CC'), ('bring', 'VB'), ('that', 'DT'), ('bird', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 168
+[('You', 'PRP'), ('heard', 'VBP'), ("'im", "''"), ('!', '.'), ('Let', 'NNP'), ("'s", 'POS'), ('get', 'VB'), ('down', 'RB'), ('to', 'TO'), ('business', 'NN'), ('!', '.'), ('YEE-HAW', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 169
+[('Let', 'VB'), ("'s", 'PRP'), ('break', 'VB'), ('it', 'PRP'), ('down', 'RP'), ('!', '.'), ('..Let', 'NN'), ("'s", 'POS'), ('try', 'NN'), ('again', 'RB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 170
+[('Now', 'RB'), ('you', 'PRP'), ("'ll", 'MD'), ('know', 'VB'), ('what', 'WP'), ('it', 'PRP'), ("'s", 'VBZ'), ('like', 'IN'), ('to', 'TO'), ('have', 'VB'), ('someone', 'NN'), ('gnawin', 'NN'), ("'", 'POS'), ('on', 'IN'), ('you', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 171
+[('Hey', 'NNP'), (',', ','), ('watch', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ("'re", 'VBP'), ('goin', 'JJ'), ("'", 'POS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 172
+[('This', 'DT'), ('is', 'VBZ'), ('gettin', 'JJ'), ("'", "''"), ('us', 'PRP'), ('nowhere', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 173
+[('We', 'PRP'), ("'ve", 'VBP'), ('got', 'VBN'), ('to', 'TO'), ('get', 'VB'), ('it', 'PRP'), ('open', 'JJ'), ('!', '.'), ('Remember', 'NNP'), ('Slugger', 'NNP'), ('-', ':'), ('Buttons', 'NNS'), ('is', 'VBZ'), ('probably', 'RB'), ('on', 'IN'), ('the', 'DT'), ('other', 'JJ'), ('side', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 174
+[('It', 'PRP'), ("'s", 'VBZ'), ('like', 'IN'), ('all', 'DT'), ('their', 'PRP$'), ('magic', 'NN'), ('powers', 'NNS'), ('are', 'VBP'), ('being', 'VBG'), ('sucked', 'VBN'), ('into', 'IN'), ('that', 'DT'), ('crystal', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 175
+[('So..', 'NNP'), ('that', 'WDT'), ("'s", 'VBZ'), ('it', 'PRP'), ('!', '.'), ('Somnambula', 'NNP'), ("'s", 'POS'), ('been', 'VBN'), ('getting', 'VBG'), ('her', 'PRP$'), ('youth', 'NN'), ('from', 'IN'), ('the', 'DT'), ('other', 'JJ'), ('ponies', 'NNS'), (',', ','), ('and', 'CC'), ('her', 'PRP$'), ('new', 'JJ'), ('powers', 'NNS'), ('from', 'IN'), ('the', 'DT'), ('unicorns', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 176
+[('Quite', 'RB'), ('right', 'JJ'), (',', ','), ('Kyrie', 'NNP'), ('!', '.'), ('And', 'CC'), ('I', 'PRP'), ("'ve", 'VBP'), ('no', 'DT'), ('intention', 'NN'), ('of', 'IN'), ('giving', 'VBG'), ('them', 'PRP'), ('up', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 177
+[('Woohoo', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 178
+[('Sing', 'NNP'), (',', ','), ('Kyrie', 'NNP'), ('-', ':'), ('wake', 'VBP'), ('the', 'DT'), ('unicorns', 'NNS'), ('up', 'RP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 179
+[('But', 'CC'), ('-', ':'), ('she', 'PRP'), ("can't~", 'VBZ'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 180
+[('T-then', 'NNP'), (',', ','), ('I', 'PRP'), ("'ll", 'MD'), ('stop', 'VB'), ('you', 'PRP'), ('myself', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 181
+[('Ah', 'NNP'), ('-', ':'), ('but', 'CC'), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 182
+[('Buttons', 'NNS'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 183
+[('NO', 'DT'), ('!', '.'), ('NO', 'UH'), ('!', '.'), ('!', '.'), ('No..', 'NN'), ('!', '.'), ('No', 'UH'), (',', ','), ('no', 'DT'), ('!', '.'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 184
+[('Well', 'RB'), (',', ','), ('tie', 'VB'), ('me', 'PRP'), ('up', 'RP'), ('and', 'CC'), ('brand', 'NN'), ('me', 'PRP'), ('!', '.'), ("Y'all", 'NN'), ("'s", 'POS'), ('young', 'JJ'), ('again', 'RB'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 185
+[('And', 'CC'), ('everybody', 'NN'), ("'s", 'POS'), ('safe', 'JJ'), ('and', 'CC'), ('sound', 'NN'), ('.', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 186
+[('What', 'WP'), ('about', 'IN'), ('Slugger', 'JJR'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 187
+[('And', 'CC'), ('Buttons', 'NNS'), ('?', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 188
+[('Do', 'VBP'), ("n't", 'RB'), ('worry', 'VB'), ('!', '.'), ('They', 'PRP'), ("'re", 'VBP'), ('the', 'DT'), ('safest', 'NN'), ('and', 'CC'), ('soundest', 'NN'), ('of', 'IN'), ('any', 'DT'), ('of', 'IN'), ('us', 'PRP'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 189
+[('Let', 'VB'), ("'s", 'POS'), ('hard', 'JJ'), ('a-port', 'NN'), ('and', 'CC'), ('set', 'NN'), ('sail', 'NN'), ('for', 'IN'), ('safe', 'JJ'), ('dry-dock', 'NN'), ('!', '.')]
+mlpaf-s2e4-dialog-somnambula.txt - line: 190
+[('I', 'PRP'), ("'ve", 'VBP'), ('got', 'VBD'), ('a', 'DT'), ('better', 'JJR'), ('idea', 'NN'), (',', ','), ('Salty', 'NNP'), ('-', ':'), ('let', 'NN'), ("'s", 'POS'), ('go', 'VB'), ('home', 'NN'), ('instead', 'RB'), ('?', '.')]

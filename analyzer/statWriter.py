@@ -7,7 +7,7 @@ class StatWriter:
         self.group_stats = group_stats
 
     def get_output_header_line(self, sorted_tags):
-        output_line = "File Name, Num Words, Num Tokens, Num Sentences, Ave Sentence Len, Ave Word Len"
+        output_line = "File Name, Num Words, Num Tokens, Num Sentences, Num Speakers, Ave Sentence Len, Ave Word Len"
         for tag in sorted_tags:
             #  oops.  csv logic error.  >_<
             output_line += ", " + tag

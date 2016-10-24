@@ -13,7 +13,7 @@ mlpaf: downloaded raw transcripts from
 http://www.kittieoflife.com/transcripts.htm
 
 these were very messy, so:
- I first edited them by hand to get them into a consistant state
+ I first edited them by hand to get them into a consistent state
  then I wrote a python program to process the text into dialog and speaker files for analysis
 
 
